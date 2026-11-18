@@ -173,8 +173,24 @@
 		window.addEventListener('click', unlock, true);
 	}
 
+	/**
+	 * iPhone suspends the audio context after a call, the lock screen or leaving the app, and does not wake it:
+	 * the sound «disappears». Wake it when the page is back and before every play.
+	 */
+	function wakeAudio() {
+		const c = abcjs?.synth?.activeAudioContext?.();
+		if (c && c.state !== 'running') c.resume().catch(() => {});
+	}
+	const onVisible = () => {
+		if (document.visibilityState === 'visible') wakeAudio();
+	};
+
 	onMount(async () => {
 		unmuteIos();
+		document.addEventListener('visibilitychange', onVisible);
+		window.addEventListener('pageshow', wakeAudio);
+		// a tap on the player wakes the sound first
+		audio?.addEventListener('pointerdown', wakeAudio, true);
 		abcjs = (await import('abcjs')).default;
 		draw();
 		if (abcjs.synth.supportsAudio()) {
@@ -185,7 +201,11 @@
 		window.addEventListener('resize', onResize);
 	});
 	onDestroy(() => {
-		if (typeof window !== 'undefined') window.removeEventListener('resize', onResize);
+		if (typeof window !== 'undefined') {
+			window.removeEventListener('resize', onResize);
+			window.removeEventListener('pageshow', wakeAudio);
+			document.removeEventListener('visibilitychange', onVisible);
+		}
 		ctrl?.pause?.();
 	});
 
