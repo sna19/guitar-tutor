@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { FOLK, RUSSIAN_ROCK } from '#lib/content/songbook.js';
 	import { t } from '#lib/i18n.js';
+	import { searchable } from '#lib/content/links.js';
 	let { data } = $props();
 	let decade = $state<'all' | '80' | '90' | '2000'>('all');
 	const mineKeys = $derived(new Set(data.mine.map((s) => `${s.artist}|${s.title}`.toLowerCase())));
@@ -11,7 +12,7 @@
 
 <svelte:head><title>{t('tab.songs')} · {t('app.name')}</title></svelte:head>
 
-<header class="hd"><h1>{t('tab.songs')}</h1><a class="btn" href="/songs/new">+ {t('song.add')}</a></header>
+<header class="hd"><h1>{t('tab.songs')}</h1><span class="acts"><a class="chip" href="/songs/links">🔗 {t('links.short')}</a><a class="btn" href="/songs/new">+ {t('song.add')}</a></span></header>
 
 <h2>{t('song.mine')}</h2>
 {#if data.mine.length}
@@ -28,7 +29,7 @@
 </ul>
 
 <h2>{t('song.rock')}</h2>
-<p class="muted small">{t('song.rockIntro')}</p>
+<p class="muted small">{t('song.rockIntro')} {t('links.findHint')}</p>
 <div class="chips">
 	{#each [['all', t('pieces.all')], ['80', '80-е'], ['90', '90-е'], ['2000', '2000-е']] as [k, label] (k)}
 		<button class="chip" class:on={decade === k} onclick={() => (decade = k as typeof decade)}>{label}</button>
@@ -40,7 +41,12 @@
 		{#each rock.filter((s) => s.artist === a) as s (s.title)}
 			{@const id = mineId(s.artist, s.title)}
 			<li>
-				<span>{s.title}</span>
+				<details class="find">
+					<summary>{s.title}</summary>
+					<div class="go">
+						{#each searchable() as site (site.name)}<a class="chip" href={site.search!(`${s.artist} ${s.title}`)} target="_blank" rel="noopener">{site.name} ↗</a>{/each}
+					</div>
+				</details>
 				{#if id}<a class="chip on" href="/songs/{id}">{t('song.open')}</a>{:else}<a class="chip" href="/songs/new?title={encodeURIComponent(s.title)}&artist={encodeURIComponent(s.artist)}">+ {t('song.addShort')}</a>{/if}
 			</li>
 		{/each}
@@ -89,12 +95,36 @@
 	.rock li {
 		display: flex;
 		justify-content: space-between;
-		align-items: center;
+		align-items: flex-start;
 		gap: 8px;
 		min-height: 44px;
 		border-bottom: 1px solid var(--line);
 	}
 	.rock a {
 		text-decoration: none;
+	}
+	.acts {
+		display: flex;
+		gap: 6px;
+		align-items: center;
+	}
+	.acts a {
+		text-decoration: none;
+	}
+	.find {
+		flex: 1;
+		min-width: 0;
+	}
+	.find summary {
+		cursor: pointer;
+		min-height: 44px;
+		display: flex;
+		align-items: center;
+	}
+	.go {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 6px;
+		padding-bottom: 8px;
 	}
 </style>
