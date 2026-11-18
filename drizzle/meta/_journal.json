@@ -15,6 +15,13 @@
       "when": 1795030836130,
       "tag": "0001_library",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1795034089257,
+      "tag": "0002_songs",
+      "breakpoints": true
     }
   ]
 }

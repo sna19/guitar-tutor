@@ -54,3 +54,17 @@ export const library = sqliteTable('library', {
 	size: integer('size').notNull(),
 	createdAt: createdAt()
 });
+
+/** «Мои песни»: the student's own song sheets (words with chords) — kept only on the NAS, never in the repository. */
+export const songs = sqliteTable('songs', {
+	id: integer('id').primaryKey({ autoIncrement: true }),
+	title: text('title').notNull(),
+	artist: text('artist').notNull().default(''),
+	sheet: text('sheet').notNull(),
+	capo: integer('capo').notNull().default(0),
+	tempo: integer('tempo').notNull().default(90),
+	pattern: text('pattern').notNull().default('D-DU-UDU'),
+	level: integer('level'),
+	createdAt: createdAt(),
+	updatedAt: text('updated_at')
+});

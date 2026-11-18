@@ -4,15 +4,15 @@
 	import GraduationCap from '@lucide/svelte/icons/graduation-cap';
 	import Music from '@lucide/svelte/icons/music';
 	import Guitar from '@lucide/svelte/icons/guitar';
-	import BookOpen from '@lucide/svelte/icons/book-open';
+	import MicVocal from '@lucide/svelte/icons/mic-vocal';
 	import { t, type Key } from './i18n.js';
 
 	const TABS = [
 		{ href: '/', label: 'tab.today' as Key, icon: Sun },
 		{ href: '/program', label: 'tab.program' as Key, icon: GraduationCap },
 		{ href: '/pieces', label: 'tab.pieces' as Key, icon: Music },
-		{ href: '/chords', label: 'tab.chords' as Key, icon: Guitar },
-		{ href: '/book', label: 'tab.book' as Key, icon: BookOpen }
+		{ href: '/songs', label: 'tab.songs' as Key, icon: MicVocal },
+		{ href: '/chords', label: 'tab.chords' as Key, icon: Guitar }
 	];
 	const on = (href: string) => (href === '/' ? page.url.pathname === '/' : page.url.pathname.startsWith(href));
 </script>

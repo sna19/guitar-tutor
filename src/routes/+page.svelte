@@ -23,6 +23,7 @@
 <header>
 	<h1>{t('today.title')}</h1>
 	<span class="tools">
+		<a class="chip tun" href="/tuner">{t('tuner.open')}</a>
 		<LangSwitch />
 		<a href="/settings" aria-label={t('settings')} class="gear"><Settings size={22} /></a>
 	</span>
@@ -68,6 +69,9 @@
 		display: flex;
 		align-items: center;
 		gap: 4px;
+	}
+	.tun {
+		text-decoration: none;
 	}
 	.gear {
 		display: inline-flex;

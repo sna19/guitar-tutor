@@ -72,3 +72,30 @@ export const shapeByName = (n: string) => SHAPES.find((s) => s.name === n);
 
 /** sounding MIDI pitches of a shape, low string first */
 export const pitchesOf = (s: Shape) => s.frets.map((f, i) => (f < 0 ? -1 : TUNING[i] + f)).filter((p) => p >= 0);
+
+const PCS: Record<string, number> = { C: 0, D: 2, E: 4, F: 5, G: 7, A: 9, B: 11, H: 11 };
+
+/**
+ * A shape for any chord of a song: from the library when it has one, else a barre shape — on the 6th string
+ * (E form) or the 5th (A form), whichever is lower on the neck. Qualities: major, m, 7, m7, maj7 (as major), the
+ * rest by its third (m… → minor). A slash bass is left out.
+ */
+export function shapeFor(name: string): Shape | null {
+	const n = name.replace(/^H/, 'B').replace(/\/.*$/, '');
+	const lib = shapeByName(n) ?? shapeByName(n.replace(/maj7$/, '').replace(/(sus[24]|add9|6|9)$/, ''));
+	if (lib) return lib;
+	const m = n.match(/^([A-H])([#b]?)(.*)$/);
+	if (!m) return null;
+	const pc = (PCS[m[1]] + (m[2] === '#' ? 1 : m[2] === 'b' ? -1 : 0) + 12) % 12;
+	const q = m[3];
+	const minor = /^m(?!aj)/.test(q);
+	const seventh = /7/.test(q) && !/maj7/.test(q);
+	const e = (pc - 4 + 12) % 12 || 12;
+	const a = (pc - 9 + 12) % 12 || 12;
+	const useE = e <= a;
+	const f = useE ? e : a;
+	let frets: number[];
+	if (useE) frets = minor ? (seventh ? [f, f + 2, f, f, f, f] : [f, f + 2, f + 2, f, f, f]) : seventh ? [f, f + 2, f, f + 1, f, f] : [f, f + 2, f + 2, f + 1, f, f];
+	else frets = minor ? (seventh ? [-1, f, f + 2, f, f + 1, f] : [-1, f, f + 2, f + 2, f + 1, f]) : seventh ? [-1, f, f + 2, f, f + 2, f] : [-1, f, f + 2, f + 2, f + 2, f];
+	return { name, frets, barre: { fret: f, from: 1 }, group: 'barre' };
+}

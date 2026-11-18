@@ -46,3 +46,47 @@ export function strum(pitches: number[], { spread = 28, up = false, seconds = 2.
 		src.start(t0 + (i * spread) / 1000);
 	});
 }
+
+let playing: ReturnType<typeof setTimeout>[] = [];
+
+export function stopAll() {
+	playing.forEach(clearTimeout);
+	playing = [];
+}
+
+/**
+ * An accompaniment: each chord for `beats` beats at `bpm`, strummed by the pattern — «D» down, «U» up, «-» a rest,
+ * one letter per eighth note («D-DU-UDU» is the usual «шестёрка»). `onChord(i)` tells which chord sounds now.
+ */
+export function playSequence(chords: number[][], { bpm = 90, beats = 4, pattern = 'D-DU-UDU', loop = false, onChord }: { bpm?: number; beats?: number; pattern?: string; loop?: boolean; onChord?: (i: number) => void } = {}) {
+	stopAll();
+	const eighth = 60000 / bpm / 2;
+	const steps = beats * 2;
+	let t = 0;
+	const total = chords.length * steps * eighth;
+	chords.forEach((pitches, ci) => {
+		playing.push(setTimeout(() => onChord?.(ci), t));
+		for (let s = 0; s < steps; s++) {
+			const c = pattern[s % pattern.length];
+			if (c === 'D' || c === 'U') {
+				const at = t + s * eighth;
+				playing.push(setTimeout(() => strum(c === 'U' ? pitches.slice(-4) : pitches, { up: c === 'U', spread: c === 'U' ? 14 : 22, seconds: 1.6, volume: c === 'U' ? 0.32 : 0.45 }), at));
+			}
+		}
+		t += steps * eighth;
+	});
+	playing.push(
+		setTimeout(() => {
+			onChord?.(-1);
+			if (loop) playSequence(chords, { bpm, beats, pattern, loop, onChord });
+		}, total)
+	);
+}
+
+export const PATTERNS: { key: string; ru: string; en: string }[] = [
+	{ key: 'D-DU-UDU', ru: '«Шестёрка»: ↓ ↓↑ ↑↓↑', en: 'Folk strum: D DU UDU' },
+	{ key: 'D-D-D-D-', ru: 'Четверти: ↓ ↓ ↓ ↓', en: 'Quarters: D D D D' },
+	{ key: 'DUDUDUDU', ru: 'Восьмые: ↓↑↓↑↓↑↓↑', en: 'Eighths: DUDUDUDU' },
+	{ key: 'D-DUD-DU', ru: '«Восьмёрка» рок: ↓ ↓↑↓ ↓↑', en: 'Rock: D DUD DU' },
+	{ key: 'D---D---', ru: 'Половинные, баллада', en: 'Halves, ballad' }
+];
