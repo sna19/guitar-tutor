@@ -1,0 +1,28 @@
+X:1
+T:Opus 50 No. 6 · Op. 50
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=144
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+e'2e'3/2f'/ | e'2d'2c'3/2d'/ c'2b2a2 | ^g2b2g2 e2f2g2 | a2b2c'3/2d'/ c'2b2a2 |
+^g2b2g2 e2e'2e'3/2d'/ | e'2d'2c'3/2d'/ c'2b2a2 | ^g2b2g2 e2f2g2 | a2b2c'2 e'2d'2b2 |
+a6 A4g'2 | e'4[gc']2 e'4[gg']2 | f'6 d'4g2 | e'2d'2c'2 a2e'2d'2 |
+c'6 b2g'2g'2 | g'4[ge']2 c'2e'2g'2 | f'4[gd']2 G4f'2 | c4c'2 G4b2 |
+c'6 c4e'3/2f'/ | e'2d'2c'3/2d'/ c'2b2a2 | ^g2b2g2 e2f2g2 | a2b2c'3/2d'/ c'2b2a2 |
+^g2b2g2 e2e'2e'3/2d'/ | e'2d'2c'3/2d'/ c'2b2a2 | ^g2b2g2 e2f2g2 | a2b2c'2 e'2d'2b2 |
+a2e2e2 b2e2e2 | c'2e2e2 b2e2e2 | a2e2e'2 b2e2e'2 | c'2a2c'2 e'2d'2b2 |
+a2a'2^g'2 a'2e'2c'2 | A4^g2 a2e2c2 | A6 [ebd'^g']6 | [Ac'e'a']6 z6 |]
+V:S02
+x4 | A4x2 A4x2 | E4x2 E4x2 | A4x2 A4x2 |
+E4x2 E4x2 | A4x2 A4x2 | E4x2 E4x2 | A4x2 E4x2 |
+A2e2c2 x2g'2x2 | c2e2x2 c2e2x2 | B2d2g2 B2d2x2 | c4x2 f4x2 |
+G2e2g2 [Gd]4x2 | c2e2x2 c4x2 | B2d2x4d'2x2 | x2e'2x4d'2x2 |
+c2g2e2 x2e'2x2 | A4x2 A4x2 | E4x2 E4x2 | A4x2 A4x2 |
+E4x2 E4x2 | A4x2 A4x2 | E4x2 E4x2 | A4x2 E4x2 |
+A4x2 E4x2 | A4x2 E4x2 | A4x2 E4x2 | A4x2 E4x2 |
+A4x8 | x2a2x8 | x12 | x12 |]

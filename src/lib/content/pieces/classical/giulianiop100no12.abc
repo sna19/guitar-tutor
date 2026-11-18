@@ -1,0 +1,36 @@
+X:1
+T:24 Studies for the Guitar, No. 12 · Op. 100
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+zGBdBG zFcdcF | zDGdGD zG^AeAG | zFAdAF zDAcAD | zDAcAD zDGBGD |
+zDGBGD zDAdAD | zA^cgcA zAdfdA | zGBeBG zEA^cAE | zFAdAF zdgbgd |
+zdfafd zd=f^gfd | zdfafd zBdgdB | zAdfdA z^Gd=fdG | zAdfdA zGBeBG |
+zFAdAF zEA^cAE | zFAdAF zFAdAF | zAdfdA zAdfdA | zGdgdG zDGBGD |
+zDAdAD zDAcAD | zDAcAD zDGBGD | zBdedB zAcecA | zFcdcF zGBdBG |
+zDAcAD zDGBGD | zFAdAF zFAdAF | zGBdBG zFcdcF | zDGdGD zG^AeAG |
+zFAdAF zDAcAD | zDAcAD zDGBGD | zDGBGD zDAdAD | zA^cgcA zAdfdA |
+zGBeBG zGB=fBG | z^AcfcA zAcfcA | z^AcfcA zAcfcA | zABfBA zABfBA |
+zGBeBG zGBeBG | zGAeAG zGAeAG | zAdfdA zAdfdA | zGdgdG zG^AeAG |
+zGBdBG zFAdAF | zGBdBG zGBdBG | zABfBA zABfBA | zGBgBG zGBgBG |
+zGAeAG zGAeAG | zAdfdA zAdfdA | zGdgdG zGd=fdG | zGcecG z^AegeA |
+zBdgdB zAdfdA | z12 |]
+V:S02
+G,6 G,6 | B,6 ^C6 | D6 F,6 | G,6 G,6 |
+G,6 G,6 | E,6 F,6 | G,6 A,6 | D6 D6 |
+D6 D6 | D6 D6 | D6 D6 | D6 G,6 |
+A,6 A,6 | D6 D6 | D6 C6 | B,6 G,6 |
+F,6 F,6 | G,6 G,6 | ^G,6 A,6 | A,6 G,6 |
+G,6 G,6 | D6 D6 | G,6 A,6 | B,6 ^C6 |
+D6 F,6 | G,6 G,6 | G,6 F,6 | E,6 F,6 |
+G,6 G,6 | F,6 F,6 | F6 E6 | ^D6 B,6 |
+E6 D6 | ^C6 A,6 | D6 C6 | B,6 ^C6 |
+D6 D6 | G,6 G,6 | ^D6 B,6 | E6 D6 |
+^C6 A,6 | D6 C6 | B,6 B,6 | C6 ^C6 |
+D6 D6 | [G,GBg]12 |]

@@ -1,0 +1,24 @@
+X:1
+T:24 Studies for the Guitar, No. 23 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+zcec Acec zded Bded | zeee ceee zcec Acec | zBeB GBeB zcec Acec | zded Bded zBeB GBeB |
+zEAc zEAc zEAc zEGd | zEAc zEAc zEAc zEGd | zEAc zEce zEBd zEAc | z16 |
+zAce Acea zAdf Adfa | zAce Acee z8 | zAce Acea zAdf Adfa | zAce Acee z8 |
+zBde zBde zBde zBde | zAce zAce zAce zAce | zABf zABf zGBe zGBe | zAcA zBdB zcec zdfd |
+zcec acec zGBG eGBG | zAcA zBdB zcec zdfd | zcec acec zGBG eGBG | zAcA eAcA zAcA zAcA |
+zAcA eAcA zAcA zAcA | z16 | z16 |]
+V:S02
+A,8 A,8 | A,8 A,8 | E,8 E,8 | E,8 E,8 |
+A,4 A,4 A,4 A,4 | A,4 A,4 A,4 A,4 | A,4 A,4 A,4 A,4 | BE,B,E GB,EG BEGB e2e2 |
+A,8 A,8 | A,8 Acee Acee | A,8 A,8 | A,8 Acee Acee |
+E,4 G,4 B,4 E,4 | A,4 C4 E4 A,4 | D4 D4 E4 E4 | A,4 A,4 A,4 A,4 |
+A,8 E,8 | A,4 A,4 A,4 A,4 | A,8 E,8 | A,8 E,4 C4 |
+A,8 E,4 C4 | A,4 x4 [A,Acea]4 x4 | [A,CEA]8 x8 |]

@@ -1,0 +1,56 @@
+X:1
+T:12 Etudes, No. 11 · Op. 6 No. 11
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Em
+V:S01
+E,8-E,3/2EG3/2 e4 | e3/2GB3/2 B3/2EG3/2 B3/2EG3/2 B3/2EG3/2 | E,8-E,3/2EG3/2 g4 | g8 f8 |
+E,4-E,3/2EA3/2 f4 f4 | f4 B4 B4 F,4 | B,4-B,3/2^DA3/2 g4 f4 | f8 e8 |
+E,4-E,3/2EB3/2 g4 g4 | g4 f4 f8 | F4-F3/2cd3/2 a4 [Fa]4 | a4 g4 g8 |
+G,16 | b3/2ce3/2 a3/2ce3/2 a3/2ce3/2 C4 | ^C4-C3/2^Ae3/2 g4 g4 | g4 f4 f8 |
+C4-C3/2Ad3/2 f4 f4 | f4 g4 g8 | F,4-F,3/2Dc3/2 a4 a4 | ^a4 b4 b8 |
+E,4-E,3/2DB3/2 g4 [Eg]4 | C8 A,8 | D4-D3/2Ac3/2 f4 [^Df]4 | f4 g4 g8 |
+B,4-B,3/2^Gd3/2 =f4 f4 | =f3/2Ad3/2 e3/2Ac3/2 A,8 | a4 g4 g4 f4 | g3/2GB3/2 D4 B,4 D4 |
+G,4 d4 b4 a4 | a8 ^g8 | E,16 | b8 a8 |
+A,8-A,3/2Ac3/2 g4 | g4 f4 f8 | D4-D3/2Ac3/2 e4 f4 | a8 g8 |
+G,16 | g8 f8 | B,4-B,3/2^DA3/2 f4 f4 | f8 e8 |
+E,12-E,3/2EG3/2 | g8 f8 | B,4-B,3/2^DA3/2 f4 f4 | f8 e8 |
+E,16 | g8 f8 | E,4-E,3/2EA3/2 f4 f4 | a8 ^g8 |
+E,16 | b3/2ce3/2 a3/2ce3/2 a3/2Bd3/2 g3/2Bd3/2 | g3/2Ac3/2 f3/2Ac3/2 f4 e4 | e4 ^d4 d8 |
+B,4-B,3/2G^A3/2 e4 e4 | e4 ^d4 d8 | B,4-B,3/2G^A3/2 e4 e4 | e4 ^d4 d8 |
+B,4 B4 B4 B4 | B3/2E^G3/2 ^g4 g8 | B,16 | f4 e4 e8 |
+A,8-A,3/2EB3/2 ^c4 | ^c4 B4 B4 B4 | B,4-B,3/2FA3/2 ^d4 d4 | ^d3/2FA3/2 e3/2E^G3/2 e3/2EG3/2 B3/2EG3/2 |
+E,16 | B3/2E^G3/2 ^g4 g8 | B,8 f3/2A^d3/2 f3/2Ad3/2 | f4 e4 e8 |
+A,4-A,3/2E^c3/2 ^d4 c4 | ^c4 B4 B8 | B,4-B,3/2FA3/2 ^d4 d4 | f3/2E^G3/2 ^g4 f4 e4 |
+f4 e4 ^d4 ^c4 | ^c4 B4 B8 | B,4-B,3/2FA3/2 ^d4 d4 | e3/2^GB3/2 E3/2GB3/2 E3/2GB3/2 E3/2GB3/2 |
+E,16 | E,8-E,3/2E^G3/2 e4 | E,8-E,3/2^DA3/2 f4 | E,8-E,3/2E^G3/2 e4 |
+E,8 E4 ^d4 | E,8-E,3/2E^G3/2 e4 | E,8-E,3/2^DA3/2 f4 | E,8-E,3/2E^G3/2 B,3/2EG3/2 |
+E,8-E,3/2E^G3/2 B,3/2EG3/2 | E,8 e3/2E^G3/2 B3/2EG3/2 | [E,e]8 x8 |]
+V:S02
+z3/2EG3/2 B3/2EG3/2 e4 z3/2EG3/2 | E,16 | z3/2EG3/2 B3/2EG3/2 e4 z3/2EG3/2 | E,3/2EA3/2 c3/2EA3/2 z3/2EA3/2 c3/2EA3/2 |
+z3/2EA3/2 f4 z3/2EA3/2 z3/2EA3/2 | F,3/2^DA3/2 z3/2DA3/2 z3/2DA3/2 z3/2DA3/2 | z3/2^DA3/2 f4 z3/2DA3/2 z3/2DA3/2 | E,3/2EA3/2 B3/2EA3/2 z3/2EG3/2 B3/2EG3/2 |
+z3/2EB3/2 g4 z3/2Ec3/2 z3/2E^c3/2 | D3/2Ad3/2 z3/2Ad3/2 z3/2Ad3/2 D3/2Ad3/2 | z3/2cd3/2 a4 z3/2cd3/2 z3/2cd3/2 | G3/2Bd3/2 z3/2Bd3/2 z3/2Bd3/2 G3/2Bd3/2 |
+z3/2Bd3/2 b3/2Bd3/2 b3/2Bd3/2 b3/2Bd3/2 | C12 z3/2ce3/2 | z3/2^Ae3/2 g4 z3/2Ae3/2 z3/2Ae3/2 | D3/2Ad3/2 z3/2Ad3/2 z3/2Ad3/2 D3/2Ad3/2 |
+z3/2Ad3/2 f4 z3/2Ad3/2 z3/2Ad3/2 | B,3/2Gd3/2 z3/2Gd3/2 z3/2Gd3/2 B,3/2Gd3/2 | z3/2Dc3/2 a4 z3/2Dc3/2 z3/2Dc3/2 | G,3/2DB3/2 z3/2DB3/2 z3/2DB3/2 G,3/2DB3/2 |
+z3/2GB3/2 g4 z3/2GB3/2 z3/2GB3/2 | z3/2ce3/2 a3/2ce3/2 z3/2ce3/2 c'3/2ce3/2 | z3/2Ac3/2 f4 z3/2Ac3/2 z3/2Ac3/2 | E3/2Ac3/2 z3/2GB3/2 z3/2GB3/2 E3/2GB3/2 |
+z3/2^Gd3/2 =f4 z3/2Gd3/2 z3/2Gd3/2 | C8 z3/2ce3/2 a3/2ce3/2 | D3/2Bd3/2 z3/2Bd3/2 z3/2Ac3/2 z3/2Ac3/2 | G,4 z3/2GB3/2 z3/2GB3/2 z3/2GB3/2 |
+z16 | E,3/2EB3/2 d3/2EB3/2 z3/2EB3/2 d3/2EG3/2 | z3/2Bd3/2 e3/2Bd3/2 f3/2Bd3/2 ^g3/2Bd3/2 | A,3/2^Gd3/2 e3/2Gd3/2 z3/2Ac3/2 e3/2Ac3/2 |
+z3/2Ac3/2 e3/2Ac3/2 a4 z3/2Ac3/2 | D3/2Ac3/2 z3/2Ac3/2 z3/2Ac3/2 D3/2Ac3/2 | z3/2Ac3/2 f4 z3/2Ac3/2 z3/2Ac3/2 | G,3/2Fc3/2 d3/2Fc3/2 z3/2GB3/2 d3/2GB3/2 |
+z3/2Bd3/2 g3/2Bd3/2 g3/2Bd3/2 g3/2Bd3/2 | B,3/2^DA3/2 B3/2DA3/2 z3/2DA3/2 B3/2DA3/2 | z3/2^DA3/2 f4 z3/2DA3/2 z3/2DA3/2 | E,3/2EG3/2 B3/2EG3/2 z3/2EG3/2 B3/2EG3/2 |
+z3/2EG3/2 g3/2GB3/2 g3/2GB3/2 g4 | B,3/2^DA3/2 B3/2DA3/2 z3/2DA3/2 B3/2DA3/2 | z3/2^DA3/2 f4 z3/2DA3/2 z3/2DA3/2 | E,3/2EG3/2 B3/2EG3/2 z3/2EG3/2 B3/2EG3/2 |
+z3/2GB3/2 e3/2GB3/2 e3/2GB3/2 e3/2GB3/2 | E,3/2EA3/2 c3/2EA3/2 z3/2EA3/2 c3/2EA3/2 | z3/2EA3/2 f4 z3/2EA3/2 z3/2EA3/2 | E,3/2EB3/2 d3/2EB3/2 z3/2EB3/2 d3/2EB3/2 |
+z3/2Bd3/2 ^g3/2Bd3/2 g3/2Bd3/2 g3/2Bd3/2 | A,16 | A,8 ^A,3/2G^c3/2 z3/2Gc3/2 | B,3/2FB3/2 z3/2FB3/2 z3/2FB3/2 B,3/2FB3/2 |
+z3/2G^A3/2 e4 z3/2GA3/2 z3/2GA3/2 | B,3/2EB3/2 z3/2EB3/2 z3/2EB3/2 B,3/2EB3/2 | z3/2G^A3/2 e4 z3/2GA3/2 z3/2GA3/2 | B,3/2FB3/2 z3/2FB3/2 z3/2FB3/2 B,3/2FB3/2 |
+z16 | E,4-E,3/2E^G3/2 z3/2EG3/2 E,3/2EG3/2 | z3/2A^d3/2 f3/2Ad3/2 f3/2Ad3/2 f3/2Ad3/2 | ^C3/2A^d3/2 z3/2^G^c3/2 z3/2Gc3/2 C3/2Gc3/2 |
+z3/2A^c3/2 e3/2Ac3/2 ^d4 z3/2EA3/2 | B,3/2EA3/2 z3/2E^G3/2 z3/2EG3/2 z3/2EG3/2 | z3/2FA3/2 ^d4 z3/2FA3/2 z3/2FA3/2 | E,16 |
+z3/2E^G3/2 B3/2EG3/2 B3/2EG3/2 B3/2EG3/2 | E,4-E,3/2E^G3/2 z3/2EG3/2 E,3/2EG3/2 | z3/2A^d3/2 f3/2Ad3/2 C8 | ^C3/2A^d3/2 z3/2^G^c3/2 z3/2Gc3/2 C3/2Gc3/2 |
+z3/2A^c3/2 e4 z3/2EB3/2 z3/2EA3/2 | B,3/2EA3/2 z3/2EA3/2 z3/2EA3/2 B,3/2EA3/2 | z3/2FA3/2 ^d4 z3/2FA3/2 z3/2FA3/2 | [E,e]4 z3/2E^G3/2 z3/2EG3/2 z3/2EG3/2 |
+A,3/2E^d3/2 z3/2E^c3/2 z3/2EB3/2 z3/2EA3/2 | B,3/2E^G3/2 z3/2EG3/2 z3/2EG3/2 B,3/2EG3/2 | z3/2FA3/2 ^d4 z3/2FA3/2 z3/2FA3/2 | E,16 |
+z3/2FA3/2 B3/2FA3/2 e3/2FA3/2 ^d3/2FA3/2 | z3/2E^G3/2 B3/2EG3/2 f4 z3/2EG3/2 | z3/2^DA3/2 B3/2DA3/2 ^g4 z3/2DA3/2 | z3/2E^G3/2 B3/2EG3/2 f4 z3/2EG3/2 |
+z3/2^DA3/2 B3/2DA3/2 e3/2DA3/2 z3/2DA3/2 | z3/2E^G3/2 B3/2EG3/2 f4 z3/2EG3/2 | z3/2^DA3/2 B3/2DA3/2 ^g4 z3/2DA3/2 | z3/2E^G3/2 B3/2EG3/2 e8 |
+z3/2E^G3/2 B3/2EG3/2 e8 | z3/2E^G3/2 B3/2EG3/2 E,8 | z16 |]

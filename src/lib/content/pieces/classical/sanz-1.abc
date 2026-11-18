@@ -1,0 +1,28 @@
+X:1
+T:Preludio
+C:G. Sanz
+M:2/2
+L:1/16
+Q:1/4=120
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+x2b2g'2x4c'2x4 | x2b2e'2d'2 x2c'2e'2x2 | x2d'2g'2x4e'2a'2x2 | x2d'2f'2x4d'2g'2f'2 |
+x2c'2e'2x4c'2f'2e'2 | x2^d'2f'2x4b2e'2x2 | c6x4d'2a'2x2 | x3/2bx7bx4x3/2 |
+x3/2c'x7bx4x3/2 | x3/2c'x7^d'x4x3/2 | x2b2g'2x4d'2a'2x2 | x2b2e'2d'2 x2c'2e'2f'2 |
+x2d'2f'2^g'2 x2c'2a'2x2 | x2g'2b'2^c''2 x2f'2d''2^g'2 | x2a'2^c''2x4g'2b'2c''2 | x2e'2a'2x4f'2a'2b'2 |
+x2d'2g'2x4e'2g'2a'2 | x2c'2e'2x4^d'2f'2^g'2 | x2b2e'2x4c'2e'2f'2 | x2d'2a'2x4b2g'2x2 |
+x2b2g'2x4d'2a'2x2 | x2b2f'2x4b2g'2x2 | x2e'2a'2x4d'2f'2x2 | x2d'2g'2x4c'2e'2x2 |
+x2c'2e'2x4d'2g'2x2 | x2b2e'2x4c'2e'2f'2 | x2b2g'2x4^d'2f'2x2 | x2b2g'2x4c'2e'2x2 |
+x2c'2e'2x2 B8 | x16 |]
+V:S02
+e6d2 c4B2A2 | ^G8 A6A2 | B6B2 ^c6c2 | d6c2 B8 |
+c6B2 A8 | B6a2 ^g6d2 | a2c'2e'2g2 f6f2 | g2-g/g'3/2a3/2g=f3/2 e2-e/g'3/2f3/2ed3/2 |
+c2-c/e'3/2c3/2BA3/2 ^G2-G/e'3/2d'3/2c'b3/2 | a2-a/e'3/2g'3/2f'e'3/2 b2-b/f'3/2a'3/2g'f'3/2 | e6e2 f6f2 | ^g8 a8 |
+b8 A6^d'2 | e'8 d8 | A6^d'2 e'8 | ^c'6c'2 d'8 |
+b6b2 c'8 | a6a2 b8 | ^g6g2 a8 | f6f2 g6g2 |
+e6e2 f6f2 | ^d6d2 e6e2 | ^c6c2 d6d2 | B6B2 c6c2 |
+A6A2 B6B2 | ^G6G2 A8 | G6A2 B6b2 | e6d2 c6B2 |
+A6A2 b2^d'2f'2b2 | [Egbg']8 z8 |]

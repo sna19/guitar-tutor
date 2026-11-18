@@ -1,0 +1,32 @@
+X:1
+T:24 Studies for the Guitar, No. 24 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=110
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+E,8 eGBe g2g2 | E,8 eGBe g2g2 | A,8 fAcf a2a2 | A,8 fAcf a2a2 |
+B,8 dFAd f2f2 | B,8 dFAd e2e2 | E,8 eGBe g2g2 | E,8 fGBe g2g2 |
+E,8 eGBe g2g2 | E,8 eGBe g2g2 | E,8 eAce a2a2 | E,8 eAce a2a2 |
+E,8 BEGB eGBe | gBeg begb =d'c'ba gfe=d | cG,A,C EAce a2c'2 e'2^A,2 | B,2EG BEGB eGBe gBeg |
+b6^a2 b2f2 g2d2 | e2^A2 B2F2 G2D2 E2C2 | B,8 B,8 | B,8 B,8 |
+=C8 e=G=ce =g2g2 | B,8 e=GBe =g2g2 | ^A,8 e=Gce =g2g2 | B,8 B,8 |
+B,8 B,8 | E,8 BEGB e2e2 | E,8 cEAc e2e2 | E,8 BEGB e2e2 |
+E,8 BDAB f2f2 | E,8 BEGB e2e2 | E,8 cEAc e2e2 | E,8 BEGB e2e2 |
+E,8 BDAB f2f2 | E,8 BEGB e2e2 | B,8 eGBe g2g2 | E8 gBeg b2b2 |
+G8 begb e'2e'2 | E,8 [E,GBe]4 [E,GBg]4 | [E,B,EGBe]8 z8 |]
+V:S02
+x2EG BEGB x8 | x2EG BEGB x8 | x2CF AFAc x8 | x2CF AFAc x8 |
+x2FA dCFA x8 | x2FA d=CFA x8 | x2EG BEGB x8 | x2EG BEGB x8 |
+x2=DG BDGB x8 | x2=DG BDGB x8 | x2EA cEAc x8 | x2EA cEAc x8 |
+x2B,E GB,EG x8 | x16 | x16 | x16 |
+x16 | x16 | x2B2 B2B2 x2[GB]2 [GB]2[GB]2 | x2[Fc]2 [Fc]2[Fc]2 x2[=Fd]2 [^Fd]2[Fd]2 |
+x2E=G =cEGc x8 | x2E=G BEGB x8 | x2E=G cEGc x8 | x2B2 B2B2 x2[GB]2 [GB]2[GB]2 |
+x2[Fc]2 [Fc]2[Fc]2 x2[=Fd]2 [^Fd]2[Fd]2 | x2B,E GB,EG x8 | x2A,E AA,EA x8 | x2B,E GB,EG x8 |
+x2B,D AB,DA x8 | x2B,E GB,EG x8 | x2A,E AA,EA x8 | x2B,E GB,EG x8 |
+x2B,D AB,DA x8 | x2B,E GB,EG x8 | x2EG BEGB x8 | x2GB eGBe x8 |
+x2Be gBeg x8 | x16 | x16 |]

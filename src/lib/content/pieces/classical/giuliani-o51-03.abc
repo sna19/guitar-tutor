@@ -1,0 +1,40 @@
+X:1
+T:18 Progressive Lessons, No. 3 · Op. 51
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=110
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+A2A4c2 | c2B4^G2 | ^G2A4c2 | c2B4A2 |
+A2^G4f2 | f2e4d2 | d2c4A2 | A2_B4^c2- |
+^c2d4e2 | g2f4e2 | e2^d4d2 | e2B4d2 |
+d2c4_B2 | _B2A4^G2 | ^G2A4A2 | A2G4f2 |
+f2e4g2 | g2A2 c2f2 | f2G2 B2e2 | e2F2 A2d2 |
+d2E2 G2c2 | c2^F2 A2d2 | c2B4g2 | g2f4g2 |
+f2e4c2 | e2d4B2 | B2c4e2 | G2F4d2 |
+F2E4c2 | E2D4B,2 | C4 G2c2 | c2_B4c2 |
+_B2A4f2 | f2G2 _B2E2 | F,4 A2d2 | d2c4A2 |
+c2B4g2 | g2A2 c2^F2 | G,4 B2e2 | e2^d4e2 |
+d2c4A2 | A2_B4^c2- | ^c2d4e2 | g2f4e2 |
+e2^d4d2 | e2B4d2 | d2A4_B2 | _B2A4^G2 |
+A2c2 B2A2 | A2c2 B2A2 | A2c2 B2A2 | B2d2 ^G2B2 |
+A4 C2A,2 | E,4 [E^GBe]4 | [A,EAc]8 |]
+V:S02
+A,4 C4 | D4 E4 | F4 C4 | D4 ^D4 |
+E4 D4 | C4 B,4 | A,4 C4 | D4 E4 |
+F4 _B,4 | D4 C4 | B,4 A,4 | ^G,4 E,4 |
+A,4 D4 | E4 E,4 | A,4 C4 | B,4 G,4 |
+C4 E4 | A,4 D4 | G,4 C4 | F,4 B,4 |
+E,4 A,4 | A,4 ^F,4 | G,4 G,4 | A,4 B,4 |
+C4 A,4 | F,4 G,4 | C4 G,4 | A,4 B,4 |
+C4 A,4 | F,4 G,4 | x2E2 x4 | D4 E4 |
+F4 D4 | _B,4 C4 | x2F2 x4 | ^F,4 D4 |
+G,4 E4 | C4 D4 | x2G2 x4 | ^G,4 E,4 |
+A,4 C4 | D4 E4 | F4 ^C4 | D4 C4 |
+B,4 A,4 | ^G,4 E,4 | A,4 D4 | E4 E,4 |
+A,4 C4 | D4 E4 | F4 C4 | D4 E4 |
+A,2E2 x4 | x8 | x8 |]

@@ -1,0 +1,26 @@
+X:1
+T:Op. 35, Study No. 3 · Op. 35 No. 3
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+e3e | [ce]4 [Bd]4 [Ac]4 | [Ac]4 [^GB]4 f3f | [df]4 [ce]4 [Bd]4 |
+[Bd]4 [Ac]4 e3e | e4 f4 [^Gc^f]4 | g4 f4 [Ace]4 | e3d [EGc]4 [G,DB]4 |
+[CEc]8 e3e | [ce]4 [ce]4 [Ce]4 | [G,cg]4 d4 d3d | [_Bd]4 [Bd]4 [_B,d]4 |
+[F,Af]8 f3f | [Af]4 [Bf]4 [DAf]4 | e4 B4 e3d/d/ | c3B c4 [F,Ad]4 |
+[^Ge]8 e3e | [ce]4 [Bd]4 [Ac]4 | [Ac]4 [^GB]4 f3f/f/ | [df]4 [ce]4 [Bd]4 |
+[Bd]4 [Ac]4 [Ace]3e | f4 [c^f]3[cf] [GBg]4 | [d^g]4 [Fca]4 [e=g]3[df] | [ce]3[Bd] [Ac]4 [E,^GB]4 |
+[A,A]8 z4 |]
+V:S02
+c4 | A,12 | F,8 d4 | F,12 |
+A,8 x4 | [Ac]8 x4 | [FA]8 x4 | [FA]4 x8 |
+x12 | C8 c3c | x12 | _B,8 _B3B |
+x8 [FA]4 | D8 x4 | [E^G]8 [E,G]4 | [A,A]8 x4 |
+E,4 E4 x4 | A,12 | E,8 d4 | E,12 |
+A,12 | x4 D4 x4 | E3E x4 D4 | E4 x8 |
+x12 |]

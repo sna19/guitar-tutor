@@ -1,0 +1,20 @@
+X:1
+T:Divertissements pour la guitare, n°4 · O 1.4
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+[ce'g']4 [c'e'g']4 [c'e'g']4 | g'7c'' [c'e'c'']4 | [cc'e']4 [ac'e']4 g'3f' | [gc'e']4 d'3c' [cegc']4 |
+[cc'e']4 [ac'e']4 [gc'e']4 | [^fc'd']4 [d^f'c'']4 [gg'b']4 | [c'e'a']2z[d'f'^g'] [c'e'a']2z[^ge'b'] [ae'c'']2z[ac'd'^f'] | [gc'^f']4 [Gbg']4 z4 |
+[e'g']4 [d'f']4 [^c'e']4 | [d'f']7[e'g'] [f'a']4 | [fd']4 [ec'e']4 [dbf']4 | [cc'e']7[d'f'] [e'g']4 |
+[e'c'']4 [c'e']4 [ac'^f']4 | [gbg']4 [Bgd'f']4 [cgc'e']4 | [fad']2z[ea^c'] [fad']2z[^cae'] [daf']2z[Gfb] | [fb]4 [ec']4 z4 |]
+V:S02
+x12 | c4 c'4 x4 | x8 [fd']4 | x4 [Gfb]4 x4 |
+x12 | x12 | x12 | x12 |
+g2g2 g2g2 g2g2 | g2g2 g2g2 g2g2 | b2g2 x2g2 x2g2 | x2g2 g4 x4 |
+x12 | x12 | x12 | c8 x4 |]

@@ -1,0 +1,30 @@
+X:1
+T:Saltarello
+C:V. Galilei
+M:3/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+d2e2 [A,f]4 [Dg]4 | a8 [Db]4 | [D,g]4 [A,e]4 [Da]4 | f12 |
+e2d2 e2f2 g2e2 | f8 g4- | g4 [A,e]4 e2f2 | d12 |
+d2e2 [A,f]4 [Dg]4 | a8 [Db]4 | [D,g]4 [A,e]4 [Da]4 | f12 |
+e2d2 e2f2 g2e2 | [D,f]4 e2f2 g2f2 | e2d2 c2d2 e2f2 | d12 |
+[D,f]4 [A,e]4 [Dd]4 | f12 | [D,f]4 [A,e]4 [Dd]4 | a12 |
+[D,f]4 [A,e]4 [Dd]4 | a8 g4- | g4 e6f2 | d12 |
+g2f2 [A,e]4 [Dd]4 | f12 | g2f2 [A,e]4 [Dd]4 | a12 |
+e2d2 e2f2 g2e2 | [D,f]4 g2f2 e2d2 | c2B2 c2d2 e2f2 | d12 |
+D,4 A,4 D4 | [d'f'b']12 | [D,A,Ddfd']12 |]
+V:S02
+D,4 x8 | D,4 A,4 x4 | x12 | D,4 A,4 D4 |
+D,4 A,4 D4 | D,4 A,4 D4 | D,4 x4 D4 | D,4 A,4 D4 |
+D,4 x8 | D,4 A,4 x4 | x12 | D,4 A,4 D4 |
+D,4 A,4 D4 | x4 A,4 D4 | D,4 A,4 D4 | D,4 A,4 D4 |
+x12 | D,4 A,4 D4 | x12 | D,4 A,4 D4 |
+x12 | D,4 A,4 D4 | D,4 A,4 D4 | D,4 A,4 D4 |
+D,4 x8 | D,4 A,4 D4 | D,4 x8 | D,4 A,4 D4 |
+D,4 A,4 D4 | x4 A,4 D4 | D,4 A,4 D4 | D,4 A,4 D4 |
+x12 | x12 | x12 |]

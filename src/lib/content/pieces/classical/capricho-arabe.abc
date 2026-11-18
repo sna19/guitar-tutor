@@ -1,0 +1,60 @@
+X:1
+T:Capricho Árabe
+C:F. Tárrega
+M:3/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Dm
+V:S01
+[A,EA]12 | g'e'd'^c' e'd'ba =c'bge | e8 d3e | [A,EA^c]8 z4 |
+[A,EA]12 | g'e'd'^c' e'd'ba =c'bge | e8 d3e | [A,EA^c]8 z4 |
+A,6^C2 E2G2 | B2A3/2e/ e6d2 | ^c/de/d/cB/ A/=cB/A/GF/ E/D/^C/B,/A,/G,/F,/B,/ | B,8 A,4 |
+D,4 F4 E4 | A,4 D,4 F4 | E4 A,4 [D,a]4 | a2[Af]2 E4 babc' |
+[D,a]4 a2[Af]2 E4 | babc'/c'/ [D,c']4 [Fc']4 | E4 =b^c'd'e' f'2[faf']e' | [A,d']4 E4 bge^c |
+[D,a]4 [Fa]4 E4 | efge/d/ f2[Ad]2 _g2[Ac]2 | D4 ac'_e'3/2c'/ c'2[gb]2 | a2[eg]2 bad'^c' e'd'f'e' |
+g'e'd'^c' e'd'ba =c'bge | dB^cA D,4 B,4 | _E,4 A,4 D,4 | B,4 _E,4 A,4 |
+[D,a]4 a2[Af]2 E4 | babc' [D,a]4 a2[Af]2 | E4 babc'/c'/ [D,a]4 | [Fa]4 E4 =b^c'd'e' |
+f'2[faf']e' [A,d']4 E4 | bge^c [D,a]4 [Fa]4 | E4 efge/d/ f2[Ad]2 | _g2[Ac]2 D4 ac'_e'3/2c'/ |
+d'2[gb]2 a2[eg]2 bad'^c' | e'd'f'e' g'e'd'^c' e'd'ba | c'bge dB^cA D,4 | B,4 _E,4 A,4 |
+D,4 B,4 G,4 | C4 [F,c]4 [Cc]4 | cdef ecde/d/ d2[Ac]2- | [Ac]2[Ac]2 G4 b2ag/a/ |
+c'2[Ac]2 f2[Ac]2 f2de/f/ | f2ed/g/ [Cg]4 c4 | C7C [F,c]4 | [Cc]4 cdef ecde/d/ |
+d2[Ac]4[Ac]2 G,4 | efgb/b/ a2[^ce]2 A4 | A,8 A,4- | A,4 A,8 |
+A,4 eaaa aA,B,=B, | C^CD_E =EF_G=G _A=AB=B | c^cd_e =ef/_g=g_a/ [D,=a]4 | a2[Ad]2 E4 ^c'a=bc'/b/ |
+=b2[da]2 _G4 E4 | g2_ge/g/ [D,a]4 [_Gd]4 | E,4 d2^c=B/c/ [A,e]4 | [^CA]4 A,8 |
+[D,a]4 a2[Ad]2 E4 | ^c'a=bc'/b/ b2[da]4[Ad]2 | _E_GAc _e_gac' [=E^c']4 | [A^c']4 E8 |
+d^c/c/=bb/a/ ag/g/_gg/e/ ed/d/cc/=B/ | =B_B/B/AA/a/ [D,a]4 a2[Ad]2 | E4 ^c'a=bc'/b/ b2[da]2 | _G4 E4 g2_ge/g/ |
+[D,a]4 [_Gd]4 E,4 | d2^c=B/c/ [A,e]4 [^CA]4 | A,8 [D,a]4 | a2[Ad]2 E4 ^c'a=bc'/b/ |
+=b2[da]4[Ad]2 D_GAd | _gae'3/2d'/ d'2[=Be]4[Be]2 | E,4 a3[=Bg] [Bg]3/2a3/2g | [A_g]8 [G^ce]4 |
+[D,d]4 =B,4 G,4 | A,4 D,4 B,4 | _G,4 A,4 [D,a]4 | a2[Af]2 E4 babc' |
+[D,a]4 a2[Af]2 E4 | babc'/c'/ [D,c']4 [Fc']4 | E4 =b^c'd'e' f'2[faf']e' | [A,d']4 E4 bge^c |
+[D,a]4 [Fa]4 E4 | efge/d/ f2[Ad]2 _g2[Ac]2 | D6_e'3/2c'/ d'2[gb]2 | a2[eg]2 bad'^c' e'd'f'e' |
+g'e'd'^c' e'd'ba =c'bge | dB^cA D,4 B,4 | _E,4 A,4 D,4 | B,4 _E,4 A,4 |
+[DAd]8 [dfad']4- | [dfad']4 z8 |]
+V:S02
+x12 | x12 | x8 [GB]4 | x12 |
+x12 | x12 | x8 [GB]4 | x12 |
+x12 | x12 | x12 | x12 |
+x2[FAd]2 x2[Ad]2 x2[A^c]2 | x2[GA^c]2 x2[FAd]2 x2[Ad]2 | x2[A^c]2 x2[GAc]3/2f/ x2[Af]2 | F4 x2ga A,4 |
+x2[Af]2 F4 x2ga | A,4 x2[Af]2 x2[Af]2 | x2_a=a A,4 D,4 | x2[fa]2 x^c'e'c' A,4 |
+x2A2 x2[Ad]2 x2gf | A,4 D,8 | xAc_g x4 G4 | B4 A,8 |
+A,12- | A,2A,2 x2[Fd]2 x2[Fd]2 | x2[G_e]2 x2[EA^c]2 x2[Fd]2 | x2[Fd]2 x2[G_e]2 x2[EA^c]3/2f/ |
+x2[Af]2 F4 x2ga | A,4 x2[Af]2 F4 | x2ga A,4 x2[Af]2 | x2[Af]2 x2_a=a A,4 |
+D,4 x2[fa]2 x^c'e'c' | A,4 x2A2 x2[Ad]2 | x2gf A,4 D,4- | D,4 xAc_g x4 |
+G4 B4 A,4- | A,4 A,8- | A,6A,2 x2[Fd]2 | x2[Fd]2 x2[G_e]2 x2[EA^c]2 |
+x2[Fd]2 x2[Fd]2 x2[Bd]2 | x2[GBe]2 x2[fa]2 x2[fa]2 | G4 A,4 F,4 | C4 x2ga/b/ c4 |
+A,8 D4 | G,4 x2c2 x2[EB]2 | xBde dcBx3[fa]2 | x2[fa]2 G4 C4 |
+F,4 C4 xBcd | G4 A,4 x2[^ce]2 | xd'bg edBG xEA^c | ea^c'e' xbge dBGE |
+xEA^c x8 | x12 | x8x2[Ad]2 | _G4 x=b^c'd' A4 |
+D,4 x2[Ad]2 x2e_g/=g/ | A,4 x2A2 x2A2 | x2=B^c/d/ E4 x2E2 | x2E2 x2_a=a ^c'=bge/_g/ |
+x2A2 _G4 x=b^c'd' | A4 D4 _G4 | x8x2e2 | x2e2 x_g'e'd' =b_aed |
+A,12- | A,4 x2[Ad]2 _G4 | x=b^c'd' A4 D,4 | x2[Ad]2 x2e_g/=g/ A,4 |
+x2A2 x2A2 x2=B^c/d/ | E4 x2E2 x2E2 | x2_a=a ^c'=bge/_g/ x2A2 | _G4 x=b^c'd' A4 |
+D,4 _G4 x4 | x4 G4 G,4 | x=B^cd x4 ^C4- | ^C4 C8 |
+x2[_GA]2 x2[Gd]2 x2[=G=Be]2 | x2[G^c]2 x2[Fd]2 x2[Fd]2 | x2[G_e]2 x2[EA^c]3/2f/ x2[Af]2 | F4 x2ga A,4 |
+x2[Af]2 F4 x2ga | A,4 x2[Af]2 x2[Af]2 | x2_a=a A,4 D,4 | x2[fa]2 x^c'e'c' A,4 |
+x2A2 x2[Ad]2 x2gf | A,4 D,8 | xAc_g ac'x2 G4 | B4 A,8 |
+A,12 | x2A,2 x2[Fd]2 x2[Fd]2 | x2[Gf]2 x2[EA^c]2 x2[Fd]2 | x2[Fd]2 x2[Gf]2 x2[EA^c]2 |
+x12 | x12 |]

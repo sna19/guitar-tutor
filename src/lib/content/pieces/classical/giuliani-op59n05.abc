@@ -1,0 +1,30 @@
+X:1
+T:16 Studies for the Guitar: No. 5 · Op. 59 No. 5
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=104
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+e6 e6 | c6 c2B2c2 | d4[Gd]2 d4[Gd]2 | g6 e4G2 |
+c6 B2A2G2 | c6 d2c2d2 | e2d2c2 A2f2d2 | E2G2c2 [G,B,DGB]4x2 |
+d6 ^F,6 | B6 G,6 | d6 G,4c2 | _B6 =B4D2 |
+d6 g6 | g6 C4c2 | B2d2G2 A2c2^F2 | G,4A2 B2c2d2 |
+e6 d6 | c6 c2B2c2 | d4[Gd]2 d4[Gd]2 | g6 e4G2 |
+e6 d6 | c6 d2f2d2 | c6 B6 | c6 C2E2G2 |
+g4[Gf]2 d4G2 | g4[Ge]2 c4G2 | B6 [CB]2[Fc]2[Gd]2 | c6 C2E2G2 |
+g4[Gf]2 d4G2 | g4[Ge]2 c4G2 | d6 [Cd]2[Fc]2[GB]2 | c6 [Cd]2[Ec]2[GB]2 |
+c6 [Cd]2[Fc]2[GB]2 | c2e2G2 c2E2G2 | C6 [CGce]6 | [CEGc]12 |]
+V:S02
+C2E2G2 B,2F2G2 | C2E2G2 C6 | B,2F2z2 B,2F2z2 | C2E2G2 C2E2z2 |
+[EG]2[EG]2[EG]2 [FG]4z2 | [EG]2[EG]2[EG]2 [B,G]6 | [CG]6 F,6 | G,6 z6 |
+^F,2A,2D2 z2A2c2 | G,2B,2D2 z2G2B2 | ^F,2A,2D2 z2e2z2 | G,2B,2D2 G,2B,2z2 |
+B,2D2G2 B,2D2G2 | C2E2G2 z2e2z2 | D6 D6 | z2G2z8 |
+C2E2G2 B,2F2G2 | C2E2G2 C6 | B,2F2z2 B,2F2z2 | C2E2G2 C2E2z2 |
+C2E2G2 B,2F2^G2 | A,2E2A2 F,6 | G,2E2G2 G,2D2G2 | C2E2G2 z6 |
+B,2D2z2 B,2D2z2 | C2E2z2 C2E2z2 | C2F2G2 z6 | C2E2G2 z6 |
+B,2D2z2 B,2D2z2 | C2E2z2 C2E2z2 | C2F2G2 z6 | C2E2G2 z6 |
+C2E2G2 z6 | C6 z6 | z12 | z12 |]

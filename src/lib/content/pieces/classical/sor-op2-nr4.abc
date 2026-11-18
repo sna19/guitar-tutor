@@ -1,0 +1,24 @@
+X:1
+T:Six divertissements pour la guitare, n°4 Menuetto · O 2.4
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=76
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+[cec']4 [dfc']4 [egc']4 | c'4 ^c'4 d'4 | [gbf']4 [ac'f']4 [bd'f']4 | f'8 [cc'e']4 |
+[e'g']4 [c'e']4 [fa']4 | [bd']8 [ec'e']4 | g'3^f' [gb=f']4 [cc'e']4 | [c'e']4 [bd']4 z4 |
+[_bd']4 [a^c']4 [gae']4 | [fd']6[ee']2 [daf']4 | [^gc']4 [=gb]4 [fgd']4 | [egc']6[dgd']2 [cge']4 |
+[c'e'g']4 [c'e'g']4 [c'^d'g']4 | [c'd'^f']8 [bd'g']4 | [c'e'a']4 [cc'e']4 [dac'^f']4 | [c'^f']4 [bg']4 g'3/2=f'd'3/2 |
+[cec']4 [dfc']4 [egc']4 | c'4 ^c'4 d'4 | [d^fd']4 [egd']4 [fad']4 | d'4 ^d'4 e'4 |
+[e^ge']4 [^fae']4 [gbe']4 | e'4 f'4 [^gc'^f']4 | g'3c'' [c'e']4 d'3e' | [fd']4 [ec']4 z4 |]
+V:S02
+x12 | [fa]12 | x12 | [c'd']4 g3b x4 |
+x12 | g4 f4 x4 | [da]4 x8 | G8 x4 |
+g8 x4 | a8 x4 | f8 x4 | x12 |
+x12 | x12 | x12 | g8 x4 |
+x12 | [fa]12 | x12 | [gb]12 |
+x12 | [ac']8 x4 | [ge']4 x4 [Gfb]4 | c8 x4 |]

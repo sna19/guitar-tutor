@@ -1,0 +1,32 @@
+X:1
+T:Op. 35, Study No. 10 · Op. 35 No. 10
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:F
+V:S01
+x2 | xcxc xcxG | xAcf x4 | xdxc xBxA |
+xGx=B x4 | xcxc xcxc | xAcf x2A,2 | B,6C2 |
+F,4 x4 | xfF2 x2[Bd]2 | xfF2 x2[Af]2 | xfF2 x2[Bd]2 |
+xfF2 x2c2 | G,4 x2=B,2 | C6x2 | D6=B,2 |
+C4 x4 | xfxe xdx_d | xexd xfxd | xcxe xdx=B |
+xcxe x2A2 | xcG2 xcg2 | xcAc xcAc | C8 |
+C4 x4 | xcG2 xcg2 | x3c xcxc | C8 |
+C4 x4 | xcxc x4 | xAcf x4 | xdxc xBxA |
+xGD2 x4 | xcxc xcBG | xAcf x2A,2 | B,6C2 |
+xAcf x4 |]
+V:S02
+c2 | A2F2 E2B2 | F4 afcA | B2A2 G2F2 |
+E2D2 C2c2 | A2F2 G2E2 | F4 agfe | dcBA GBEG |
+FAcf F2f2 | [Bd]3f F,4 | [Ac]3f F,4 | [Bd]3f F,4 |
+[Ac]3f F,4 | =BGfd BGFG | EGce g2[Ec]2 | c=Bgf dBGF |
+EGce g2g2 | A2G2 F2E2 | G2F2 A2F2 | E2G2 F2G2 |
+E2G2 C4 | e3c B3c | f4 F4 | BcGc AcFc |
+EcGc C2c2 | e3c B3c | fcA2 F2A2 | GcBc AcFc |
+EG/d/c3/2=B/ c2c2 | A2F2 EcBG | F4 afcA | B2A2 G2F2 |
+E2F=B [CEc]2c2 | A2F2 E4 | F4 agfe | dcBA GBEG |
+F4 F,2z2 |]

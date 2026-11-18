@@ -1,0 +1,20 @@
+X:1
+T:25 Progressive Studies, No. 9
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+z2G2 c2G2 e8 | z2G2 B2G2 f8 | z2G2 e8 z2G2 | z2G6 G2G4G2 |
+z2G2 c2G2 e8 | z2G2 B2G2 f2G2 d2G2 | z2G2 e2c4c2 ^f2c2 | z2B2 g4 z8 |
+z2G2 d2G2 f8 | z2G2 c2G2 e8 | z2G2 d2G2 f8 | z2G2 c2G2 e8 |
+z2^c2 g2c2 z2c2 [d^f]2=c2 | z2B2 f8 c2B2 | z2A2 d6B2 d2B2 | z4 G4 z8 |]
+V:S02
+C8-C2G2 c2G2 | D8-D2G2 B2G2 | C6G2 E2G2 c4 | B4 c2^c2 d4 B4 |
+C8-C2G2 c2G2 | G,16 | C8 D8 | G6B2 G,4 G4 |
+B,8-B,2G2 d2G2 | C8-C2G2 c2G2 | B,8-B,2G2 d2G2 | C8-C2G2 c2x2 |
+A,8 D8 | G6B2 A2B2 e4 | F6A2 G8 | c2e4c2 C4 x4 |]

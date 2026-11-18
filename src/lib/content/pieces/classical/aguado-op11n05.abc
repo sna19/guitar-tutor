@@ -1,0 +1,44 @@
+X:1
+T:Les Favorites, No. 5 · Op. 11 No. 5
+C:D. Aguado
+M:2/4
+L:1/16
+Q:1/4=86
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+G2GA G2c2 | [FB]4 G2z2 | d2dB G2G2 | [EG]3A G2z2 |
+G2AB c2e2 | e4 d4 | B2BA B2d2 | [CEc]4 z4 |
+d2de d2g2 | g4 ^f2z2 | a2a^g a2b2 | a4 g2z2 |
+[GB]8 | [E,c]4 [Cce]2z2 | [Bd]7/2^f/ [cf]2ef | [GBg]4 G,4 |
+G2GA G2c2 | B4 G2z2 | d2dB G2G2 | G3A G2z2 |
+G2AB c2e2 | e4 d4 | B2BA B2d2 | [CEc]4 z4 |
+c8- | c2d2 e2f2 | f2e2 d2e2 | [FAe]4 c4 |
+a2e2 g2f2 | e2d2 d4 | c2B2 d2c2 | [FA]4 z4 |
+[CEG]8 | [CFA]8 | d2G2 G2G2 | G3G G2z2 |
+[CEG]8 | [CFA]8 | [GBf]8 | [CGce]4 z4 |
+c8- | c2d2 e2f2 | f2e2 d2e2 | f4 c2z2 |
+a2e2 g2f2 | e2d2 d4 | c2B2 d2c2 | [FA]4 z4 |
+G2GA G2c2 | B4 G2z2 | d2dB G2G2 | G3A G2z2 |
+G2AB c2e2 | e4 d4 | B2BA B2d2 | [CEc]4 z4 |
+d2de d2g2 | g4 ^f2z2 | a2a^g a2b2 | a4 g2z2 |
+[GB]8 | [E,c]4 [Cce]2z2 | [Bd]7/2^f/ [cf]2ef | [GBg]4 G,4 |]
+V:S02
+[CE]8 | D6x2 | [B,F]8 | A,6x2 |
+[CE]8 | [FA]8 | [G,F]8 | x8 |
+[GB]6x2 | [Ac]6x2 | [Dc]8 | [GB]6x2 |
+G,2G,^F, G,2=F,2 | G6x2 | D4 A4 | x8 |
+[CE]8 | [DF]6x2 | [F,B,]8 | [CE]6x2 |
+[CE]8 | [FA]8 | [G,F]8 | x8 |
+[FA]4 [E_B]4 | [FA]4 x4 | [C_B]8 | x8 |
+x8 | [_B,F]8 | [_B,E]4 [E_B]4 | x8 |
+x2c2 B2c2 | x2c2 B2c2 | [G,F]8 | [CE]6x2 |
+x2c2 B2c2 | x2c2 B2c2 | x2G,2 A,2B,2 | x8 |
+[FA]4 [EB]4 | [FA]4 x4 | [C_B]8 | [FA]6x2 |
+x8 | [_B,F]8 | [CE]4 [E_B]4 | x8 |
+[CE]8 | [DF]6x2 | [B,F]8 | [CE]6x2 |
+[CE]8 | [FA]8 | [G,F]8 | x8 |
+[GB]6x2 | [Ac]6x2 | [Dc]8 | [GB]6x2 |
+G,2G,^F, G,2=F,2 | G6x2 | D4 A4 | x8 |]

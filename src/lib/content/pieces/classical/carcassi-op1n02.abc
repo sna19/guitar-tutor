@@ -1,0 +1,72 @@
+X:1
+T:Trois Sonatines, No. 2 · Op. 1 No. 2
+C:M. Carcassi
+M:6/8
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+f3/2a/g2e2 | d2A2f2 d2A2f2 | ^degfeg ba^g=gfe | d2A2f2 d2A2f2 |
+^de=dcdB A^GBA=GE | d2A2f2 ^d2A2f2 | e^dfegf agfgBe | d2A2f2 ea^g=gfe |
+dA^GABA [cg]A[cg]A[cg]A | [df]A^GABA [cg]A[cg]A[cg]A | [df]A^GAca [d^g]e^degb | [ca]e^deac' [^gb]edebd' |
+[egc']e'd'c'ba ^gaba=ge | d2A2f2 d2A2f2 | [G^d]egfeg ba^g=gfe | d2A2f2 d2A2f2 |
+^de=dcdB A^GBA=GF | d2A2f2 d2A2f2 | e^dfegf agfgBe | d2A2f2 ea^g=gfe |
+d6 [cg]A[cg]A[cg]A | [d=f]6 [cg]A[cg]A[cg]A | [d=f]6 [^A=ce]gfedc | =f6 [^A=ce]gfedc |
+=f6 Fd[=ca]d[ca]d | ^a6 ^Ge[db]e[db]e | [ac']e'd'c'ba gbagfe | [df]agfed cBAGFE |
+d2A2f2 d2A2f2 | ^degfeg ba^g=gfe | d2A2f2 d2A2f2 | ^de=dcBA ^GA=GFGD |
+d2A2f2 ^d2A2f2 | e^dfegf agfgBe | d2A2f2 ea^g=gfe | d6 [cg]A[cg]A[cg]A |
+[df]6 A,6 | dAFAfA dAFAfA | [Dd]6 z6 | f2g2ez d2c2d2 |
+e3/2a/g2e2 d2c2B2 | A2B2c2 d2A2[Df]2 | e2A2[A,g]2 f2^g2a2 | e3/2a/g2e2 d2c2d2 |
+e3/2f/g2e2 d2c2B2 | A2B2c2 d2e2[Df]2 | a2g2[A,e]2 [Dd]4z2 | =f2^f2[Fe]2 d6 |
+c2f2f2 d6 | c2f2f2 [Bd]2[Ff]2[Ee]2 | [Dd]2[Cc]2[B,B]2 [F,^Acf]6 | =f2^f2[^A,e]2 d2f2[DB]2 |
+^d2e2[E,=d]2 c2e2a2 | B2d2f2 A2c2e2 | E,6 [A,A]6 | e3/2^g/f2e2 e2e2[Ac]2 |
+[Bd]4[EB]2 [Ac]4[CA]2 | e3/2^g/f2e2 e2e2[Ac]2 | [Bd]4[EB]2 [Ac]4[CA]2 | A3/2c/B2A2 [Ac]4[Bd]2 |
+[ce]4[df]2 [eg]6 | A3/2c/B2A2 [Ac]4[Bd]2 | [ce]4[df]2 [eg]6 | f3/2a/g2e2 d2c2d2 |
+e3/2f/g2e2 d2c2B2 | A2B2c2 d2A2[Df]2 | e2A2[A,g]2 f2^g2a2 | c3/2a/^g2e2 d2c2d2 |
+e3/2f/g2e2 d2c2B2 | A2B2c2 d2e2[Df]2 | a2g2[A,e]2 [Dd]6 | ^g2a2[A,=g]2 D4[=Fd]2 |
+A4[Ge]2 =F4[D=f]2 | ^g2a2[A,=g]2 D4[=Fd]2 | A4[Ge]2 =F4[D=f]2 | b2=c'2[g^a]2 =f4[eg]2 |
+d4[=ce]2 ^A4[=Af]2 | ^A2d2g2 =A2=c2=f2 | ^A2=c2g2 =F6 | b2=c'2[G^a]2 =F4[Eg]2 |
+D4[=Ce]2 ^A,4[=A,=cf]2 | ^A2d2g2 =A2=c2=f2 | ^A2=c2e2 [=F=Ac=f]4z2 | ^g2a2[A,=g]2 D4[=Fd]2 |
+A4[Ge]2 =F4[D=f]2 | ^g2a2[A,=g]2 D4[=Fd]2 | A4[Ge]2 =F4[D=f]2 | ^d2e2[E,=d]2 c2B2A2 |
+^d2e2[E,=d]2 c2B2A2 | ^g2a2[A,=g]2 ^A,6 | [^G=f]2e2d2 [Ac]2a2a2 | a2g2e2 d2c2d2 |
+e3/2a/g2e2 d2c2B2 | A2B2c2 d2A2[Df]2 | e2A2[A,g]2 f2^g2a2 | e3/2a/g2e2 d2c2d2 |
+e3/2a/g2e2 d2c2B2 | A2B2c2 d2e2[Df]2 | a2d2[A,e]2 [Dd]6 | d2c2[D=c]2 B2d2d2 |
+=c2d2d2 B2dzg2 | e2^d2[E=d]2 c2e2e2 | d2e2e2 c2e2a2 | a2^g2[c=g]2 f2a2a2 |
+e2a2a2 d2g2g2 | c2f2f2 B2e2e2 | A2d2d2 [Gc]2B2A2 | e2d2c2 g2f2e2 |
+a2g2e2 d2c2d2 | e3/2f/g2e2 d2c2B2 | A2B2c2 d2A2[Df]2 | e2A2[A,g]2 f2^gaba |
+e3/2a/g2e2 d2c2d2 | e3/2f/g2e2 d2c2B2 | A2B2c2 d2e2[Df]2 | a2g2[A,e]2 [Dd]6 |
+[A,Acea]6 [Ddfc']6 | [A,Aa]6 [DAdf]6- | [DAdf]6 z6 |]
+V:S02
+x6 | [DF]6 [DF]6 | [A,G]6 [A,G]6 | [DF]6 [DF]6 |
+A,6 x6 | [DF]6 [B,F]6 | [E,G]6 x6 | A,6 A,6 |
+D6 A,6 | D6 A,6 | D6 E,6 | A,6 E,6 |
+A,6 x6 | [DF]6 [DF]6 | A,4x8 | [DF]6 [DF]6 |
+A,4x8 | [DF]6 [B,F]6 | [E,G]4x8 | A,6 A,6 |
+DAG=FED A,6 | DAG=FED A,6 | D^G=G=FED =C6 | [=FA=c]c^A=AGF =C6 |
+[=FA=c]c^A=AGF x6 | [Gd]d=c^A=AG x6 | A,6 A,6 | A,6 A,6 |
+[DF]6 [DF]6 | [A,G]4x8 | [DF]6 [DF]6 | A,6 x6 |
+[DF]6 [B,F]6 | [E,G]4x8 | A,6 A,6 | DA^GAFD A,6 |
+DA^GAFD xG[Ec]G[Ec]G | D6 D6 | x12 | x6 F6 |
+G6 A,4x2 | x6 F4x2 | C4x2 D6 | A,4x2 F6 |
+G6 A,4x2 | x6 F4x2 | A,4x8 | x8f2f2 |
+^A6 x2f2f2 | ^A6 x6 | x12 | x6 B,4x2 |
+x6 A,6 | E6 F6 | x2d2B2 x6 | x6 c4x2 |
+x2e2x4e2x2 | x6 c4x2 | x2e2x4e2x2 | x8A,2x2 |
+x2A,2x4A,2A,2 | x8A,2x2 | x2A,2x4A,2A,2 | x6 F6 |
+G6 A,4x2 | x6 F4x2 | C4x2 D6 | A,6 D6 |
+G6 A,4x2 | x6 F4x2 | A,4x8 | x8=f2x2 |
+x2c2x4d2x2 | x8=f2x2 | x2c2x4d2x2 | x8a2x2 |
+x2=f2x4d2x2 | G6 =C6 | =F6 x2=c2a2 | x8a2x2 |
+x2=f2x4d2x2 | G,6 =C6 | =C6 x6 | x8=f2x2 |
+x2c2x4d2x2 | x8=f2x2 | x2c2x4d2x2 | x6 A,6 |
+x6 A,6 | x8[^G=f]2[Gf]2 | ^A,6 =A,4x2 | x6 F6 |
+G6 A,4x2 | x6 E4x2 | C4x2 D6 | A,4x2 F6 |
+G6 A,4x2 | x6 F4x2 | A,4x8 | x6 G6 |
+F6 G6 | x6 A6 | ^G6 A6 | x6 d6 |
+c6 B6 | A6 G6 | F6 E6 | [CA]6 [A,Ac]4x2 |
+x6 F6 | G6 A,4x2 | x6 F4x2 | C4x2 D6 |
+A,6 F6 | G6 A,6 | x6 F4x2 | A,4x8 |
+x12 | x12 | x12 |]

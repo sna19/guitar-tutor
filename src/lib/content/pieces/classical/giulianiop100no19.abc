@@ -1,0 +1,20 @@
+X:1
+T:24 Studies for the Guitar, No. 19 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+G,2A,B, CDEF GABc defg | fgfe fgab c'bag fedc | BGBd gBdg bdgb d'3b | ac'gb faeg dfce BdAc |
+[GB]G,A,B, CDEF GABc defg | fgfe fgab c'bag fedc | BGBd gBdg bdgb d'3b | ac'gb faeg dfce BdAc |
+[GB]2G,A,2B,CD E=F=fe fedc | B2GA Bcde =fedc BAG=F | ECEG cEGc eGce g2g2 | ^a2ga eg^ce ^AcGA EG^CE |
+D4 [GBg]4 D4 [Adf]4 | [G,GBg]4 z12 |]
+V:S02
+x16 | D4 x4 D4 x4 | x16 | D4 x4 D4 x4 |
+x16 | D4 x4 D4 x4 | x16 | D4 x4 D4 x4 |
+x16 | x16 | x16 | x16 |
+x16 | x16 |]

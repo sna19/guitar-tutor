@@ -1,0 +1,22 @@
+X:1
+T:Divertissements pour la guitare, n°5.2 · O 1.5.2
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+e'2-e'/^f'g'/ | f'/^g'a'/e'/f'd'/ b2-b/d'b/ | c'2c2 c''2b'2 | a'2g'2 f'2e'2 |
+[gd']/gg/g/^fg/ e'2-e'/^f'g'/ | f'/^g'a'/e'/f'd'/ b2-b/d'b/ | c'2c2 c''2b'2 | a'2c''/b'a'/ g'2^f'2 |
+g'2G2 g'2a'2 | b'3c'' d''2e''2 | f''2g2 e''/c''e''/b'/^g'b'/ | c''/a'c''/^g'/e'g'/ [f'a']/[e'g'][f'a']/c''/a'[d'f']/ |
+[c'e']2[Gbd']2 e'2-e'/^f'g'/ | f'/^g'a'/e'/f'd'/ b2b/d'b/ | c'2c2 ^g'2a'2 | [^gb']2[ac'']3/2[^fc'^d'a']/ [=gg']2[Gb]2 |
+[cc']2c'2 x4 |]
+V:S02
+c/bc'/_b2 | a2z2 z/^g=g/f2 | z/eg/z2 a'/c'a'/g'/c'g'/ | f'/c'f'/e'/c'e'/ d'/gb/c'/ce/ |
+z4 c/bc'/_b2 | a2z2 z/^g=g/f2 | z/eg/z2 e'/c'e'/d'/^ge'/ | c'/ae'/z2 d'/bd'/c'/ac'/ |
+b/dg/z2 b/gd'/c'/g^f'/ | d'/gf'/d'/f'[c'e']/ b/f'g'/c'/e'g'/ | d'/g'b/z6 | z8 |
+z/^fg/z2 c/bc'/_b2 | a2z2 z/^g=g/f2 | z/eg/z2 e/bd'/z/fc'/ | z/d'f'/c'/e'zc'e'/z/df/ |
+z/eg/z6 |]

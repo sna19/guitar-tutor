@@ -1,0 +1,24 @@
+X:1
+T:16 Studies for the Guitar: 4 · Op. 59 No. 4
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:F
+V:S01
+c=Bcd c[FA]3 | c[EB]3 c[FA]3 | c=Bcd c[EG]3 | [Ge][Fd]3 [D=B][Ec]3 |
+c=Bcd cD3- | DC4=B,3- | =B,_B,4fcd | BC2C2F2F, |
+[F,Af][F,Ge][F,Bg][F,Af] [F,Bd][Ac]3 | [F,FA][DB]2[Ec]2[FA]3 | [F,Af][F,Ge][F,Bd][F,Ac] [F,_A=B][=Ac]3 | [F,EA][F,DB][F,d][F,Ec] [F,B]Acc |
+cc4[A,F]3- | [A,F]c4[FA]3- | [FA]cde f[Ge][Ge]2 | [Bd]2[Ac]2 [EB][EA]cd |
+cc4[CG]3- | [CG]c4[EA]3- | [EA]cde f[Be][Be]2 | [Bg]2[Af]2 [Ge][F,Af]2z |
+[A,A][B,B][=B,=B][Cc] [_D_d]=D2_B,- | B,G,2C2[FAcf]3- | [FAcf]z7 |]
+V:S02
+x6CC- | CxCC2xCC- | Cx3 x2CC- | CxG,G,2xCC- |
+Cx3 x2Bf | dxAf cxGf | dxGc eA,2B,- | B,xAx AF,F,x |
+x4xF,F,F, | xF,F,F, F,F,F,F, | x4xF,F,F, | x4x[F,F]3- |
+[F,F]x[A,F][A,F] [A,F]xcc | cx[A,F][A,F] [A,F]xcc | cx4C2C- | CC2C2F,3- |
+F,x[A,F][A,F] [A,F]x=Bc | =Bx[CG][CG] [CG]xcd | c[EA]4C2C- | CC2C2x3 |
+x6dx | BxGx [Bce]x3 | x8 |]

@@ -1,0 +1,28 @@
+X:1
+T:16 Studies for the Guitar: No. 8 · Op. 59 No. 8
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=82
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+DFAd | dcec A2EG | GFAF D4 | ^ABe^d fege |
+dcBA DEAd | dcec A2EG | GFAF D4 | cedB E2E2 |
+A4 A,4 | ^d4 ^D4 | g4 E,4 | c4 B,4 |
+f4 D4 | ^AB^de F,4 | ^AB^de F,4 | ^ABgf eBed |
+dcBA DFAd | dcec A,CEG | GFAF D4 | ^Ade^d fege |
+dcBA DFAd | dcec A,CEG | GFAF D4 | cBge dfec |
+dafd cage | D2B,2 G,2A,2 | DAFD CAGE | D2B,2 G,2C2 |
+D4 dAFA | D4 [DAdf]4 | [F,A,D]8 |]
+V:S02
+x4 | A,4 A,Cx2 | x4xAdc | G,4 x4 |
+A,4 x4 | A,4 A,Cx2 | x4xfed | A,2D2 xAx^G |
+xA,CE xAaf | x=cAF xB^df | xEGB xBge | x^AGE x=Ace |
+xdAF xAdc | G,4 xAdc | G,4 xAdc | G,4 ^G,4 |
+A,4 x4 | A,4 x4 | x4xAdc | G,4 x4 |
+A,4 x4 | A,4 x4 | x4xfed | G,4 A,2A,2 |
+D4 A,4 | x[df]x[df] x[de]x[ce] | x8 | x[df]x[df] x[de]x[ce] |
+xdaf x4 | x8 | x8 |]

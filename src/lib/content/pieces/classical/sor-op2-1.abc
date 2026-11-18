@@ -1,0 +1,20 @@
+X:1
+T:Six divertissements pour la guitare, n°1 Minuetto · O 2.1
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=84
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+[gbg']4 [dbg']4 [gbg']4 | g'8 f'4 | [dc'a']4 [ec'a']4 [fc'a']4 | [c'a']8 [Gbg']4 |
+[g'b']4 [f'a']4 [e'g']4 | [e'g']4 [d'f']4 [c'e']4 | [gbd']4 [cac']4 [^cgb]4 | [gb]4 [fa]4 z4 |
+d'4 [^c'e']4 [=c'f']4 | g'8 [d'f']4 | d'4 [^c'e']4 [=c'f']4 | g'8 [ad'f']4 |
+d'4 [^c'e']4 [=c'f']4 | [gbg']4 [Bgd'=f']8 | [cgc'e']4 [Ac'e'a']4 [dac'f']4 | [c'f']4 [bg']4 z4 |]
+V:S02
+x12 | [ac']4 d8 | x12 | g4 d4 x4 |
+g12 | g12 | x12 | d8 x4 |
+d12 | [db]4 ^c'4 x4 | d12 | [db]4 [^a^c']4 x4 |
+d8 x4 | x12 | x12 | g8 x4 |]

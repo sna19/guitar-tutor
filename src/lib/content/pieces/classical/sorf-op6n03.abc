@@ -1,0 +1,34 @@
+X:1
+T:12 Etudes, No. 3 · Op. 6 No. 3
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+[EGB]2z2 g/f/ez2 | [DAB]2z2 a/g/fz2 [EGB]2z2 g/f/ez2 | [B,FB]2z2 f/e/dz2 [EGB]2z2 g/f/ez2 | [A,Ac]2z2 a/g/fz2 [^A,Ec]2z2 g/f/ez2 |
+[B,DB]2z2 d/c/Bz2 [EGB]2z2 g/f/ez2 | [DAB]2z2 a/g/fz2 [EGB]2z2 g/f/ez2 | [FA]2z2 d/c/Bz2 [EG]2z2 b/a/gz2 | [A,Ac]2z2 a/g/fz2 [B,FA]2z2 f/e/dz2 |
+[E,Ge]2z6 [E=GB]2z2 =g/f/ez2 | [FAB]2z2 f/e/dz2 [DAB]2z2 a/=g/fz2 | [E=GB]2z2 =g/f/ez2 [E,GB]2z2 b/a/gz2 | [A,A=c]2z2 f/=g/az2 [^A,=G^c]2z2 g/f/ez2 |
+[B,FB]2z2 d/c/Bz2 [E=G]2z2 =g/f/ez2 | [FA]2z2 f/e/=dz2 [F=cd]2z2 =c'/b/az2 | [=GB=d]2z2 b/a/=gz2 [B,Gd]2z2 =d'/=c'/bz2 | [=CEA]2z2 =c'/b/az2 [=DA=c]2z2 a/=g/fz2 |
+[=G,B=g]2z6 [=GB=d]2z2 b/a/gz2 | [=FB=d]2z2 =d'/=c'/bz2 [EBd]2z2 b/a/gz2 | [A=c]2z2 =c'/b/az2 [GB=de]2z2 =d'/c'/bz2 | [A=ce]2z2 =c'/b/az2 [A,Ac=f]2z2 [^A,=G^ce]2z2 |
+[B,=GBe]4 [Fd]2z2 [DAB]2z2 a/=g/fz2 | [E=GB]2z2 =g/f/ez2 [DAB]2z2 a/g/fz2 | [F=GB]2z2 =g/f/ez2 [E,GB]2z2 b/a/gz2 | [A,A=c]2z2 f/=g/az2 [B,=GBe]2z2 [B,FAd]2z2 |
+[FAd]4 [E=Ge]4 [E^GB]2z2 g/f/ez2 | [DAB]2z2 a/g/fz2 [EGB]2z2 g/f/ez2 | [FAB]2z2 f/e/dz2 [EGB]2z2 b/a/gz2 | [A,Ac]2z2 a/g/fz2 [^A,Ec]2z2 g/f/ez2 |
+[B,DB]2z2 d/c/Bz2 [EGB]2z2 g/f/ez2 | [DAB]2z2 a/g/fz2 [EGB]2z2 g/f/ez2 | [FA]2z2 d/c/Bz2 [EG]2z2 b/a/gz2 | [A,Ac]2z2 a/g/fz2 [B,FA]2z2 f/e/dz2 |
+[Ge]4 [GB]3[Ac] [B=d]2z2 b/a/fz2 | [Ac]2z2 c'/b/az2 [FA]2z2 f/e/dz2 | [Ge]4 [GB]3[Ac] [B=d]2z2 b/a/fz2 | [Ac]2z2 c'/b/az2 [FA]2z2 f/e/dz2 |
+[E,EG]2z2 g/f/ez2 [FAd]2z2 D/C/B,z2 | [E,EG]2z2 g/f/ez2 [FAd]2z2 D/C/B,z2 | G2B2 g/f/eB2 G2B2 g/f/eB2 | G2B2 g/f/eB2 G2B2 g/f/eB2 |
+[E,G]8 z8 |]
+V:S02
+x8 | x16 | x16 | x16 |
+x16 | x16 | x12 B2x2 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+E,8 x8 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+E,12 x4 | E,16 | E,16 | E,16 |
+x16 | x16 | E,4 G2x2 G,/F,/E,x2 G2x2 | G,/F,/E,x2 G2x2 G,/F,/E,x2 G2x2 |
+x16 |]

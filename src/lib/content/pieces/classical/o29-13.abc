@@ -1,0 +1,42 @@
+X:1
+T:Opus 29, No. 13 · O 29, No 13
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=30
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Bb
+V:S01
+z/d'b/f/f'd'/ z/d'b/f/f'd'/ | z/e'c'/f/f'e'/ z/e'c'/f/f'e'/ | z/d'b/f/f'd'/ z/=e'c'/b/e'c'/ | z/f'c'/a/c'a/ f/f'c'/a/c'f'/ |
+z/g'e'/b/e'g'/ z/a'f'/c'/f'a'/ | z/b'f'/b/b'f'/ b/f'd'/z/f'b/ | z/e'b/g/e'b/ z/e'a/f/f'e'/ | z/d'b/f/d'b/ f/d'b/f/d'b/ |
+z/c'g/=e/g'c'/ z/c'g/e/g'c'/ | z/f'c'/f/f'c'/ a/f'c'/f/f'c'/ | z/c'g/=e/g'c'/ z/c'g/e/g'c'/ | z/f'c'/f/f'c'/ a/f'c'/f/f'c'/ |
+z/c'a/f/f'c'/ z/_d'a/f/f'd'/ | z/d'b/f/f'd'/ z/d'b/g/b'd'/ | z/a'f'/c'/a'f'/ z/g'=e'/c'/g'e'/ | z/c''f'/c'/c''f'/ a/c''f'/c'/c''f'/ |
+z/f'c'/a/c''f'/ z/f'_d'/a/_d''f'/ | z/f'd'/b/d''f'/ z/g'd'/b/b'g'/ | z/a'f'/c'/a'f'/ z/g'=e'/b/g'e'/ | z/f'c'/a/c'a/ z4 |
+z/f'c'/a/c'f'/ z/g'=e'/b/e'g'/ | z/a'e'/c'/e'a'/ z/b'd'/b/d'b'/ | z/e'c'/f/c'e'/ z/d'b/f/bd'/ | z/d'b/f/bd'/ z/c'a/f/ac'/ |
+z/f'c'/a/c'f'/ z/g'=e'/b/e'g'/ | z/a'e'/c'/e'a'/ z/b'd'/b/d'b'/ | z/e'c'/f/e'c'/ z/d'b/f/d'b/ | z/c'a/z/f'a/ z/=e'b/z/_e'c'/ |
+z/d'b/f/f'd'/ z/d'b/f/f'd'/ | z/e'c'/f/f'e'/ z/e'c'/f/f'e'/ | z/d'b/f/f'd'/ z/=e'c'/b/e'c'/ | z/f'c'/a/c'a/ f/ac'/f'/ac'/ |
+z/_g'c'/a/g'c'/ z/g'c'/a/g'c'/ | z/g'c'/g/g'c'/ g/g'c'/z/g'c'/ | z/_g'c'/a/g'c'/ z/g'c'/a/g'c'/ | z/g'c'/g/g'c'/ g/g'c'/g/g'c'/ |
+z/g'c'/a/g'c'/ z/_g'c'/a/g'c'/ | z/f'd'/b/f'd'/ z/b'd'/b/b'd'/ | z/b'c'/g/c'b'/ z/a'e'/c'/a'e'/ | z/b'f'/d'/f'd'/ z/f'd'/z/d'f'/ |
+z/g'e'/b/b'g'/ z/g'e'/b/b'g'/ | z/f'd'/b/b'f'/ z/d'b/f/f'd'/ | z/c'a/f/f'e'/ z/c'a/f/f'e'/ | z/d'b/f/f'd'/ z/f'd'/b/b'f'/ |
+z/g'e'/b/b'g'/ z/_g'e'/b/b'g'/ | z/f'd'/b/b'f'/ z/d'b/f/f'd'/ | z/c'a/f/f'e'/ z/c'a/f/f'e'/ | z/d'b/f/f'd'/ z/d'b/f/f'd'/ |
+z/d'c'/d/_g'd'/ z/d'c'/d/g'd'/ | z/d'b/d/g'd'/ z/d'b/d/g'd'/ | z/d'c'/d/a'd'/ z/d'c'/d/a'd'/ | z/d'b/g/b'd'/ z/d'b/g/b'd'/ |
+z/g'_d'/b/g'd'/ z/g'd'/b/g'd'/ | z/f'd'/b/f'd'/ z/d'b/f/d'b/ | z/c'b/=e/c'b/ z/c'a/_e/f'a/ | z/bd/f/bd/ z/bd/f/bd/ |
+z/bf/d/fd/ z/bf/d/fd/ | z8 |]
+V:S02
+B4 B4 | A4 A4 | B4 G4 | F8 |
+e4 e4 | d6d2 | c4 F4 | B8 |
+B4 B4 | A8 | B4 B4 | A8 |
+A4 A4 | B4 G4 | c4 c4 | A8 |
+A4 A4 | B4 B4 | c4 c4 | F4 f2x2 |
+f4 f4 | f4 f4 | A4 B4 | F4 F4 |
+F4 f4 | f4 f4 | A4 B4 | F2f2 g2a2 |
+B4 B4 | A4 A4 | B4 G4 | F8 |
+d4 d4 | e6e2 | d4 d4 | e8 |
+e4 e4 | d4 g4 | e4 f4 | B4 b2b2 |
+B4 B4 | B4 B4 | B4 B4 | B4 B4 |
+B4 B4 | B4 B4 | B4 B4 | B4 B4 |
+A4 A4 | G4 G4 | _G4 G4 | G4 G4 |
+=E4 E4 | F4 F4 | F4 F4 | B4 B4 |
+B4 B4 | B8 |]

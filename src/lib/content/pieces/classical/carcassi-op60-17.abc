@@ -1,0 +1,36 @@
+X:1
+T:25 Studies: No. 17 · O 60
+C:M. Carcassi
+M:2/4
+L:1/16
+Q:1/4=92
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+zAzB zczd | zezf zeza | zc'zc' zbzb | zaza zgzg |
+z^fzf z=fzf | zeze zdzc | zBzB zczc | z^GBe zDCB, |
+zAzB zczd | zezf zeza | zc'zc' zbzb | zaza zgzg |
+z^fzf z=fzf | zeze zdzc | zBzB zB^Ge | zAec z4 |
+zczd zezf | zgza zgzc' | ze'ze' ze'ze' | zgzg zazg |
+zd'zd' zd'zd' | zfzf zgzf | zeze zfze | zdzd zezd |
+zczc zdzc | zBzd zczB | zAzc zBzA | z^GBe zDCB, |
+zAzB zczd | zezf zeza | z_bzb zaza | zgzg zfzf |
+zez^G zAzB | zcz^c zdzf | zcze zB^Ge | zAec z4 |
+z3A zAzA | z2c2 c2c2 | z3A zAzA | z3[Bf] z[Bf]z[Bf] |
+z3[d^g] z[dg]z[dg] | z3[A^d] z[Ad]z[Ad] | z8 | [E,Bd]3F EDB,E |
+z8 |]
+V:S02
+A,2B,2 C2D2 | E2F2 E2A2 | E2E,2 ^G2E,2 | A2A,2 ^c2A,2 |
+d2A,2 d2A,2 | c2A,2 D2^D2 | E2^G2 ^D2A2 | E4 E,4 |
+A,2B,2 C2D2 | E2F2 E2A2 | E2E,2 ^G2E,2 | A2A,2 ^c2A,2 |
+d2A,2 d2A,2 | c2A,2 D2^D2 | E2A2 E,4 | A,4 A2x2 |
+C2D2 E2F2 | G2A2 G2c2 | c2G2 c2G2 | e2G2 f2e2 |
+f2G2 f2G2 | d2G2 e2d2 | c2G2 A2G2 | F2G,2 G2F2 |
+E2C2 F2E2 | D2B,2 E2D2 | C2A,2 D2^D2 | E4 E,4 |
+A,2B,2 C2D2 | E2F2 E2A2 | ^c2A,2 c2A,2 | d2D2 d2D2 |
+E2D2 C2B,2 | A,2G2 F2D2 | E2A2 E,4 | A,4 A2x2 |
+[A,A]2A,2 A,2A,2 | [A,G^c]2c[e_b] c[eb]c[eb] | [dfa]2A,2 A,2A,2 | [A,^FGd]2G2 G2G2 |
+[Gce]2B2 B2B2 | [cea]2F2 F2F2 | [EAce]2x6 | ^g8 |
+[A,cea]8 |]

@@ -1,0 +1,26 @@
+X:1
+T:Opus 50 No. 23 · Op. 50
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=92
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+e'2 | e'3f'e'2 [E^gbe']4[bd'e']2 | [ae'a'c'']4a'2 g'f'e'zc'b | e'6 [e^g']6 |
+a6 e6 | e6 e6 | [aa']2[ac'e']2[ac']2 [ac']4c'2 | [ee']4b2 [^fab^d']4[bd'a']2 |
+[gabe']4e'2 d'c'bzg^f | b6 [b^d']6 | e6 ^d'6 | e'6 b6 |
+[egbe']2[Bgbe']2[Ggbe']2 [Egbe']4e'2 | [c'e']2f'e'd'c' [dgb]4g2 | [egc'g']6 abc'd'e'f' | G6 G6 |
+c'2e'2e'2 e'2e'2e'2 | e'2d'2b2 d'2c'2z2 | ^g2b2g2 e2g2b2 | A6 G6 |
+f4[eae']2 f'3e'd'2 | c'2e'4 b2e'4 | a3c'ba E6 | E6 E6 |
+[Ac'e'a']6 z6 |]
+V:S02
+x2 | [Aac']4x8 | x6 d'4x2 | x2a2c'2 e'2d'2b2 |
+x7^gbe'fg | xac'e'ac' xbd'e'^g'b' | x12 | [gb]3c'x8 |
+x6 a4x2 | x2e2g2 x2a2^f2 | x7ab^f'ab | xgbg'gb xa^dax^f' |
+x12 | [cg]4x8 | x6 f6 | x2[ge']2[ec']2 x2[fd']2[db]2 |
+[ce]6 x6 | [E^g]6 [Ea]6 | E6 E6 | x2[ac']2[ac']2 x2[a^c']2[ac']2 |
+x2[ad']2x2 [da]4x2 | [Ea]6 [E^g]6 | A4x3^gbe'gb | xac'e'ac' xbd'e'^g'b' |
+x12 |]

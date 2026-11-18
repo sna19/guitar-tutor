@@ -1,0 +1,36 @@
+X:1
+T:Six divertissements pour la guitare, n°2 Waltz · O 2.2
+C:F. Sor
+M:3/8
+L:1/16
+Q:1/4=84
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+d'/e'd'/[gb]2[ac']2 | [c'e']4[bd']2 | [df']2g'/z/e'[ac'f']2 | g'2b'2d'2 |
+d'/e'd'/[gb]2[ac']2 | [^a^c']2d'2g'2 | [bd']2[ac']2[gb]2 | [dfa]4z2 |
+[ac']2[dac'd']/z/b[dac']2 | [Ggb]2[bd']3[gb] | [Dac']2d'/z/b[dac']2 | [Ggb]2[bd']4 |
+[Ggbg']2[Agc'f']2[Bgd'=f']2 | [cgc'e']2[Ac'e'a']2z2 | f'2[c'f'g']/z/e'[ac'f']2 | [gbg']4z2 |
+[d'b']6 | [bg']6 | [gc'e']2e'f'[gc'g']2 | [bd']4[gb]2 |
+[d'b']6 | [bg']6 | e'2a'2a'2 | [fd']4d2 |
+[a'c'']6 | [f'a']6 | [df']2[dac'f']2[dac'f']2 | a'/z/f'g'a'b'2 |
+[a'c'']6 | [f'a']6 | [df']2[dac'f']2[dac'f']2 | [gbg']4z2 |
+d'/e'/d'[gb]2[ac']2 | [c'e']4[bd']2 | [df']2g'/z/e'[ac'f']2 | g'2b'2d'2 |
+d'/e'/d'[gb]2[ac']2 | [^a^c']2d'2g'2 | [bd']2[ac']2[gb]2 | [dfa]4z2 |
+[ac']3/2d'/[dac']b[dac']2 | [Ggb]2[bd']3[gb] | [Dac']2c'b[dac']2 | [Ggb]2[bd']4 |
+[Ggbg']2[Agc'f']2[Bgd'=f']2 | [cgc'e']2[Ac'e'a']2z2 | f'3/2g'/[c'f']e'[ac'f']2 | [gbg']4z2 |]
+V:S02
+b2x4 | x6 | x2[ac'f']x3 | [gb]4x2 |
+b2x4 | x2b4 | d6 | x6 |
+D6 | x2d2d2 | x2[dac']x3 | x2d2d2 |
+x6 | x6 | d2a2x2 | x6 |
+g2ggg2 | g2ggg2 | x2[gc']2x2 | g2g2x2 |
+g2ggg2 | g2ggg2 | [Ag^c']6 | d2d2x2 |
+d2ddd2 | d2ddd2 | x6 | [gbg']x4x |
+d2ddd2 | d2ddd2 | x6 | x6 |
+b2x4 | x6 | x2[ac'f']x3 | [gb]4x2 |
+b2x4 | x2b4 | d6 | x6 |
+D6 | x2d2d2 | x3/2d'/[da]2x2 | x2d2d2 |
+x6 | x6 | d2a2x2 | x6 |]

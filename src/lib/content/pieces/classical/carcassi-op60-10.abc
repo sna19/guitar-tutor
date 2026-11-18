@@ -1,0 +1,32 @@
+X:1
+T:Etude 10 · O 60
+C:M. Carcassi
+M:3/8
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+[fa]2[fa]/ba/[fa]/ba/ | [fa]2[df]2[df]2 | [gb]2[gb]/c'b/[gb]/c'b/ | [gb]2[eg]2[eg]2 |
+[eg]2[eg]/bg/[eg]/bg/ | [eg]2[ce]2[ce]2 | [fa]2[fa]/ba/[fa]/ba/ | [fa]2[df]2[df]2 |
+[d^g]2[dg]/ag/[dg]/ag/ | [d^g]2[db]2[db]2 | [ca]2[ca]/ba/[ca]/ba/ | [ca]2[ec']2[ec']2 |
+[db]2[db]/c'b/[db]/c'b/ | [db]2d'2[E,d^g]2 | [ca]2[ca]/ba/[ca]/ba/ | [A,ca]4z2 |
+[eg]2[eg]/ag/[eg]/ag/ | [eg]2[ce]2[ce]2 | [fa]2[fa]/ba/[fa]/ba/ | [fa]2[df]2[df]2 |
+[gb]2[gb]/c'b/[gb]/c'b/ | [gb]2[eg]2[eg]2 | [eg]2[eg]/ag/[eg]/ag/ | [eg]2[ce]2[ce]2 |
+[df]2[df]/gf/[df]/gf/ | [df]2[fa]2[fa]2 | [eg]2[eg]/ag/[eg]/ag/ | [eg]2[gb]2[gb]2 |
+[ce]2[ce]/fe/[ce]/fe/ | [ce]2[eg]2[eg]2 | [df]2[df]/gf/[df]/gf/ | [df]2[fa]2[fa]2 |
+[a=c']2[ac']/d'c'/[ac']/d'c'/ | [a=c']2[fa]2[fa]2 | [bd']2[bd']/e'd'/[bd']/e'd'/ | [bd']2[gb]2[gb]2 |
+[fa]2[fa]/ba/[fa]2 | [gc']2[gc']/d'c'/[gc']2 | [fd']2[fd']/e'd'/[fd']/e'd'/ | [Dfd']4z2 |]
+V:S02
+D6 | D6 | D6 | D6 |
+D6 | D6 | D6 | D6 |
+E,6 | E,6 | A,6 | A,6 |
+D6 | D4x2 | A,6 | x6 |
+A,6 | A,6 | A,6 | A,6 |
+A,6 | A,6 | A,6 | A,6 |
+D6 | D6 | D6 | D6 |
+D6 | D6 | D6 | D6 |
+D6 | D6 | G6 | G6 |
+A,6 | A,6 | D6 | x6 |]

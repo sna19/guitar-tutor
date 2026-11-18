@@ -1,0 +1,40 @@
+X:1
+T:12 Etudes, No. 10 · Op. 6 No. 10
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+xcxB xcxB xcxe xgxB | xcxB xcxB xcxe xcxB | xAx^c xdxc xdxe xfxe | xfx^f xgx^g xax=f xdxB |
+xcxG xcxe xgxc xexg | xc'xb xc'xb xc'xb xc'x^g | xax^g xax=g x^fxd xexf | xgx^f xgx^d xexB xcx^c |
+x2d2 d2d2 x8 | xdx^c xdxa x^gxa x^fxd | xdx^c xdxb x_bx=b xgxd | xdx^c xdxa x^gxa x^fxd |
+xdx^c xdxb x_bx=b xgxd | xBxd xgx^f xaxg xdxB | xcxe xgx^f xaxg xex^c | xdx^d xexb xcx^c x=dx^F |
+xGxB xdxB x8 | xgx^f xgxf xgxf xgx_b | xax^g xaxg xax^c xdxe | xfxe xfxe xfxe xfx^g |
+xgx^f xgxf xgxB xcxd | x^dx=d x^dx=d x^dxg xdx=d | xcxB xcxB xcx^d xcx_B | x2^G2 x2G2 x2=G2 x2^F2 |
+xGxB xdxB x8 | xfxe xfxd xBxG xGxG | xgx^f xgxe xcxG xGxG | xfxe xfxd xBxG xGxG |
+xgx^f xgxe xcxG xGxG | xcxB xcxe xgxa x_bx^c | xdxe xfxg xaxb xc'x^f | xgx^g xaxe xfx^f x=gxB |
+xcxe xgxe xcxe xcxB | xAxf xdxc xBxd xGxB | xcxe xgxe xcxe xcxB | xAxf xdxc xBxd xGxB |
+xcxB xcxd xexf x^fxg | x^gxa x_bx=b xc'xe xfx^f | xgx2 x12 | x12 [B,G]4- |
+[B,G]4 x8 C4 | x8 ^G,4 x4 | x16 | x16 |
+x4 [^CA]4 A,8 | D8 x4 [B,G]4 | G,4 x6G2 C4 | C4 [Cc]2G2 c2x2 C2C2 |
+x4 G4 x4 C4 | C4 x4 [^CF_B]8- | [^CF_B]4 [=CE]4 C2x6 | x12 [C^G]4 |
+[B,G]2x2 x8 [A,A]4 | x16 | F,4 x12 | x16 |]
+V:S02
+C2B,2 C2B,2 C2E2 G2B,2 | C2B,2 C2B,2 C2E2 C2B,2 | A,2^C2 D2C2 D2E2 F2E2 | F2^F2 G2^G2 A2=F2 D2B,2 |
+C2G,2 C2E2 G2C2 E2G2 | c2B2 c2B2 c2B2 c2^G2 | A2^G2 A2=G2 ^F2D2 E2F2 | G2^F2 G2^D2 E2B,2 C2^C2 |
+D8 d2d2 d2d2 | D2^C2 D2A2 ^G2A2 ^F2D2 | D2^C2 D2B2 _B2=B2 G2D2 | D2^C2 D2A2 ^G2A2 ^F2D2 |
+D2^C2 D2B2 _B2=B2 G2D2 | B,2D2 G2^F2 A2G2 D2B,2 | C2E2 G2^F2 A2G2 E2^C2 | D2^D2 E2B,2 C2^C2 =D2^F,2 |
+G,2B,2 D2B,2 G,4 z4 | G2^F2 G2F2 G2F2 G2_B2 | A2^G2 A2G2 A2^C2 D2E2 | F2E2 F2E2 F2E2 F2^G2 |
+G2^F2 G2F2 G2B,2 C2D2 | ^D2=D2 ^D2=D2 ^D2G2 D2=D2 | C2B,2 C2B,2 C2^D2 C2_B,2 | ^G,4 G,4 =G,4 ^F,4 |
+G,2B,2 D2B,2 G,4 z4 | F2E2 F2D2 B,2G,2 G,2G,2 | G2^F2 G2E2 C2G,2 G,2G,2 | F2E2 F2D2 B,2G,2 G,2G,2 |
+G2^F2 G2E2 C2G,2 G,2G,2 | C2B,2 C2E2 G2A2 _B2^C2 | D2E2 F2G2 A2B2 c2^F2 | G2^G2 A2E2 F2^F2 =G2B,2 |
+C2E2 G2E2 C2E2 C2B,2 | A,2F2 D2C2 B,2D2 G,2B,2 | C2E2 G2E2 C2E2 C2B,2 | A,2F2 D2C2 B,2D2 G,2B,2 |
+C2B,2 C2D2 E2F2 ^F2G2 | ^G2A2 _B2=B2 c2E2 F2^F2 | G4 z4 [G,DFB]4 z4 | [CEGc]4 [A,EAc]4 [F,FAd]4 [DB]4- |
+[DB]2[Cc]2 [B,d]4 [CGe]4 [Gce]7/2g/ | [F,Acf]4 [G,Gce]4 [FBe]3d [A,EAc]4 | [F,FAd]4 [G,EGc]4 [G,DGB]4 [CEGc]4- | [CEGc]4 z4 [CGeg]4 [EGcg]4 |
+[D_Bdg]4 [eg]6[df]2 [A^ce]4 | [df]4 [Adf]4 [C^Gdf]4 [df]4- | [df]2[ce]2 [GBd]4 [Cce]4 [Af]2[Ge]2 | [Fd]2[Ec]2 e6[Bdf]2 [_Beg]4 |
+[FAfa]3[FAdf] [ce]7/2e/ [G,FBd]4 [EGc]4- | [EGc]4 C4 g4 g4 | g4 [_Bg]6[FAf]2 [CGBe]4 | [CFAf]4 f4 f4 [df]4- |
+[df]2[Ce]2 [Dd]4 [^G,Bde]4 [cf]2e2 | [Bd]2[Ac]2 [G,_B^ce]6[F,Adf]2 [E,Geg]4 | [Fda]3[Adf] [G,Gce]4 [G,FBd]4 [CEGc]4- | [CEGc]4 z12 |]

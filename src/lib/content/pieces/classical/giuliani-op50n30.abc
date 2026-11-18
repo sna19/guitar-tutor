@@ -1,0 +1,24 @@
+X:1
+T:Opus 50 No. 30 · Op. 50
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=104
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+d'2d'2 | d'3[db] d'2[Ac'][da] | g4 a4 | c'bag [c'e'][bd'][ac'][gb] |
+[dgb]2[dfa]2 ^c'd'e'd' | d'3[db] [Fd'][d^c'][A=c'][da] | gdgb ad'^c'g' | f'g'[gb]e' A2A2 |
+d'4 f'2f'2 | [Bg'][df'][Be'][dd'] c'2c'2 | ^adbd d'bag | fdgb d'c'c'b |
+[dgb]2[dfa]2 ^c'd'e'd' | d'3[db] [Fd'][d^c'][A=c'][da] | g4 a2a2 | bd'[ec'][ca] B2A2 |
+g3[dd'] b3[dg'] | e'3[gc'] a3[dc'] | b3[Bd'] b3[dg'] | e'3[gc'] a3[dd'] |
+[Gg]4 [Ggbg']4 | [GBdg]8 |]
+V:S02
+x4 | GdBx Fdx2 | GdBd FdAd | G4 x4 |
+x8 | GdBx x4 | G4 f2e2 | d2G2 x[fd']x[e^c'] |
+dddd cdcd | x4 AdAd | G4 x4 | c2B2 [Ad]2[Gd]2 |
+x8 | GdBx x4 | GdBd FdAd | G2x3gxf |
+GdBx GdBx | cgex FdAx | GBGx GdBx | cgex FdAx |
+x8 | x8 |]

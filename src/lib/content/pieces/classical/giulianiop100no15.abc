@@ -1,0 +1,64 @@
+X:1
+T:24 Studies for the Guitar, No. 15 · Op. 100
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=112
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+zcfc zBeB | zAdA zAdA | zABA zABA | zGBG zGBG |
+zAeA zGeG | zBeB zAeA | zded zcec | zBeB zBeB |
+zcec zBeB | zAdA zAcA | zABA zABA | zGBG zGBG |
+zAeA zA^dA | zAeA zAfA | zAcA zGBG | z8 |
+z2A2 =c2z2 | z2B2 e2z2 | z2A2 =c2z2 | z2B2 e2z2 |
+z2A2 B2z2 | z2=c2 d2z2 | z2e2 =f2z2 | z2G2 B2e2 |
+z2A2 =c2z2 | z2B2 e2z2 | z2A2 =c2z2 | z2B2 e2z2 |
+z2A2 B2z2 | z2=c2 ^A2z2 | z2A2 G2z2 | z8 |
+=C4 D4 | B,2=G,2 z4 | =C4 D4 | B,2=G,2 z4 |
+E4 B,4 | =C4 B,4 | D4 =C4 | B,4 z4 |
+=C4 D4 | B,4 z4 | =C4 D4 | B,4 z4 |
+=G,4 A,4 | B,4 =C4 | =F4 D4 | z8 |
+z2E2 e2=c2 | z2E2 d2B2 | z2E2 =c2A2 | z2E2 B2G2 |
+z2E2 [=ce]2[ce]2 | z2E2 [Bd]2[Bd]2 | z2E2 [A=c]2[Ac]2 | z8 |
+z2A2 =c2z2 | z2B2 e2z2 | z2A2 =c2z2 | z2B2 e2z2 |
+z2A2 B2z2 | z2=c2 ^A2z2 | z2A2 G2z2 | z8 |
+zcec zBeB | zAdA zAcA | zABA zABA | zGBG zGBG |
+zAeA zGeG | zBeB zAeA | zded zcec | zBeB zBeB |
+zcec zBeB | zAdA zAcA | zBfB zABA | zGBG zGeG |
+zAeA zA^dA | zAeA zAfA | zAcA zGBG | zAcA z=GeG |
+zFdF zGBG | zAcA z=GeG | zFdF zGBG | zAcA zAcA |
+zAcA zA=cA | zAcA eAcA | zGBG eGBG | zAcA z=GaG |
+zFdF zGeG | zAcA z=GaG | zFdF zGeG | zAcA zAcA |
+zAdA zA^dA | zAcA eAcA | zGBG eGBG | zAcA zAcA |
+zAcA zAcA | zAcA zAcA | zAcA zAcA | z8 |
+z8 | z8 |]
+V:S02
+A4 G4 | F4 E4 | D4 ^D4 | E4 D4 |
+C4 B,4 | D4 C4 | G,4 A,4 | E,4 G4 |
+A4 G4 | F4 E4 | D4 ^D4 | E4 D4 |
+C4 =C4 | C4 D4 | E4 E,4 | [A,A]4 x4 |
+A,6=C2 | B,6E,2 | A,6=C2 | B,6E,2 |
+A,6G,2 | A,6B,2 | =C6D2 | E,8 |
+A,6=C2 | B,6E,2 | A,6=C2 | B,6E,2 |
+A,6G,2 | A,6D2 | E6E,2 | [A,A]4 x4 |
+e2=G2 =f2G2 | d4 A,2=G,2 | e2=G2 =f2G2 | d4 A,2=G,2 |
+=c2=G2 d2G2 | e2=G2 d2G2 | =f2=G2 e2G2 | d2=g2 =f2d2 |
+e2=G2 =f2G2 | d2=G2 A2G2 | e2=G2 =f2G2 | d2=G2 A2G2 |
+=g2=G2 f2G2 | =f2=G2 e2G2 | d2A2 B2=G2 | [=C=c]4 x4 |
+E,8 | E,8 | E,8 | E,8 |
+E,8 | E,8 | E,8 | [E,GB]4 x4 |
+A,6=C2 | B,6E,2 | A,6=C2 | B,6E,2 |
+A,6G,2 | A,6D2 | E6E,2 | [A,A]4 x4 |
+A4 G4 | F4 E4 | D4 ^D4 | E4 D4 |
+C4 B,4 | D4 C4 | G,4 A,4 | E,4 G4 |
+A4 G4 | F4 E4 | D4 ^D4 | E4 D4 |
+=C4 C4 | =C4 D4 | E4 E,4 | A,4 A,4 |
+A,4 A,4 | A,4 A,4 | A,4 A,4 | A,4 =F4 |
+F4 ^D4 | E8 | E,8 | A,4 A,4 |
+A,4 A,4 | A,4 A,4 | A,4 A,4 | A,4 =G4 |
+F4 =F4 | E8 | E,8 | A,4 E,4 |
+A,4 C4 | A,4 E,4 | A,4 C4 | [A,Ac]4 x4 |
+[A,Ace]4 x4 | [A,Acea]8 |]

@@ -1,0 +1,36 @@
+X:1
+T:Les Favorites, No. 2 · Op. 11 No. 2
+C:D. Aguado
+M:2/4
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+e3f/^d/ a2c'2 | e7e | e7e | e4 [Gd]2z2 |
+[EBgd']3c' bagf | e4 [Bd]4 | [Edb]3a gfed | cdec A2z2 |
+B2Bc B2e2 | e4 ^d2c2 | B2Bc B2B2 | [EGB]4 E,4 |
+E,F,G,A, B,C^DE | A,6z2 | B,4 B,4 | [Ge]4 E,2z2 |
+e3f/^d/ a2c'2 | e7e | e7e | e4 [Gd]2z2 |
+[EBgd']3c' bagf | e4 [Bd]4 | [Edb]3a gfed | cdec A2z2 |
+A2AA AzAz | A6z2 | A2AA AzAz | A6z2 |
+A,B,CD EF=GE | D2FA d2fa | afec A2[=Gc]2 | D4 D2z2 |
+d2dd d2d2 | d8 | d4 [=ca]4 | =gfga g4 |
+e2ee e2e2 | e8- | e4 [db]2e2 | agab a2z2 |
+A2AA AzAz | A6z2 | A2AA AzAz | A6z2 |
+A,B,CD EF=GF | D2FA d2fa | a=gec A2[=Gc]2 | D4 D2z2 |]
+V:S02
+x8 | x2A,2 [Ac]2A,2 | x2A,2 [Ac]2A,2 | x2E,4x2 |
+x8 | x2E,2 G,2E,2 | x8 | A,6x2 |
+[EG]8 | [FA]8 | [^DA]8 | x8 |
+x8 | x2[Ac]2 f2x2 | x2[GBe]2 x2[A^d]2 | x2E2 x4 |
+x8 | x2A,2 [Ac]2A,2 | x2A,2 [Ac]2A,2 | x2E,2 x4 |
+x8 | x2E,2 G,2E,2 | x8 | A,6x2 |
+x8 | x2e2 d2x2 | x8 | x2=g2 e2x2 |
+x8 | x8 | A,8 | x2[Fd]4x2 |
+x8 | x2DE F=GAB | =c2A2 F2D2 | [=GB]4 x4 |
+x8 | x2EF GABc | d2B2 E,4 | [A,c]6x2 |
+x8 | x2f2 d2x2 | x8 | x2f2 d2x2 |
+x8 | x8 | A,8 | x2[Fd]4x2 |]

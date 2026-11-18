@@ -1,0 +1,22 @@
+X:1
+T:Etude 12 · O 60
+C:M. Carcassi
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+xdAx2eBx2fcx2gdx | xaex2bfx2c'gx2d'ax | xc'ax2b^gx2bex2aex | xgdx2acx2gcx2fdx |
+xdAx2cAx2=cAx2B^Gx | xeAx2d^Gx2dGx2cAx | xBAx2BAx2BAx2BAx | xBAx2e^Gx2ecx x4 |
+xAEx2BFx2cGx2dAx | xeBx2fcx2gdx2^gdx | xacx2gcx2gcx2fcx | xeBx2f^Ax2eAx2dBx |
+xdGx2=cGx2eAx2^dAx | xeBx2fBx2aBx2gBx | xgBx2^dAx2eBx2e=dx | xedx2edx2edx2acx |
+xd'ax2c'gx2bfx2aex | x^gdx2=gcx2fdx2=fdx | xecx2adx2gBx2b=fx | xedx2acx2afx x4 |]
+V:S02
+F3F G3G A3A B3B | c3c d3d e3e f3f | e3e d3d c3c c3c | B3B A3A A3A D3D |
+F3F E3E ^D3D =D3D | C3C B,3B, B,3B, A,3A, | D3D ^D3D E3E =F3F | E3E E,3E, A,3A a4 |
+C3C D3D E3E F3F | G3G A3A B3B B3B | A3A A3A ^A3A A3A | G3G F3F F3F B,3B, |
+E3E E3E F3F F3F | G3G ^D3[=D^D] F3F E3E | E3E F3F G3G ^G3[=G^G] | A3A ^A3A =A3A A,3A |
+f3f e3e d3d c3c | B3B ^A3A =A3A ^G3[=G^G] | F3F F3F E3E ^G3G | A3A A,3A, D3d d'4 |]

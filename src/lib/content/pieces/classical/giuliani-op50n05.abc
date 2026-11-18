@@ -1,0 +1,24 @@
+X:1
+T:Opus 50 No. 5 · Op. 50
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=132
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+e2 | a4 ac'ba | b4 e'f'e'd' | c'e'd'c' bd'c'b |
+A4 A2e2 | a4 ac'ba | bgbd' f'a'g'f' | e'g'f'e' d'f'e'd' |
+c'4 c2ba | e'4 e4 | c'4 A4 | g'f'2e'2d'2c' |
+A4 [^gb]2e2 | a4 ac'e'a' | f'3f' e'3e' | g'f'd'b e2E2 |
+A4 E4 | A2f2 d2e2 | A4 ^ge'd'b | A2f2 e2^d2 |
+e4 E4 | A4 a'e'c'e' | [Aa]4 z4 |]
+V:S02
+x2 | xAce A4 | xe^gx E4 | A4 E4 |
+xaec x4 | xAce A4 | G4 d4 | c4 B4 |
+xceg xc'x2 | E^gbg xgbd' | Acea xc'e'a' | d2c2 B2A2 |
+xeac' E4 | xAce x4 | xda2 xca2 | d4 xax^g |
+xac'e' x^gbe' | xc'xa xbx^g | xe'c'a E4 | xaxa xaxa |
+xac'a x^gag | xac'e' x4 | x8 |]

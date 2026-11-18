@@ -1,0 +1,36 @@
+X:1
+T:Les Favorites, No. 6 · Op. 11 No. 6
+C:D. Aguado
+M:2/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+D4 A,2F2 | D4 A,4- | A,8 | [DFd]2f2 a2z2 |
+D4 A,2F2 | D4 B,zB,z | E4 [Ed^g]2[Edg]2 | [A,ca]4 z4 |
+[A,A]4 [A,A]3[A,A] | [A,A]4 z2[ec']z | [=fd']z[fd']z [ec']z[fd']z | [ge']4 [ec']2z2 |
+[A,A]4 [A,A]3[A,A] | [A,A]4 z2[ec']z | [=fd']z[fd']z [ec']z[db]z | [ca]4 z4 |
+D4 A,2F2 | D4 A,4- | A,8 | [DFd]2f2 a2z2 |
+DEFG A2F2 | GzBz d2z2 | c2ba ^ga=ge | [DFd]4 z4 |
+[GBd]4 b4 | g2gf agfe | d4 [=cd]4 | [GBd]2G,F, G,A,B,=C |
+D4 ^D4 | [GB]2gf ed=cB | [A=c]4 D2[Acf]2 | [GBg]4 z4 |
+a^gba d2DE | FGAB =c4 | a^gba d2DE | FGAB =c4 |
+a^gba =gfag | fedc ed=cB | AGFE DEFG | AB=cB dcdc |
+[GBd]4 b4 | g2gf agfe | d4 [=cd]4 | [GBd]2G,F, G,A,B,=C |
+D4 ^D4 | [GB]2gf ed=cB | [A=c]4 D2[Acf]2 | [GBg]4 z4 |]
+V:S02
+x8 | x8 | [Gc]def g2c2 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | [Gc]def g2c2 | x8 |
+x8 | x8 | [A,G]8 | x8 |
+x8 | [GB]4 x4 | x2D2 F2D2 | x8 |
+x2[GB]4[A=c]2 | E4 x4 | =C2A,2 x4 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | [GB]4 x4 | x2D2 F2D2 | x8 |
+x2[GB]4[A=c]2 | E4 x4 | =C2A,2 x4 | x8 |]

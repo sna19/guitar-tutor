@@ -1,0 +1,50 @@
+X:1
+T:Divertissements, No. 5 · Op. 78 No. 5
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+Bc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2A2 |
+B4 GABc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2[CB][DA] |
+G3G G,2FG | ADAD BDBD | cdcB AD^GA | BGBG cGcG |
+dedc BGgG | eGge dGgG | eGce dGed | cDdc BDcB |
+ADEF GABc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2A2 |
+B4 GABc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2[CB][DA] |
+G4 G,2cd | eGcG dGgG | eGcG dGgG | e2e2 =fedc |
+BGFG ABcd | eGcG dGgG | eGcG dGgG | eG=fe dGed |
+c4 C4 | e4 E,4 | c4 A,4 | BDGB dDcA |
+G,4 ABcd | eGcG dGgG | eGcG dGgG | eG=fe dGed |
+c4 C2Bc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2A2 |
+B4 GABc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2[CB][DA] |
+G4 G,2FG | ADAD BDBD | cdcB AD^GA | BGBG cGcG |
+dedc BGgG | eGgG dGgG | eGge dGed | cDdc BGcB |
+ADEF GABc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2A2 |
+B4 GABc | d2d2 g2g2 | B2B2 d2d2 | G2G2 A2[CB][DA] |
+G4 A4 | B4 dDcA | G4 A4 | B4 dDcA |
+G2B2 dDcA | G2B2 dDcA | [G,G]2[GBg]2 [DGBg]2[B,GBg]2 | [G,GBg]4 [G,GBg]4 |
+[G,B,DGBg]8 |]
+V:S02
+x2 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D F,DCD |
+G,DB,D G,4 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D F,Dx2 |
+G,DB,x x4 | F,2F,2 G,2G,2 | A,4 F,4 | G,2G,2 A,2A,2 |
+B,4 G,4 | C4 B,4 | C4 B,4 | A,4 G,4 |
+F,4 x4 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D F,DCD |
+G,DB,D G,4 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D F,Dx2 |
+G,DB,D xGx2 | C2E2 B,2G,2 | C2E2 B,2G,2 | CGEG C4 |
+G,4 x4 | C2E2 B,2G,2 | C2E2 B,2G,2 | C4 B,4 |
+CGEG xe=fe | xE,^G,B,/x3/2Bed | xA,CE/x3/2ABc | G,4 F,4 |
+xGFG x4 | C2E2 B,2G,2 | C2E2 B,2G,2 | C4 G,4 |
+CGEG x4 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D F,DCD |
+G,DB,D G,4 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D F,Dx2 |
+G,DB,D x4 | F,2F,2 G,2G,2 | A,4 F,4 | G,2G,2 A,2A,2 |
+B,4 G,4 | C4 B,4 | C4 B,4 | F,4 G,4 |
+F,4 x4 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D G,DCD |
+G,DB,D G,4 | G,DB,D G,DB,D | G,DB,D G,DB,D | G,DB,D F,Dx2 |
+G,DB,D F,DA,D | G,DB,D F,4 | G,DB,D F,DA,D | G,DB,D F,4 |
+G,DB,D F,4 | G,DB,D F,4 | x8 | x8 |
+x8 |]

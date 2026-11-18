@@ -1,0 +1,26 @@
+X:1
+T:No. 14: Etude · Opus 35, No. 14
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+c3B | A3B c3d e4 [DAf]4 | B4 e8 [^Gd]4 | [Ac]4 [GB]4 A3c c3/2BA3/2 |
+^G4 B7/2z/ E,4 c3B | A3B c3d e4 [Dc^f]4 | g6f2 [ce]4 [Ec]4 | A4 d4 B3c d3B |
+c8 C4 g3f | e4 e3d c4 c4 | a7[Eg] [Df]4 f3e | d4 d3[Ac] [GB]4 B4 |
+g7[Df] [Ce]4 e3e | d4 e3e c4 e3e | B4 e3e [CA]8 | d4 e3e c4 e3c |
+[E,^GB]4 e7/2z/ E,4 c3B | A3B c3d e4 [DAf]4 | B4 e8 d4 | [Ac]4 [GB]4 A3c c3/2BA3/2 |
+^G4 B4 E,4 c3B | A3B c3d e4 [CA]4 | _B3d f8 d3B | A3c e8 ^G3B |
+A4 [Ec]4 [A,A]4 z4 |]
+V:S02
+x4 | A,8 x8 | [E^G]8 E,4 x4 | x8 F4 D4 |
+E8 x7/2d/ x4 | A,8 x8 | [GB]8 x8 | F8 G8 |
+C3G E3G x8 | x12 A3G | F4 F3x x8 | B7x x4 G3F |
+E4 E3x x8 | [B,^G]8 [A,A]8 | [D^G]8 x4 e3e | [B,^G]8 [A,A]8 |
+x4 E4 x7/2d/ x4 | A,4 x12 | [EA]8 ^G8 | x8 F4 D4 |
+E8 x8 | A,4 x12 | D8 D8 | E8 E,8 |
+A,8 x8 |]

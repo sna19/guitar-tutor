@@ -1,0 +1,38 @@
+X:1
+T:24 Studies for the Guitar, No. 7 · Op. 100
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Bb
+V:S01
+zBdB fBdB | zAcA fAcA | zBdB fBdB | zBdB fBdB |
+zBeB gBeB | zBeB gBeB | zAcA fAcA | zAcA fAcA |
+zBdB fBdB | zcec fcec | zBdB fBdB | zB_dB gBdB |
+zBdB fBdB | zBdB fBdB | zBcB fBcB | zAcA fAcA |
+zBdB fBdB | zBdB fBdB | zcdc _gcdc | zcdc _gcdc |
+zBdB gBdB | zcec Gcec | zBdB gBdB | zBdB gBdB |
+zcdc acdc | zBdB gBdB | zAdA _gAdA | zAdA _gAdA |
+zBdB gBdB | z=BdB aBdB | zGcG gGcG | zGcG gGcG |
+zBdB gBdB | zAdA fAdA | zA_dA gAdA | zA_dA gAdA |
+zAdA _gAdA | zAdA _gAdA | zGdG gGdG | zGeG gGeG |
+zBdB gBdB | zBdB gBdB | zAdA gAdA | zAdA _gAdA |
+zBdB gBdB | zBdB zBdB | zBdB gBdB | zBdB zBdB |
+z8 |]
+V:S02
+B,8 | F8 | D8 | B,8 |
+E8 | E8 | F8 | E8 |
+D8 | A,8 | B,8 | =E8 |
+F8 | F8 | F8 | F8 |
+B,8 | B,8 | A,8 | A,8 |
+G,8 | G,8 | G,8 | G8 |
+_G8 | G8 | D8 | D8 |
+D8 | F8 | E8 | E8 |
+D8 | D8 | =E8 | A,8 |
+D8 | C8 | B,8 | C8 |
+D8 | D8 | D8 | D8 |
+G,8 | G4 D4 | G,8 | G4 D4 |
+[G,Bdg]8 |]

@@ -1,0 +1,38 @@
+X:1
+T:Six Caprices, No. 1 · Op. 26, No. 1
+C:M. Carcassi
+M:3/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+zGce zGce zGce | zGdf zGdf zGdf | zGdf zGde zGdf | zGde zGce zGce |
+zGcg zGcg z_Bcg | zAcg zAcf zAce | zcdc acdc zcda | zBdg z3G zGzG |
+zGce zGce zGce | zGdf zGdf zGdf | zGdf zGde zGdf | zGde zGce zGce |
+zGcg zGcg z_Bcg | zAcg zAcd zc^da | zcec gcec zFGB | zEGc z8 |
+z^GeG zAeA zBeB | zcec zBeB zAeA | z^GeG fGeG zGeG | zAeA fAeA zAeA |
+z^GeG zAeA zBeB | zcec zBeB zAeA | z^FdF eFdF zFdF | zGdG eGdG zGdG |
+zGfG zGfG zGfG | zGeG zGdG zGcG | zGfG zGfG zGfG | zGeG zGdG zGcG |
+zcfc gcfc zcfc | zcec fcec zcec | zcdc acdc zcda | zBdg z3G zGzG |
+zGce zGce zGce | zGdf zGdf zGdf | zGdf zGdf zGdf | zGde zGce zGce |
+zGcg zGcg z_Bcg | zAcg zAcf zc^da | zcec gcec zFGB | zGcG eGzG zGzG |
+zGdG fGzG zGzG | zGcG eGcG zAce | zFAF dFAF zDGB | zGEG gGEG eGEG |
+zGEG zGEG zGEG | zGEG gGEG eGEG | zGEG zGEG zGEG | z12 |
+z12 | z12 | z12 | z12 |]
+V:S02
+C4 E4 C4 | C4 B,4 D4 | G,4 B,4 G,4 | C4 E4 C4 |
+C4 E4 E4 | F4 F4 F4 | ^F8 D4 | G4 G,2F2 E2D2 |
+C4 E4 C4 | C4 B,4 D4 | G,4 B,4 G,4 | C4 E4 C4 |
+C4 E4 E4 | F4 F4 ^F4 | G8 G,4 | C4 C4 x4 |
+E,4 ^F,4 ^G,4 | A,4 B,4 C4 | D8 D4 | C8 C4 |
+E,4 ^F,4 ^G,4 | A,4 B,4 C4 | C8 C4 | B,8 B,4 |
+G,4 A,4 B,4 | C4 D4 E4 | G,4 A,4 B,4 | C4 D4 E4 |
+A8 A4 | G8 G4 | ^F8 D4 | G4 G,2F2 E2D2 |
+C4 E4 C4 | C4 B,4 D4 | G,4 B,4 G,4 | C4 E4 C4 |
+C4 E4 E4 | F4 F4 ^F4 | G8 G,4 | C6E2 D2C2 |
+B,6G,2 A,2B,2 | C8 A,4 | F,8 G,4 | C12 |
+c4 E,4 G,4 | C12 | c4 E,4 G,4 | [CEGc]12 |
+[CEGc]4 [CGce]4 [CEGcg]4 | [Cegc']12 | [CEGce]12 | [E,CEGc]12 |]

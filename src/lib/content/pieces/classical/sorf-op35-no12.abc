@@ -1,0 +1,28 @@
+X:1
+T:Op. 35, Study No. 12 · Op. 35 No. 12
+C:F. Sor
+M:6/8
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:F
+V:S01
+[ca]2[=B_a]2[c=a]2 | [Af]2[Ge]2[Af]2 [Bf]2[Bd]2[Be]2 | [Af]4c2 [Ac]2f2[ca]2 | [ca]2[=B_a]2[_Bg]2 [CAf]2[Bg]2[Af]2 |
+[Ge]4c2 [ca]2[=B_a]2[c=a]2 | [Af]2[Ge]2[Af]2 g2d2[Be]2 | [Bg]4[Af]2 [ca]2[=Bg]2[Af]2 | [Ge]2[Ec]2[Ec]2 [Ec]2[Fd]2[G=B]2 |
+[Ec]4C2 [Ec]2[Ge]2[Bg]2 | [Af]2[Ge]2[Af]2 [ca]2[Bg]2[Af]2 | [Ge]2[Ec][Fd][Ge][Af] [CBg]2[CA_g]2[CB=g]2 | [Af]2[Ge]2[Af]2 [ca]2[Bg]2[Af]2 |
+[CGe]4z2 [Af]2[Af]2[Af]3/2g/ | [Af]2[Ge]2[Af]2 [Bg]2[ca]2[db]2 | [=B_a]2[c=a]2[ca]2 [B,ca]4[B_a]2 | [CBg]4[Af]2 [Af]2[Bg]2[CGe]2 |
+f2c2c2 [Bg]2[A_g]2[B=g]2 | [Af]2[Ge]2[Af]2 [Cca]2[CBg]2[CAf]2 | [Ge]2[Ec][Fd][Ge][Af] [Bg]2[A_g]2[B=g]3/2g/ | [Af]2[Ge]2[Af]2 [Cca]2[CBg]2[CAf]2 |
+[CGe]4z2 [Af]2[Af]2[Af]3/2g/ | [Af]2[Ge]2[Af]2 [Bg]2[ca]2[db]2 | [=B_a]2[c=a]2[ca]2 [B,ca]4[B_a]2 | [CBg]4[Af]2 [Af]2[Ge]2[Ge]2 |
+[db]4[ca]2 [B,ca]4[Bg]2 | [CBg]4[Af]2 [Af]2[Bg]2[CGe]2 | [F,Af]4z2 [Ac']6 | [Bg]4c'2 [Ac']6 |
+[Bg]4c'2 [Ac']6 | c'2b2[B,Bg]2 [CAf]4[B,Be]2 | [F,Af]4z8 |]
+V:S02
+x6 | F,12 | F,12 | C4x8 |
+C2c2x8 | F,6 [F,B]4x2 | F,12 | G,6 x6 |
+C2C2x2 C4x2 | C4x2 C4x2 | C4x8 | C4x2 C4x2 |
+x12 | F,6 F,6 | F,4x8 | x12 |
+[F,A]4x2 C4x2 | C4x8 | C4x2 C4x2 | C4x8 |
+x12 | F,6 F,6 | F,6 x6 | x6 C4x2 |
+F,6 x6 | x12 | x8f2f2 | e2c'2x4f2f2 |
+e2c'2x2 f2e2_e2 | [Bd]4x4c2x2 | x12 |]

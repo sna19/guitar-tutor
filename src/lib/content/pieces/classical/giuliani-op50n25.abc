@@ -1,0 +1,30 @@
+X:1
+T:Opus 50 No. 25 · Op. 50
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=104
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+d2d2d2 d2d2[daf']2 | [bg']4[af']3/2f'/ [dge']2[dfd']2[dge']2 | [af']6 [dfd']4[fd']2 | [ec']2A2[ge']2 [fd']2A2[d'f']2 |
+[d'f']6 [ac'e']2z2e'2 | [bd'e']3/2^g'/f'2e'2 [ac'e']2d'e'f'd' | d''b'^g'e'f'e' [Fac']4z2 | b^abc'd'e' ^g'f'e'd'c'b |
+[db]2[ca]2[ca]2 [ca]2[ec']2[Edb]2 | [=ca]6 A2bd'[Af']2 | A2c'a[Ae]2 A2bd'e^g | ac'[Ae']2A2 A2bd'[Af']2 |
+A2a'c''[Ae'']2 A2b'd''e'^g' | a'2a'2a'2 a'2a'2a'2 | a'2[Agc']2[Agc']2 a'2[Afd']2[Afd']2 | a'2[Ac'e']2[Ac'e']2 a'2[A^d'f']2[Ad'f']2 |
+a'3^g'a'^a' b'=a'=g'f'e'd' | c'e'g'f'e'd' c'bagfe | d2d2d2 d2d2[df'a']2 | [g'b']4[f'a']3/2a'/ [de'g']2[d^d'f']2[de'g']2 |
+[f'a']6 [dd'f']4[f'd'']2 | [e'c'']2A2[g'e'']2 [f'd'']2E2[d'e'^g']2 | [d'e'b']6 [Ac'e'a']4[ac'^d']2 | e'^d'e'f'g'a' ^a'2b'2[g^ac']2 |
+d'c'd'e'f'g' ^g'a'=g'f'e'd' | c'b^abg'e' [fd']2[=af']2[cge']2 | [fd']6 d2d'g'[db']2 | d2f'd'[da]2 d2e'g'ac' |
+d'f'[da']2d2 d2e'g'[db']2 | d2a'd''[df'']2 d2b'd''a'c'' | [df'd'']6 [dd'f']2[cd'f']2[Bd'f']2 | [^Ad'f']2[Bd'f']2[Fd'f']2 [Gd'e']2[Ed'e']2[Ac'a']2 |
+[dad'f']6 [dfad']2[dfad']2[dfad']2 | [Adad']12 |]
+V:S02
+x12 | d2d2d2 x6 | d2d2d2 x6 | x12 |
+A2d2f2 x6 | ^G4x2 A4x2 | E6 x6 | [df]4x8 |
+E6 E4x2 | A2A2A2 x^gA2x2 | xe'A2x3^gA2A2 | A2x4 x^gA2x2 |
+xe'A2x3d''A2A2 | A4x8 | x12 | x12 |
+[Ae'g']2x4 x6 | x12 | x12 | d2d2d2 x6 |
+d2d2d2 x6 | x12 | A2a2e2 x6 | [gb]4x8 |
+[fa]4x2 F4x2 | G6 A4x2 | d2d2d2 xc'd2x2 | xa'd2x3bd2d2 |
+d2x4 xc'd2x2 | xf'd2x3e''d2d2 | x12 | x12 |
+x12 | x12 |]

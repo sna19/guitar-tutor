@@ -1,0 +1,42 @@
+X:1
+T:8 Petites Pièces for Guitar, No. 7 · Op. 3 No. 7
+C:D. Aguado
+M:3/8
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Cm
+V:S01
+c3/2d/c2[C=Ec]2 | c=B=AGAB | [C=Ec]2[=B,Gd]2[CG=e]2 | [G,DG=Bf]4=e3/2f/ |
+g2c'2g3/2=e/ | d2=a2f3/2d/ | =B2g2fd | [C=Ec]4z2 |
+[=Ec]7/2g/f3/2=e/ | =e6 | [=Ac]6 | [G=B]2g2g/_g/=e/g/ |
+[=Bg]4=a3/2g/ | [fg]6 | [cg]4[_Gc=a]2 | f3/2=e/c3/2e/[G,Fd]2 |
+[C=Ec]4c2 | e2[F=Bd]2[Cc]2- | [Cc]4[Gd]2 | f2[CGe]2[G,d]2- |
+[G,d]4[Ge]2 | [Ge]2[=A,_Ge]2[B,Fe]2 | [DBa]2[EBg]2g2 | f2[ce]2fe |
+fgab=bc' | d'c'baga | bacfe2- | e2[Ad]2[EGe]2- |
+[EGe]2z2[Ee]2 | [Ge]2[Be]2ef | gabf[ca]2- | [ca]4cd |
+=efge[Af]2- | [Af]4[C=e]2- | [C=e]4fc | agfede |
+dc=Bc[GB]2- | [G=B]4C2- | C4[G=B]2- | [G=B]4C2- |
+C2dc[G=B]2 | g2g2ga | gfedc2 | e2[=B,Ad]2[Cc]2- |
+[Cc]4d2 | f2[CGe]2[G,d]2- | [G,d]4=e2 | =e2e2g2 |
+f2fg/z/a2 | g2gg/z/b2 | a2c'3/2=b/c'2 | c'2c'c'/z/e'2- |
+e'2_g3/2g/[A,ceg]2 | [A,ce_g]2[A,ceg]2[G,e=g]2- | [G,eg]4G2 | [_GA]2[F=B]2[CEc]2- |
+[CEc]2z4 |]
+V:S02
+[C=E]4x2 | [DF]6 | x6 | x6 |
+c6 | F6 | [G,F]6 | x6 |
+C4x2 | x[G=B][=Ac][_B_d][=B=d][GB] | x=A,=B,CD=E | D4[D=Ac]2 |
+G,6 | xG_G=G=BG | =e2_e2x2 | G4x2 |
+x4[CE]2- | [CE]2x2EG | _G=GAG=B,2- | =B,2x3G |
+_G=GAGC2- | C2x4 | x4[Ac]2- | [Ac]2x2[Ac]2- |
+[Ac]2x4 | x6 | x4[B,G]2 | F2x4 |
+x6 | x4_d2- | _d4xA, | CECA,[=E,B]2- |
+[=E,B]4xF, | G,A,B,=B,G2 | A2B2[FA]2- | [FA]2x2[_G=A]2- |
+[_G=A]4xG, | _G,=G,=A,=B,x2 | [Ae]2dcxG, | _G,=G,=A,=B,x2 |
+[_G=Ae]2x2G,2- | G,4x2 | x4[CE]2- | [CE]2x2EG |
+_G=GAG[=B,G]2- | [=B,G]2x3G | _G=GAG[Bc]2- | [Bc]4[Ac]2- |
+[Ac]4[=EB]2- | [=EB]2[Ec]2[Fc]2- | [Fc]2x4 | x6 |
+x6 | x4c2- | c2dcG,2- | G,4x2 |
+x6 |]

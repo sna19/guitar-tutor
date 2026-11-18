@@ -1,0 +1,36 @@
+X:1
+T:12 Etudes, No. 4 · Op. 6 No. 4
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+[Bdg]4 G2x2 [GBdb]2x2 | [Bdg]4 G2x2 [GBdb]2x2 | [cea]4 G2x2 [Gcec']2x2 | [cea]4 G2x2 [Gcec']2x2 |
+[cf]4 G2x2 [Gca]2x2 | [cf]4 G2x2 [Gca]2x2 | [Bg]4 G2x2 [Gca]2x2 | [db]4 G2x2 [Gca]2x2 |
+[Bg]4 G2x2 [GBdb]2x2 | [Bdg]4 G2x2 [GBdb]2x2 | [^cea]4 G2x2 [cea]4 | [Ada]4 F2x2 [Dfd']2x2 |
+[gb]4 G2x2 [Ggd']2x2 | [eg^c']4 A2x2 [A,ge']2x2 | [fd']4 D2x2 [Daf']2x2 | [Dfd']4 x8 |
+[fa]8 [df^a]4 | [gb]8 [d^gb]4 | [ac']8 [dac']4 | [fa]12 |
+[gb]8 [dgb]4 | [bd']8 [dac']4 | [fa]8 [dfa]4 | [fa]12 |
+[fa]8 [df^a]4 | [gb]8 [d^gb]4 | [ac']8 [dac']4 | [fa]8 d4 |
+[g^a]8 [dga]4 | [eg]8 [^ceg]4 | [df]4 d'4 ^c'4 | c'4 a4 b4 |
+[Bdg]4 G2x2 [GBdg]2x2 | [Bdb]4 G2x2 [GBdb]2x2 | [cea]4 G2x2 [Gcea]2x2 | [cec']4 G2x2 [Gce]2x2 |
+[d=fb]4 G2x2 [Gdfb]2x2 | [B=fd']4 G2x2 [GBfd']2x2 | [ec']4 G4 [CGege']4 | [Cec']4 G4 G4 |
+[^D^Ag^c']8 [DGAgc']4 | [^D^Ag^c']8 [DGAgc']4 | d'12- | d'4 b4 g4 |
+[Acf]8 [Acf]7/2g/ | f4 e4 f4 | [GBg]8 [GBg]4 | [G,GBg]8 x4 |]
+V:S02
+G2GG z8 | G2GG z8 | G2GG z8 | G2GG z8 |
+G2GG z8 | G2GG z8 | G2GG z8 | G2GG z8 |
+G2GG z8 | G2GG z8 | G2GG z4 G2z2 | F2FF z8 |
+G2GG z8 | A2AA z8 | D2DD z8 | z12 |
+D2dd d4 z4 | D2dd d4 z4 | D2dd d4 z4 | D2dd d4 d4 |
+D2dd d4 z4 | D2dd d4 z4 | D2dd d4 z4 | D2dd d4 d4 |
+D2dd d4 z4 | D2dd d4 z4 | D2dd d4 z4 | D2dd d4 z4 |
+D2dd d4 z4 | D2^cc c4 z4 | D12 | z12 |
+G2GG z8 | G2GG z8 | G2GG z8 | G2GG z8 |
+G2GG z8 | G2GG z8 | C2GG z8 | G2GG z8 |
+G2GG G4 z4 | G2GG G4 z4 | [DGB]2DD D4 D4 | [DGB]12 |
+D2DD D4 D4 | [DAc]12 | G,2DD D4 D4- | D8 z4 |]

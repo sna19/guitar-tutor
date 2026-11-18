@@ -1,0 +1,36 @@
+X:1
+T:Etudes, No. 10 · Op. 1 No. 10
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=86
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+ag | fgef decd | [G,GB]2[G,GB]2 [G,GB]2cd | ^def/z/e/z/ =dcB/z/A/z/ |
+a4 [Df]2ag | fgef decd | [G,GB]2[G,GB]2 [G,GB]2cd | ^def/z/e/z/ =dcB/z/c/z/ |
+D4 D2z2 | [Ddfd']4 [A,Acea]4 | [DAdf]4 zfe/z/d/z/ | [Gc]2[Fd]2 [EAcg]2[DAdf]2 |
+[A,Ace]4 z4 | [A,ge']4 [A,ec']4 | [A,ca]4 zgfe/z/ | ^d2[Ace]2 [A=df]2[A,Acg]2 |
+[DAdf]4 z2a2 | ^g2g2 agf/z/g/z/ | [ca]2[ca]2 [ca]2bc' | [bd']2[bd']2 d'2e'd' |
+[ac']2[ac']2 c'e'c'a | e2[de]2 [de]2fg | [ca]2Ac B2=c2 | [ce]2[FAc]2 [DBd]2[E,^GB]2 |
+A,4 a^g/f/fe | deBe deBe | cAce a^g/f/fe | deBe deBe |
+caec D4 | E4 E,4 | A2A^G Ac/z/Bd | cedf egfa |
+[A,Acg]4 z2^df | e2^d2 e2d2 | e2d2 c2B2 | A2G2 F2=F2 |
+[A,EG]6ag | fgef decd | [G,GB]2[G,GB]2 [G,GB]2cd | ^def/z/e/z/ =dcB/z/A/z/ |
+a4 [Df]2ag | fgef decd | [G,GB]2[G,GB]2 [G,GB]2cd | ^def/z/e/z/ =dcB/z/C/z/ |
+D4 A,4 | D4 A,4 | [Ddfd']4 [DFAd]2[DFAd]2 | [DFAd]8 |]
+V:S02
+x2 | D4 D4 | x8 | A,4 A,4 |
+x2D2 x4 | D4 D4 | x8 | A,4 A,4 |
+xdAF x4 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | [E,d]4 [E,d]4 | A,4 x4 | E,4 [E,b]4 |
+A,4 [A,a]3x | E,4 E,4 | A,4 xdx^d | x8 |
+xAce x4 | E,2^G,2 E,2G,2 | A,4 x4 | E,2^G,2 E,2G,2 |
+A,4 xfdB | xecA xdB^G | A,4 x4 | x8 |
+x8 | xgxf xgxf | xgxf xexd | xcxB xAx^G |
+x8 | D4 D4 | x8 | A,4 A,4 |
+x2D2 x4 | D4 D4 | x8 | A,4 A,4 |
+x2[FAd]2 x2[Ace]2 | x2[Adf]2 x2[Aca]2 | x8 | x8 |]

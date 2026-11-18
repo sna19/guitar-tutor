@@ -1,0 +1,40 @@
+X:1
+T:Les Favorites, No. 9 · Op. 11 No. 9
+C:D. Aguado
+M:2/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+^gaba ef=gf | d2DC DEFD | A,8 | D6z2 |
+^gaba ef=gf | cded ^ABcB | ^G2e^d e2G2 | [A,CA]4 z4 |
+A,B,CD EF^GA | A4 ^G4 | b2ee e2[^Gd]2 | d4 c2z2 |
+A,B,CD EF^GA | ^GF=F^F EDCB, | E4 [E,d^g]4 | [A,ca]4 z4 |
+^gaba ed=ge | d2DC DEFD | A,8 | D6z2 |
+^gaba ef=gf | cded ^ABcB | B7/2c/ c2Bc | [DFd]4 z4 |
+DE=FG A2d2 | =f4 e2d2 | cdec AzGz | =FGDF D4 |
+DE=FD EzEz | ^A,=CDA, CzCz | ^A,=CD^D E2E,2 | A,4 z4 |
+a^gag az[Aa]2 | [Bb]z[=c=c']z [^c^c']2z2 | a^gag a2[=c=c']2 | [dd']z[^d^d']z [ee']2z2 |
+A^GAG A2[A,A]2 | [^G,^G]2[=G,=G]2 =F2d2 | e7/2c/ c2Bc | [D=Fd]4 z4 |
+^gaba ef=gf | d2DC DEFD | A,8 | D6z2 |
+^gaba ef=gf | cded ^ABcB | ^G2e^d e2G2 | [A,CA]4 z4 |
+A,B,CD EF^GA | A4 ^G4 | b2ee e2[^Gd]2 | d4 c2z2 |
+A,B,CD EF^GA | ^GF=F^F EDCB, | E4 [E,d^g]4 | [A,ca]4 z4 |]
+V:S02
+x8 | x8 | x2cB [Gc]2e2 | x2[Fd]2 [Fd]2x2 |
+x8 | x8 | [E,D]8 | x8 |
+x8 | x8 | [Ed]6x2 | A6x2 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x2cB [Gc]2e2 | x2[Fd]2 [Fd]2x2 |
+x8 | x8 | [G,G]4 [A,G]4 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x4 =F,4 | [G,^A]4 [A,G]4 | x8 |
+x8 | x8 | x2cB [Gc]2e2 | x2[Fd]2 [Fd]2x2 |
+x8 | x8 | [E,D]8 | x8 |
+x8 | x8 | [Ed]6x2 | A6x2 |
+x8 | x8 | x8 | x8 |]

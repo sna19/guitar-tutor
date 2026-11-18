@@ -1,0 +1,34 @@
+X:1
+T:25 Studies: No. 18 · O 60
+C:M. Carcassi
+M:6/8
+L:1/16
+Q:1/4=180
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+c'2d'2e'2 a2b2c'2 | f2g2a2 d2e2f2 | B2c2d2 G2e2d2 | c2d2e2 A6 |
+A2d2f2 a2a2a2 | a2g2f2 e6 | A2d2f2 a2a2a2 | a2g2f2 e6 |
+G,12 | g2e2^d2 c6 | G,12 | g2e2^d2 c6 |
+F4d2 f2g2a2 | G4e2 e2f2g2 | G2A2G2 F2E2^D2 | C4G2 c4z2 |
+c'2d'2e'2 ^a2b2c'2 | e2f2=g2 c2d2e2 | F,12 | d2e2f2 B6 |
+b2c'2d'2 g2a2b2 | d2e2=f2 B2=c2d2 | E,12 | =c2d2e2 A6 |
+=F12 | C2=c2e2 =g2g2g2 | D12 | A,12 |
+=F6 E6 | D6 E6 | ^d12 | [E,Ge]2f2e2 d2c2B2 |
+c'2d'2e'2 a2b2c'2 | f2g2a2 d2e2f2 | B2c2d2 G2e2d2 | c2d2e2 A6 |
+A2d2f2 a2a2a2 | a2g2f2 [Ace]6 | A2d2f2 a2a2a2 | a2g2f2 [Ace]6 |
+^D12 | f2e2^d2 [ce]4-[ce]/z[B=dg]/ | d'2b2g2 e2d2B2 | A2c2e2 [Acea]2z4 |]
+V:S02
+A,12 | D4x2 B,4x2 | G,4x2 E,4x2 | A,12 |
+D12 | A,12 | D12 | A,12 |
+x2=c2^d2 g2g2g2 | C12 | x2=c2^d2 g2g2g2 | C12 |
+x2A2x8 | x2c2x8 | G,4x8 | x2E2x8 |
+x12 | x12 | x2F2^A2 c2f2e2 | B,12 |
+x12 | x12 | x2E2G2 B2e2d2 | A,12 |
+x2=c2a2 a2a2a2 | =C12 | x2A2=f2 f2f2f2 | x2A2=c2 e2e2e2 |
+x2A2d2 x2A2e2 | x2A2=f2 x2A2e2 | [=FA]2A,2B,2 =C2B,2A,2 | x12 |
+A,12 | D4x2 B,4x2 | G,4x2 E,4x2 | A,12 |
+D12 | A,6 x6 | D12 | A,6 x6 |
+x2A2=c2 f2f2f2 | E6 A6 | E,12 | A,6 x6 |]

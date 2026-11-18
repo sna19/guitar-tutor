@@ -1,0 +1,36 @@
+X:1
+T:Six Petites Pièces, No. 2 · Op. 45 No. 2
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+[GBb]2bc' [GBd']2[Da]2 | g4 [GBd]2D2 | d3/2a/gf [GBg]2[D^g]2 | a4 d4 |
+[GBb]2bc' [GBd']2[Db]2 | g4 [GBb]2D2 | [A,G]8 | d4 D4 |
+[Adf]2fe [Acf]2[GBg]2 | a4 d4 | f3/2g/fe [Acf]2[GBg]2 | a4 F2D2 |
+d2gg g2[GBb]2 | d'4 b2g2 | a2e2 gfef | [Bg]4 G,2z2 |
+g2[GBg]f [GBe]2[GBg]2 | b2[GB^a]2 [GBb]2[GB=a]2 | agfg e2g2 | [B,f]4 [^DB]4 |
+g2[GBg]f [GBe]2[GBg]2 | b2[GB^a]2 [GBb]2[GB=a]2 | ag[GBf]e ^d2f2 | [Ge]2[Bg]z [Ge]2z2 |
+f4 B2[eg]2 | b4 a7/2a/ | [eg]2[^df]2 [eg]2[Ge]2 | [F^d]2BB B2B2 |
+f4 B2[eg]2 | b4 a4 | [eg]2[Ge]2 f2^d2 | [Ge]4 E,2z2 |
+[GBb]2bc' [GBd']2[Db]2 | g4 [GBd]2D2 | d3/2a/gf [GBg]2[D^g]2 | [ca]4 d4 |
+[GBb]2bc' [GBd']2[Db]2 | g4 [GBb]2D2 | [A,G]8 | d4 D4 |
+[Acf]2fe [Acf]2[GBg]2 | a4 d4 | f3/2g/fe [Acf]2[GBg]2 | a4 F2D2 |
+d2gg g2[GBb]2 | d'4 b2g2 | a2e2 gfef | [Bg]4 G,2z2 |]
+V:S02
+x2D2 x4 | [GB]2D2 x4 | [GB]2D2 x4 | [Fc]2D2 F2D2 |
+x2D2 x4 | [GB]2D2 x4 | x2^c3/2e/ a2c2 | [DF]2D2 x4 |
+x2D2 x4 | [Fc]2D2 F2D2 | [Ac]2D2 x4 | [Fc]2D2 x4 |
+[GB]6x2 | [GB]8 | C4 [DAc]4 | G2D2 x4 |
+E,8 | E,8 | E,8 | x2A2 x2A2 |
+E,8 | E,8 | E,4 [B,A]4 | E,4 x4 |
+d2BB x4 | g2B2 f2B2 | x8 | B,4 x4 |
+^d2BB x4 | g2B2 f2B2 | x4 [B,A]4 | E,2E2 x4 |
+x2D2 x4 | [GB]2D2 x4 | [GB]2D2 x4 | F2D2 F2D2 |
+x2D2 x4 | [GB]2D2 x4 | x2^c3/2e/ a2c2 | [DF]2D2 x4 |
+x2D2 x4 | F2D2 F2D2 | [Ac]2D2 x4 | [Fc]2D2 x4 |
+[GB]4 x4 | [GB]8 | A,4 [DAc]4 | G2D2 x4 |]

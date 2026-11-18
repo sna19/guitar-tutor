@@ -1,0 +1,66 @@
+X:1
+T:Trois Sonatines, No. 3 · Op. 1 No. 3
+C:M. Carcassi
+M:6/8
+L:1/16
+Q:1/4=84
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[Ac]2[Bd]2[=c^d]2 | e2g2a2 f2g2a2 | e2fgab/a/ c'2ba/a/gd | e2[GBe]2[Ace]2 [Bde]2[def]2[ce]2 |
+[Ace]6 [Ac]2[Bd]2[=c^d]2 | e2g2a2 f2g2a2 | e2fgab/a/ c'2ba/a/gf | [ce]2a2[Ac]2 [ce]2[Bd]2[EB]2 |
+[A,CA]6 e3/2g/f3e | e2d2B2 e2d2B2 | c^dega=c' ^c'gae/g/f3/2e/ | e2d2B2 e2d2B2 |
+c^dega=c' ^c'bagfe | ^defgag bagafd | e^defga c'bagfe | ^defgag bag/b/afd |
+eGBegf e^d=dcd^d | e2g2a2 f2g2a2 | e2fgab/a/ c'2ba/a/gf | e2a2[Ac]2 [ce]2[Bd]2[EB]2 |
+[CA]4z2 A2=c2[Bd]2 | [=ce]3[Bd][ce]2 [d=f]4[df]2 | [Bd]3[A=c][Bd]2 [ce]4[ce]2 | [A=c]3[GB][Ac]2 [Bd]4[Bd]2 |
+[E,GB]6 [A=c]2[Bd]2[ce]2 | [d=f]6 [=GB]2[A=c]2[Bd]2 | [=ce]6 [=FA]2[=GB]2[Ac]2 | [Bd]6 [EG]2[FA]2[=GB]2 |
+[A=c]4[B,Ac]2 [Ac]4[^DAc]2 | B2e2d2 [A=c]2=f2e2 | [GB]2e2d2 [A=c]2=f2e2 | [GB]2e2e2 e2g2f2 |
+e2[GBe]2[A=ce]2 [^A^ce]2[Bde]2[=c^de]2 | e2g2a2 f2g2a2 | e2fgab/a/ c'2ba/a/gf | e2a2[Ac]2 [ce]2[Bd]2[EB]2 |
+[A,CA]6 e3/2g/f3e | e4[FA^d]2 defga^a | b4[Gdeb]2 bc'd'c'd'c' | e'd'/d'c'/bb/ag/ ba/ag/ff/e^d/ |
+[ce]2gaga f2gaga | e2fgab/a/ c'2ba/a/gf | eagfe^d [Gf]ed=dcB | [A,CA]6 [ce]3/2f/[=c^d]2[^ce]2 |
+[Ac]4z2 [Ec]3/2d/[^D=c]2[E^c]2 | [CA]6 [ec']3/2d'/[^db]2[ec']2 | aec'ceA cEAEcE | [A,A]6 z6 |
+z7/2d'/c'3/2b/ c'3/2e'/a2a3/2b/ | a3/2g/a3/2c'/[E,e]4e^d=dB | ceBeAe ceB7/2d'/ | c'3/2b/c'3/2e'/a2 a3/2b/a3/2g/a3/2c'/ |
+[E,e]4e^d =dBceAe | BeGeA7/2f/e^def | e^d=dBGE DB,C2Ac | eagfe^d =dBGEDB, |
+C2Ac/f/e^d eaA2G2 | F2E2^D2 C2B,2A,2 | G,2C2A,2 B,2[E,Ge]4 | B3/2e/g3/2b/b3/2B/ a3/2B/B3/2^d/f3/2a/ |
+a3/2B/g3/2B/B3/2e/ g3/2b/b3/2B/a3/2B/ | B3/2^d/f3/2a/a3/2B/ g3/2f/e3/2d/e3/2g/ | c3/2^d/e3/2=f/^f3/2g/ a3/2f/e3/2d/c3/2B/ | ^A3/2B/c3/2^d/e3/2g/ c3/2f/B,2B,2 |
+[Ge]7/2f/e3/2^d/ e3/2c/[^Ace]2[B=d]3/2f/ | e3/2^d/e3/2c/[^Ace]2 [B=d]3/2a/g3/2=g/^g3/2a/ | [ce^a]2[db]3/2=a/g3/2=g/ ^g3/2a/[ce^a]2[db]3/2c'/ | b3/2^a/b3/2c'/d'2 [=fgd']2[egd']2[fgd']2 |
+[egd']7/2d'/c'3/2b/ c'3/2e'/a2a3/2b/ | a3/2g/a3/2c'/[E,e]4e3/2^d/=d3/2B/ | c3/2e/B3/2e/A3/2e/ c3/2e/B7/2d'/ | c'3/2b/c'3/2e'/a2 a3/2b/a3/2g/a3/2c'/ |
+[E,e]4e3/2^d/ d3/2B/ceAe | BeGe[CA]4^de/=g/=fe | A,4E,4A,4 | ^de/=g/=feE,4A,4 |
+E,4^de/=g/ =feA,4 | =G4E4=fAed | B,4=G4=C4 | =C2=febe =cedece |
+be'd'bge dB=cede | eede=c4ceab | A4=G4F4 | B,4E4A,4 |
+D4E2 =F2E4 | E,4AA3ae=c'a | e'd'bged BGA,4 | ae=c'ae'd' bgedBG |
+A,4ae c'ae'^d'=d'b | =gedBz7/2d'/c'3/2b/c'3/2e'/ | a2a3/2b/a3/2g/ a3/2c'/[E,e]4 | e3/2^d/=d3/2B/ce BeAece |
+B7/2d'/c'3/2b/ c3/2d'/a2a3/2b/ | a3/2g/a3/2c'/[E,e]4e3/2^d/=d3/2B/ | c3/2e/A3/2e/B3/2e/ G3/2e/A7/2f/ | e^defed =dBGEDB, |
+C2Acea gfe^d=dB | GEDB,C2 Ac/f/e^dea | A2G2F2 E2D2C2 | B,2A,2e^d ef/a/g=g^ga/c'/ |
+b^ab=c'/d'/^c'3/2=c'/ ^c'3/2e'/=a2a3/2b/ | a3/2g/a3/2c'/[E,e]4e3/2^d/=d3/2B/ | c3/2e/a3/2c'/e'2 [E,Bdg]2[Aca]3/2e/c3/2A/ | E2[E,Bdg]2[A,Aca]4A4 |
+E4C4[A,A]4 | [A,Acea]4[A,Acea]8 |]
+V:S02
+x6 | [A,c]6 [A,d]6 | [Ac]4x8 | x12 |
+x12 | [Ac]6 [A,d]6 | [A,c]4x8 | [EA]4x2 E,4x2 |
+x12 | [E,G]6 [E,G]6 | [A,A]6 x6 | [E,G]6 [E,G]6 |
+[A,A]6 x6 | [B,FA]4x8 | [E,GB]6 x6 | [B,A]6 x6 |
+E,6 x6 | [A,c]6 [A,d]6 | [A,c]4x6D2 | [Fc]4x2 E,4x2 |
+x12 | A,6 A,6 | A,6 A,6 | A,6 D6 |
+x6 A,6 | D2B,2A,2 =G,6 | =C2A,2=G,2 =F,6 | B,2G,2F,2 E,6 |
+x2A,2x2 =C2D2x2 | [EG]6 E,6 | E,6 E,6 | E,4x8 |
+x12 | [A,c]6 [A,d]6 | [A,c]6 x6 | [Ec]4x2 E,4x2 |
+x12 | x2[FA]2x2 [FA]4x2 | x2[Gde]2x2 [Gde]4x2 | x12 |
+[A,A]6 [A,d]6 | [A,c]6 x6 | [EAc]6 E,6 | x12 |
+A,6 x6 | x12 | A,6 x6 | x12 |
+x8A,4 | x12 | A2E2C2 A2E4 | x4A,4x4 |
+x8A2C2 | D2E2C4x4 | E,8xEx2 | x4E,8 |
+xEx7c'xb | xaxgxf xex^dxc | xBx[Ge]x[Af] x[F^d]x4 | x4F4x4 |
+E,4x4F4 | x4E,4x4 | A,4F,4B,4 | x2A,2G,2 A,2x3/2[Ge]/x3/2[E^d]/ |
+E,4x4E,4 | x4E,4x4 | E,4x4E,4 | x12 |
+E,4x4A,4 | x12 | A2E2C2 A2E4 | x4A,4x4 |
+x8A2C2 | D2E2x8 | xe=c'exd bdx=cae | x4xe d'exe=c'e |
+xgbex2 x3e=c'e | xce^ax=a e=gx2D2 | x=G=cex=g =fdxcGE | xe/=g/x2G,2 A,2B,2A,2 |
+G,2x6A,2B,2 | =C2B,2A,C EAx4 | xe=c'exe bexe^ae | x^dadx=d gdxc=gc |
+xAd=fx[=ce] x[c^d]xAce | xdBGx2 =cex4 | E,8xA=ce | x4E,8 |
+xAcex4E,4- | E,4x8 | A,4x8 | x4A2 E2C2A2 |
+E4x4A,4 | x12 | A2C2D2 E2C4 | x4E,8 |
+xEx6E,4- | E,4xE x6 | xc'xbxa xgxfx[^Ae] | x[Bd]x[B^d]/f/B,4x4 |
+x8A,4 | x12 | A,4x4A,4 | x8x2a2 |
+x2e2x2 c2x4 | x12 |]

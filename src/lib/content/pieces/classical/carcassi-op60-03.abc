@@ -1,0 +1,24 @@
+X:1
+T:Etude 3 · O 60
+C:M. Carcassi
+M:4/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+z3/2Ac3/2 f3/2Ac3/2 e3/2Ac3/2 z3/2Ac3/2 | z3/2Bd3/2 f3/2Bd3/2 e3/2Bd3/2 z3/2Bd3/2 | z3/2Bd3/2 a3/2Bd3/2 g3/2Bd3/2 z3/2Bd3/2 | z3/2ce3/2 b3/2ce3/2 a3/2ce3/2 z3/2ce3/2 |
+z3/2Ac3/2 g3/2Ac3/2 f3/2Ac3/2 z3/2Ac3/2 | z3/2=Gc3/2 f4 z3/2Gc3/2 z3/2Gc3/2 | z3/2FA3/2 e4 z3/2FA3/2 ^d4 | z3/2GB3/2 e3/2GB3/2 E4 z4 |
+z3/2GB3/2 f3/2GB3/2 e3/2GB3/2 z3/2GB3/2 | z3/2Ac3/2 g3/2Ac3/2 f3/2Ac3/2 z3/2Ac3/2 | z3/2^Ac3/2 =g3/2Ac3/2 f3/2Ac3/2 z3/2Ac3/2 | z3/2Bd3/2 a3/2Bd3/2 g3/2Bd3/2 z3/2Bd3/2 |
+z3/2Bd3/2 a4 z3/2Bd3/2 z3/2Bd3/2 | z3/2Ac3/2 a4 z3/2Ac3/2 a4 | z3/2df3/2 b3/2df3/2 z3/2df3/2 =c'3/2df3/2 | z3/2=fg3/2 c'3/2fg3/2 c2d2 z4 |
+z3/2Ac3/2 f3/2Ac3/2 e3/2Ac3/2 z3/2Ac3/2 | z3/2Bd3/2 a3/2Bd3/2 g3/2Bd3/2 z3/2Bd3/2 | z3/2GB3/2 f3/2GB3/2 e3/2GB3/2 z3/2GB3/2 | z3/2ce3/2 b3/2ce3/2 a3/2ce3/2 z3/2ce3/2 |
+z3/2ce3/2 b4 z3/2ce3/2 z3/2ce3/2 | z3/2df3/2 c'3/2df3/2 b3/2df3/2 d'4 | z3/2AB3/2 =f4 z3/2Gd3/2 e4 | z3/2ce3/2 a3/2ce3/2 z8 |]
+V:S02
+A,12 A,4 | G,12 G,4 | E,12 E,4 | A,12 A,4 |
+A,12 A,4 | ^A,4-A,3/2=Gc3/2 e4 A,4 | B,4-B,3/2FA3/2 B,4-B,3/2FA3/2 | E,12 x4 |
+E,12 E4 | E,12 E4 | E,12 E4 | E,12 E4 |
+=F4-F3/2Bd3/2 g4 F4 | F4-F3/2Ac3/2 F4-F3/2Ac3/2 | D8 D8 | C12 B2e2 |
+A,12 A,4 | A,12 A,4 | A,12 A,4 | A,12 A4 |
+F4-F3/2ce3/2 ^a4 F4 | D12-D3/2df3/2 | ^D4-D3/2AB3/2 E4-E3/2Gd3/2 | A,8 A4 x4 |]

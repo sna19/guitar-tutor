@@ -1,0 +1,28 @@
+X:1
+T:24 Studies for the Guitar, No. 6 · Op. 100
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:F
+V:S01
+zAcf fdAz | zAcf fdAz | zBdf fdBz | zBdf fdBz |
+zAcf fcAz | zAcf fcAz | zB_dg gdBz | zBcg gcBz |
+zAcf fcAz | zBdg gdBz | zAcf fcAz | zBce ecBz |
+zAcf fcAz | zA_dg gdAE | zAdf fdAz | zAdf fdAz |
+zA_de edAz | zA_de edAz | zA_df fdAz | zA_df fdAz |
+zAdf fdAz | zAdf fdAz | zAdf fdAz | zAdf fdAz |
+zBde edBz | zBde edBz | zAdf fdAz | zA_de edAz |
+zAdf fdAF | zAdf fdAF | z8 |]
+V:S02
+F7F | F7F | F7F | F7F |
+F7F | F7F | E7E | E7E |
+F7F | B,7B, | C7C | C7C |
+F7F | F8 | D7D | D7D |
+A,7A, | A,7A, | A,7A, | A,7A, |
+D7D | D7D | G,7G, | G,7G, |
+G,7G, | G,7G, | A,7A, | A,7A, |
+D8 | D8 | [DAdf]8 |]

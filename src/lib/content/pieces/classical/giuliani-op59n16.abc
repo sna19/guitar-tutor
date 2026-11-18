@@ -1,0 +1,34 @@
+X:1
+T:16 Studies for the Guitar: No. 16 · Op. 59 No. 16
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+G2 | c6B2 | c6B2 | c2d2 e2f2 |
+g4 e4 | c6B2 | c6B2 | c2d2 e2f2 |
+d6DG | c6B2 | c6B2 | c2d2 e2f2 |
+g4 e4 | c6B2 | c6B2 | c2d2 e2f2 |
+d4 G,4 | d6d2 | e6c2 | B2B2 B2B2 |
+c2e2 g4 | d6d2 | e6c2 | B2c2 d2B2 |
+c4 EGEG | d6d2 | e6c2 | B2B2 B2B2 |
+c2e2 g4 | d6d2 | e6c2 | B2B2 B2B2 |
+c6B2 | c6B2 | c2g2 c2B2 | c2g2 c2B2 |
+[Ec]2G,2 A,2B,2 | C2E2 G2E2 | [Cc]4 [CGce]4 | [G,Gce]4 [E,Gce]4 |
+[CEGce]4 x4 | [cegc']4 x4 | [CEGc]8 |]
+V:S02
+z2 | EGEG EGFG | EGEG EGFG | EGB,G CGDG |
+EGEG EGEG | EGEG EGFG | EGEG EGFG | EGB,G CGDG |
+B,G^FG =FGz2 | CGEG CGFG | CGEG CGFG | CGB,G CGDG |
+CGEG CGEG | CGEG CGFG | CGEG CGFG | CGEG CGEG |
+B,GDG z4 | FGFG FGFG | EGEG EGEG | FGFG FGFG |
+EGEG EGEG | FGFG FGFG | EGEG EGEG | DGEG FGDG |
+EGEG z4 | B,GFG B,GFG | CGEG CGEG | DGFG DGFG |
+CGEG CGEG | B,GFG B,GFG | CGEG CGEG | DGFG DGFG |
+CGEG EGFG | EGEG EGFG | EGEG EGFG | EGEG EGFG |
+z3G zAzB | zcze zgze | z8 | z8 |
+z8 | z8 | z8 |]

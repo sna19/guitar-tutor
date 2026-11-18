@@ -1,0 +1,22 @@
+X:1
+T:24 Studies for the Guitar, No. 3 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+zAdA FAdA zAdA FAdA | z^AeA GAeA zAeA GAeA | zBdB FBdB zBdB FBdB | zBeB GBeB zBeB GBeB |
+zAdA FAdA zAdA =FAdA | zAdA EAdA zAcA EAcA | zAdA FAdA zAdA FAdA | z^AeA FAeA zAeA FAeA |
+zBdB FBdB zcfc ^Acfc | zdfd Bdfd zdfd Bdfd | zcgc Gcgc zd^gd BdgB | zdfd Bdfd zdfd Bdfd |
+zcfc Bcfc zcfc ^Acfc | zBdB zBdB zBdB zBdB | zBdB zBdB zBdB zBdB | z16 |
+z16 |]
+V:S02
+D8 D8 | C8 C8 | B,8 B,8 | G,8 G,8 |
+A,8 A,8 | A,8 A,8 | D8 D8 | C8 C8 |
+B,8 C8 | D8 D8 | E8 =F8 | F8 F8 |
+F8 F8 | B,4 F,4 B,4 D4 | B,4 F,4 B,4 D4 | B,4 x4 [B,Bdf]4 x4 |
+[B,FBd]8 x8 |]

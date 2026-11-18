@@ -1,0 +1,54 @@
+X:1
+T:Andantino
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[cea]4 | a4 g4 [Acf]4 | f4 e4 [EGd]4 | [=FGd]12 |
+[FAc]4 z4 [CEA]4 | A4 G4 [A,CA]4 | [Be]4 d4 [A,Ac]4 | [GB]12 |
+E4 E,4 [cea]4 | a4 g4 [Acf]4 | f4 =f4 [FAd]4 | d4 c4 [CGB]4 |
+[DFA]4 z4 [^DA=cf]4 | [EAce]4 ^d2e2 c2A2 | E,8 [G,DB]4 | [A,CA]4 A,4 A,4 |
+[Fd]8 [A,Ec]4 | [^D=c]8 [A,E^c]4 | [A,DB]4 [A,F]4 [A,G]4 | [CA]8 A,4 |
+[df]8 [A,ce]4 | [=c^d]8 [A,^ce]4 | [A,d]4 [A,B]4 [A,Ge]4 | [A,Ac]12 |
+[=F,Gc]4 [F,Gc]4 [F,Gc]4 | [F,Ac]4 A,4 A2c2 | f4 a4 [=FBcg]4 | [Acf]8 z4 |
+[B,AB]4 [^DAB]4 [B,AB]4 | [GB]4 E4 B2e2 | g4 [^Acf]4 [=A^d]4 | e12 |
+e4 =f2e2 d2=c2 | =c4 B4 [=F=G]4 | =c4 d2c2 B2c2 | [B,=Gc]4 d4 G4 |
+e2=G2 =f2e2 d2=c2 | =c2B2 A2=G2 A2B3/2d/ | c2B2 c2d2 e2=f2 | B,12 |
+=C8 [B,Gde]4 | [A,A=ce]4 =f2e2 d2c2 | D8 [^DAB]4 | [GB]8 E,4 |
+B2d2 A2=c2 G2B2 | [A=c]12 | =c2e2 B2d2 A2c2 | [GB]12 |
+d2b2 =c2a2 B2g2 | [=ca]12 | e2=c'2 d2b2 =c2a2 | [Bg]8 [E,=c^da]4 |
+[Beg]8 [E,=C^DA]4 | [B,EG]8 [cea]4 | a4 g4 [Acf]4 | f4 =f4 [Ac^f]4 |
+f4 e4 [FAd]4 | d4 c4 z4 | [DGB]4 [DGB]4 [DGB]4 | [CAe]4 f2e2 d2c2 |
+[DGB]4 [DGB]4 [DGB]4 | [CAe]12 | [CB=f]4 [CBf]4 [CBf]4 | g6f2 d2B2 |
+A4 c4 [E,DGB]4 | [A,CA]4 A,4 A,4 | A,4 A2d2 E2c2 | A,12 |
+A,12 | [A,CA]4 A,4 A,4 | A,12 | A,12 |
+A,12 | [A,Ac]8 z4 | E12 | E12 |
+[A,c]4 [G,B]4 [A,c]4 | [B,d]4 [G,B]4 [E,G]4 | e12 | [DABf]12 |
+E,4 [Bdg]8 | [A,Aca]12 |]
+V:S02
+x4 | [Bd]8 x4 | [GB]8 x4 | x12 |
+x12 | [B,D]8 x4 | G,8 x4 | E,4 G,4 B,4 |
+x12 | [Bd]8 x4 | [GB]8 x4 | [=FG]8 x4 |
+x12 | x12 | x4 [Ec]4 x4 | x12 |
+A,4 A,4 x4 | A,4 A,4 x4 | x12 | A,4 A,4 x4 |
+A,4 A,4 x4 | A,4 A,4 x4 | F8 x4 | x12 |
+x12 | x6F2 x4 | x12 | F4 F,4 x4 |
+x12 | E,2B,2 x2G2 x4 | x12 | G4 E4 E,4 |
+[=C=G]12 | [D=G]8 x4 | [E=G]12 | x12 |
+=C12 | D12 | E12 | x2=G2 c2G2 d2G2 |
+x4 [=Ge]4 x4 | x12 | x4 [AB]4 x4 | E4 E,4 x4 |
+E,4 E,4 E,4 | E,4 E,4 E,4 | E,4 E,4 E,4 | E,4 E,4 E,4 |
+E,4 E,4 E,4 | E,4 E,4 E,4 | E,4 E,4 E,4 | E,4 E,4 x4 |
+E,4 E,4 x4 | E,4 E,4 x4 | [Bd]8 x4 | [GB]8 x4 |
+[GB]8 x4 | [=FG]8 x4 | x12 | x12 |
+x12 | x12 | x12 | [DA]12 |
+E8 x4 | x12 | x2F2 x8 | x2^D2 A2=c2 E2^c2 |
+x2D2 G2B2 c2B2 | x12 | x2A2 d2f2 c2e2 | x2A2 =c2^d2 ^c2e2 |
+x2F2 A2d2 [GB]4 | x12 | A,4 A,4 A,4 | B,4 G,4 E,4 |
+E12 | E12 | [A,c]4 [B,B]4 [CA]4 | x12 |
+x4 E4 E,4 | x12 |]

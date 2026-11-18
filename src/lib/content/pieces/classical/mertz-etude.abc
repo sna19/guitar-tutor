@@ -1,0 +1,20 @@
+X:1
+T:Etude in A minor
+C:J. K. Mertz
+M:4/4
+L:1/16
+Q:1/4=76
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+zAce eeee z2A,2 z2[^GBe]2 | zAce feee z2A,2 z2[^GBe]2 | zAce z2A,2 zABf z2D2 | z^GBe z3e zeze zeze |
+zAce eeee z2A,2 z2[^GBe]2 | zAce feee z2A,2 z2[Ace]2 | zGce eeee z2FG EGDG | zGce GcEG z8 |
+z^GBe eeee z8 | z^GBe eeee z8 | z^GBe e2z2 z8 | z3e zeze zeze zeze |
+zAce eeee z2A,2 z2[^GBe]2 | zAce eeee z2A,2 z2[Bf]2 | zAce z2E,2 z2E,2 d2E,2 | c2A,2 ^G2E,2 z8 |]
+V:S02
+A,8 e4 E,4 | A,8 e4 E,4 | A,4 a4 D4 f4 | E4 feB2 ^G2E2 D2B,2 |
+A,8 e4 E,4 | A,8 e4 ^F,4 | G,8 g8 | C8 C4 x4 |
+E,8 e2[E,B]2 [E,c]2[E,A]2 | E,8 e2[E,B]2 [E,c]2[E,A]2 | E,6[E,Ace]2 e2[E,^GBe]2 e2[E,Ace]2 | [E,^GBe]2^D2 E2D2 E2=D2 C2B,2 |
+A,8 e4 E,4 | A,8 e4 D4 | E,4 e4 e'4 ^g4 | a4 [Be]4 [A,A]4 x4 |]

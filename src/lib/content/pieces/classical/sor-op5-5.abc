@@ -1,0 +1,36 @@
+X:1
+T:Andante Largo · Op. 5 No. 5
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=30
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+[fa]2[fa]2 | [fa]3[eg] [df]2[Ae]2 | [Fd]4 [Bdg]2[Gdb]2 | [Fda]2d'/b/a/f/ [eg]3/2[Aa]/[df]3/2[Aa]/ |
+[ce]2z2 [fa]3[eg] | [df]2[df]2 e3/2^d/e3/2f/ | [B,FBd]2z2 d'2[=Fad']2 | [E^gd']2[Aec']2 [Ddfb]2a/g/f/g/ |
+[A,Aca]2z2 a4 | a7/2d'/ d'3/2c'/b3/2a/ | a2a2 b2a2 | a7/2d'/ d'3/2c'/b3/2a/ |
+a2a2 b2a2 | a2a2 a3/2^g/=g2 | f3/2a/g3/2f/ ^d2ez | f/e/^d/e/g/f/a/g/ f/e/d/e/f/g/^g/a/ |
+^a/b/f/=a/g/B/f/e/ [Fd]2[Ec]2 | [fa]2[fa]2 [fa]7/2[eg]/ | [df]2[ce]2 [DFd]2D,2 | [Bdg]2[Gdb]2 [Fda]2d'/b/a/f/ |
+[eg]z/[Aa]/[df]z/[Aa]/ [ce]2z2 | [Afa]2[Afa]2 [Afa]7/2[Geg]/ | [Ddf]2[^A,ce]2 [B,FBd]2d'2- | d'2c'b [Adfa]2zf |
+f/e/g/f/a/g/e/[ce]/ [D,Fd]2z2 | A4 =f3e/d/ | c3/2d/e3/2c/ d2[=F^G][FA] | [D,d]2=f2 a[=FA]d[FA]/a/ |
+^a[G^A]d'[GA] [=F=A=a]4 | [DA]2d2 =fA^Ae/d/ | =cF[G^Ac]2 ccde | =f[A=c][c^d]^f [^A,g]2[B,=f]2 |
+[=C=f]2ed/e/ [=FAf]2=F,2 | [=fa]2[fa]2 [fg]2[eg]2 | [e=f]2[df]2 [de]2[ca]2 | a2g2 [cg]2[d=f]2 |
+[Gde]2[^Gde]2 [Ace]2A,2 | A2d2 =f3e/d/ | c3/2d/e3/2c/ d2[=FA][FA] | d/c/d/e/=f/^f/g/^g/ a[=FA]d[FA]/a/ |
+^a[G^A]d'[GA] [D,=a]2z2 | A2d2 =f2g/f/e/d/ | c2c2 [F,^DA=c]4 | [G,D^A]2[A,D=A]2 [^A,^G]4 |
+[A,=FA]2[A,EGc]2 [D,DFd]2z2 |]
+V:S02
+x4 | x8 | x8 | x8 |
+x8 | D4 [^A,Gc]4 | x8 | x6[EBd]2 |
+x4 [A,Ac]AAA | [df]A[df]A [eg]A[eg]A | [ce]A[cg]A [df]A[df]A | [df]A[^df]A [eg]A[eg]A |
+[ce]A[cg]A [df]A[df]A | [df][df][ce][ce] [Bd][Bd][Bd][Bd] | [Ac][Ac][A=c][Ac] [GB]3x | [GB]2x2 [GB]2x2 |
+x4 A,4 | x4xD,F,A, | DFAA, x4 | x8 |
+x8 | x4xD,F,A, | FAxG x4 | [^Gd=f]4 x4 |
+[A,G]4 x4 | x2d2 D,[=FA][FA][FA] | D,[G^A]D,[GA] D,[=F=A]x2 | x4 D,4 |
+D,4 xD,=F,A, | x4 D,4 | E,4 [=F,A]2x2 | A,4 x[^Ad]x[^Gd] |
+x[A=c][=CG^A]2 x4 | =FGA^A =c=Cx^C | DE=FG AA,xA | ^Aded x=A^A=A |
+x8 | x4 D,[=FA][FA][FA] | D,[G^A]D,[GA] D,[=F=A]x2 | [=FA]x3 D,4 |
+D,4 x[=FA]x2 | x4 D,[=FA][FA][FA] | A,[EG]A,[EG] x4 | x4 D2E2 |
+x8 |]

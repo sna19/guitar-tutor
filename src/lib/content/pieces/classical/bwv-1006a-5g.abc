@@ -1,0 +1,28 @@
+X:1
+T:Suite E-Dur - BWV 1006a - Menuet II · BWV 1006a
+C:J. S. Bach
+M:3/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+[egb]4 a2g2 f2e2 | [db]4 a8 | [Eb]4 a2g2 f2e2 | [Ba]4 f4 B4 |
+e2g2 g2b2 b2e'2 | d'2b2 b2d'2 d'2f'2 | f'2g'2 a'2f'2 [db']4 | a'2g'2 a'2g'2 f'2e'2 |
+[egb]4 a2g2 f2e2 | [Bdb]4 a8 | [ce']4 e2g2 g2b2 | [Fe']4 c'4 f4 |
+b2d'2 d'2f'2 f'2b'2 | c'2d'2 e'2g'2 ^a2f'2 | e'2d'2 c'2b2 f4 | [Bb]12 |
+[abd']4 e'2d'2 c'2b2 | e'2f'2 g'2a'2 b'2g'2 | f'2=f'2 ^f'2=f'2 d'2c'2 | f'2g'2 a'2c'2 f4 |
+=f4 b'2g'2 a'2f'2 | g'2c'2 =d'2b2 =f4 | b'2g'2 a'2f'2 [cgb]4 | f'2c'2 f4 f'2g'2 |
+[dfba']4 b'2a'2 g'2f'2 | g'2a'2 b'2=d'2 [gb]4 | c'2e'2 a'2f'2 g'2e'2 | d'2c'2 e'2d'2 c'2b2 |
+[ebg']4 a'2g'2 f'2e'2 | f'e'd'2 [Afd'b']8 | G4 c'2a2 f2d'2 | [Egbe']12 |]
+V:S02
+x12 | f2g2 x8 | g2f2 x8 | =d2e2 x8 |
+x4 E4 G4 | B4 d4 g4 | d4 B4 x4 | e4 B4 E4 |
+x12 | f2g2 x8 | g2e2 x8 | ^a2b2 x2e2 d2c2 |
+d4 x8 | e4 c4 f4 | B4 d4 x2^a2 | x12 |
+x12 | [gb]4 e4 =d4 | c4 g4 b4 | a4 F4 x4 |
+x2c'2 x8 | x8x2c'2 | x4 f4 x2=f'2 | [Fb]4 x2c'2 e4 |
+x12 | [eb]4 x6=d'2 | a4 [fd']4 [eb]4 | B4 c4 d4 |
+x4 f4 g4 | a4 x8 | x2b2 A4 B4 | x12 |]

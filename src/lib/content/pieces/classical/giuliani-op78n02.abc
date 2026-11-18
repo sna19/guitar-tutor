@@ -1,0 +1,32 @@
+X:1
+T:Divertissements, No. 2 · Op. 78 No. 2
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+[Ace]3[^Gdf]e2 e4e2 | [Ace]4a2 gfe/z/d/z/c/z/B/z/ | E6 e2d2B2 | A3EcB A^GABcA |
+e3/2^d/e3/2f/e3/2=d/ cecAB^G | A3/2c/E3/2A/C3/2E/ A,4e2 | [Ace]3fe2 [GBe]4e2 | [_B,G^ce]6 e2^d2e2 |
+[GBg]3^fe2 f3Gf2 | [Be]7/2B/g3/2^f/ e3/2d/c3/2B/A3/2G/ | G^F=F^FAc B,4^f^d | [EGBe]2[B,GBe]2[G,GBe]2 [E,GBe]4z2 |
+[EGce]4f/e/d/c/ B4[CEc]2 | ^c2[B,Gd]2[B,Gd]2 [B,Gd]4G2 | [GBf]4g/f/e/d/ c4[B,Gd]2 | ^d2[CGe]2[CGe]2 eBc=def |
+g6 [EGc]4f/z/e/z/ | d6 z^gba/z/f/z/d/z/ | d2c2c2 c2d2B2 | c7/2G/e3/2d/ c3/2B/c3/2G/f3/2e/ |
+d3/2^c/d3/2G/g3/2f/ e3/2g/c3/2e/d3/2B/ | c3/2e/G3/2c/E3/2G/ C4e2 | ^c4[FAd]2 [EAe]2[DAf]2[^CAg]2 | f7/2_b/^c3/2e/ [EAd]4f2 |
+B4[EGc]2 [DGd]2[CGe]2[B,Gf]2 | e7/2g/B3/2d/ [EGc]4e2 | [Bd]4e2 [Ac]4e2 | [^GB]7/2_b/=b3/2^g/ [=GBe]3/2f/e3/2_b/=b3/2g/ |
+[Ace]3/2f/e3/2b/c'3/2a/ [Ace]3/2f/e3/2c/B3/2A/ | [E,^GBe]2[B,GBe]2[^G,GBe]2 [E,GBe]4e2 | [Ace]3fe2 [^Gde]4e2 | [Ace]4a2 g^fe/z/d/z/c/z/B/z/ |
+E6 e2d2B2 | A7/2e/c'3/2b/ a3/2g/f3/2e/d3/2c/ | cB_B=Bdf E4B^G | A3/2E/c2[D^GB]2 A3/2E/c2[E,Bdg]2 |
+[A,Aca]6 [A,CEA]2[A,CEA]2[A,CEA]2 | [A,CEA]12 |]
+V:S02
+A,6 B,6 | C6 D6 | x2A2c2 E,6 | A,6 A,6 |
+^G,6 A,4E,2 | A,6 x6 | A,6 B,6 | x12 |
+B,6 [^DAB]6 | [EG]4x2 E,6 | A,6 xBegB,2 | x12 |
+A,6 x2[DF]2x2 | x12 | [G,B,D]6 x2[EG]2x2 | x6 [CG]4x2 |
+x2[EGc]2[EGc]2 x^fag/x2x/ | [F,FA]2[F,FA]2[F,FA]4x4 | [G,EG]6 [G,DG]6 | [CE]4x2 C6 |
+B6 C4G,2 | C6 x6 | x2[G_B]2x8 | [DA]4[GA]2 x6 |
+x2[F^G]2x8 | [CG]4[FG]2 x6 | ^G,2E,4 A,2E,4 | E,2E,2E,2 E,2E,2E,2 |
+E,2E,2E,2 E,2E,2E,2 | x12 | A,6 B,6 | C6 D6 |
+x2A2c2 E,6 | A,4x2 A,6 | D6 xecAE,2 | A,4x2 C4x2 |
+x12 | x12 |]

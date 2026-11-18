@@ -1,0 +1,20 @@
+X:1
+T:Opus 50 No. 19 · Op. 50
+C:M. Giuliani
+M:3/4
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+c'4 c4 c'd'e'f' | d'6g'2 g'2g'2 | e'f'd'e' c'd'bc' F4 | G4 b2fg egdg |
+c'4 c4 c'd'e'f' | ^c'4 d'2g'2 ^f'2=f'2 | e'c'ad' G4 E4 | c'4 cge'2 e'2e'2 |
+g'3[gf'] d'2Gg AgBg | cgeg cge'2 e'2e'2 | g'3[gf'] d'2Gg AgBg | c'4 c'gc'e' d'2g'2 |
+c'4 c'gc'e' d'2g'2 | [cegc'e']8 x4 |]
+V:S02
+cgeg zgc'b z4 | Bgdg Bgdg Bgdg | c4 z4zfad' | zegc' [Gd]gz6 |
+cgeg zgc'b z4 | Bgdg BgGg AgBg | c2f2 zega zdgb | cgeg z2eg cgeg |
+Bgdz Bgz6 | z6eg cgeg | Bgdz Bgz6 | cgeg c4 BgGg |
+cgeg c4 BgGg | z12 |]

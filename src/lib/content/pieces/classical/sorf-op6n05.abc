@@ -1,0 +1,36 @@
+X:1
+T:12 Etudes, No. 5 · Op. 6 No. 5
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=84
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+z2E2 Gcec z2E2 Gcec | z2F2 Acfc z2F2 Acfc | z2D2 GBfB z2D2 GBfB | z2E2 Gcec z2E2 Gcec |
+z2E2 Acec z2A2 ceae | z2A2 c^faf z2G2 Bege | z2E2 Acec z2G2 _Bege | z2^F2 Ad^fd z8 |
+z2A,2 Dcac z2A,2 DAcA | z2B,2 DGBG z2D2 GBdB | z2A,2 Dcac z2A,2 DAcA | z2B,2 DGBG z2D2 GBdB |
+z2D2 Gdgd z2D2 Gdfd | z2E2 Gcec z2E2 ceae | z2G2 Bdgd z2A2 cd^fd | z2c2 Ac^fc z2B2 GBgB |
+z2D2 Gdfd z2D2 ^Gdfd | z2E2 Acec z2G2 _Bege | z2G2 Bdgd z2c2 Ac^fc | z2[Bg]2 zGBG z8 |
+z2c2 Gcgc z2d2 _Bdgd | z2e2 Aege z2d2 Adfd | z2d2 Bded z2^c2 Acec | z2^c2 Acgc z2d2 Adfd |
+z2d2 Adfd z2d2 ^Gdfd | z2D2 Gdfd z2E2 Gcec | z2A2 Fdfd z2A2 ^DAcA | z2G2 DGBG z8 |
+z2D2 Gdfd z2D2 Gdfd | z2E2 Gcec z2E2 Gcec | z2D2 Gdfd z2D2 Gdfd | z2E2 Gcec z2E2 Gcec |
+z2E2 Gcgc z2E2 _B^cgc | z2F2 Adfd z2A2 c^dad | z2G2 cege z2D2 FGBG | z2G2 FGBG z2G2 EGcG |
+z2E2 _Bcgc z2E2 B^cgc | z2F2 Adfd z2A2 c^dad | z2G2 cege z2D2 FGBG | z2G2 FGBG z2E2 Gcec |
+z2F2 Adfd z2D2 GBfB | z2E2 Gcec z2G2 _Bege | z2F2 Acfc z2D2 GBfB | z2E2 Gcec z2D2 GBfB |
+z2E2 Gcec z2D2 GBfB | z2D2 GBfB z2D2 GBfB | z2E2 Gcec z2E2 Gcec | z2E2 Gcec z8 |]
+V:S02
+C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+A,8 A,8 | D8 E8 | C8 ^C8 | D8 D4 d4 |
+^F,8 F,8 | G,8 G,8 | ^F,8 F,8 | G,8 G,8 |
+B,8 B,8 | C8 A,8 | D8 D8 | ^D8 E8 |
+B,8 B,8 | C8 ^C8 | D8 D8 | G,4 D4 G,4 x4 |
+E8 D8 | ^C8 D8 | G,8 A,8 | D8 D8 |
+D8 C8 | B,8 C8 | F,8 ^F,8 | G,8 G,4 x2G2 |
+B,8 B,8 | C8 C8 | B,8 B,8 | C8 C8 |
+E,8 E,8 | F,8 ^F,8 | G,8 G,8 | C8 C8 |
+E,8 E,8 | F,8 ^F,8 | G,8 G,8 | C8 C8 |
+C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C8 C8 | C8 C8 | C8 C8 | C8 C4 x4 |]

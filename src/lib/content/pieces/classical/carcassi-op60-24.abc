@@ -1,0 +1,34 @@
+X:1
+T:25 Studies: No. 24 · O 60
+C:M. Carcassi
+M:6/8
+L:1/16
+Q:1/4=84
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+zgfed3/2c/ | c2[B,DAB]2[B,DAB]2 Bagac3/2d/ | f2[EGBe]2[EGBe]2 [Be]B^ABd3/2e/ | e2[DABf]2[DABf]2 [Bf]B^ABe3/2f/ |
+f2[EGBg]2[EGBg]2 g3/2g/g/fe/e/dc/ | c2[B,DAB]2[B,DAB]2 B/a/agac3/2d/ | f2[CGce]2[CGce]2 e/g/e'd'e'b3/2g/ | g2[A,cf]2[A,cf]2 f/a/c'=c'^c'c3/2d/ |
+f2[E,GBe]2[E,GBe]2 [E,GBe]EDEF=G | =G2[^G=cdg]2[Gcdg]2 [cdg]2GFED | D2[Cceg]2[Cceg]2 [ceg]2CDEF | =G2[^G=cdg]2[Gcdg]2 [cdg]2G=GED |
+D2[Cceg]2[Cceg]2 [ceg]2=C^CEG | =G2ef^af c'EDEDC | G,6 =c'2=CD=G^G | =G2e=g^ac'/c'/ e'EDEDC |
+G,6 =c'=cdcgd | =c'BdBgd c'Bdg=g^g | [ca]4z2 [=ca]4z2 | [Ba]7gfed3/2c/ |
+c2[B,DAB]2[B,DAB]2 Bagac3/2d/ | f2[EGBe]2[EGBe]2 [Be]B^ABd3/2e/ | =f2[DAB^f]2[DABf]2 [Bf]B^ABe3/2f/ | =g2[EGB^g]2[EGBg]2 g3/2g/g/=ge/e/dc/ |
+c2[B,DAB]2[B,DAB]2 B/a/agac3/2d/ | f2[CGce]2[CGce]2 e/g/e'd'e'b3/2g/ | g2[A,cf]2[A,cf]2 f/a/c'=c'^c'c3/2d/ | f2[E,GBe]2[E,GBe]2 [E,GBe]2eede |
+fe[=d=fb]b^ab c'bae^de | fe[=cda]aga ba[Bg]ede | fe[c=g]ede fe[B^g]deB | GcBACE DBGede/f/ |
+fe[=fb]b^ab/a/ c'b[cae']ede/^f/ | fe[=cda]aga/g/ ba[Bge']ede/f/ | fe[c=g]ede fe^g^ABe | gc'ba[Ac]e [Ad]b[Be]gfe |
+dc[Ac]B^AB cB[Bf]ede | fe[eb]aga cd[Ge]BbB | aBgB[Bg]B fBeBBB | A3/2B/GBGB FB[G,E]2E/GB/ |
+e/gb/e'/bg/e/BG/ E/B,G,/E,2z2 | z2[EBg]6[E,Ge]4- | [E,Ge]4z8 |]
+V:S02
+x6 | x6 [B,DA]2x4 | x6 [EG]2x4 | x6 [DA]2x4 |
+x6 [EGB]2x4 | x6 [B,DA]2x4 | x6 [CGc]2x4 | x6 [B,c]2x4 |
+x12 | x6 GAx4 | x6 C=Cx4 | x6 GAx4 |
+x6 CCx4 | xcx4 x6 | x=cdcgd xG,x4 | xcx4 x6 |
+x=cdcgd G,6 | G,6 G,6 | F6 E6 | D6 Dx4x |
+x6 [B,DA]2x4 | x6 [EG]2x4 | x6 [DA]2x4 | x6 [EGB]2x4 |
+x6 [B,DA]2x4 | x6 [CGc]2x4 | x6 [B,Ad]2x4 | x8[EGB]2x2 |
+x2E,6[Ec]2x2 | x2E,6E2x2 | x2^A,6B,2x2 | x4A,2 B,2E,4- |
+E,2[G=d]2x4E,4- | E,2E2x4E,4- | E,2^A,6B,4 | x4A,2 B,2[E,G]4- |
+[E,G]2[E,D]6[E,G]4- | [E,G]2[E,c]4 [FA]2E,2g2 | f2e2x2 A2G2G2 | F2E2B,2 A,2x4 |
+x12 | x12 | x12 |]

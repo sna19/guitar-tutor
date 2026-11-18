@@ -1,0 +1,18 @@
+X:1
+T:24 Studies for the Guitar, No. 21 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+[dfd']2c'b agfe dcBA GFED | CGEC B,GED ^A,GEA, =A,GEA, | D2FA dFAd fdag fed=c | BG,B,D GB,DG BDGB dGBd |
+gBdg bdgb d'4 [^G,B=f]4 | [A,df]4 [=Cdf]4 [B,dg]4 [^A,d^g]4 | A,2DF Adfa d'2f'2 a'2G,2 | A,2[dfd']2 A,2[egc']2 [dfd']afd AFD2- |
+D6z2 z8 |]
+V:S02
+D4 x12 | x16 | x16 | x16 |
+x16 | x16 | x16 | x8 D4 x4 |
+x16 |]

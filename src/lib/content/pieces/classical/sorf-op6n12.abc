@@ -1,0 +1,44 @@
+X:1
+T:12 Etudes, No. 12 · Op. 6 No. 12
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+a2[ce]2 [df]2[ce]2 [=c^da]2[^ce]2 [=dfa]2[ce]2 | c'7b a4 a4 | a2[Bd]2 [Bdg]2[Bd]2 [Bdf]2[Bd]2 [Bdg]2[Bd]2 | a2[Ac]2 [Bd]2[=c^d]2 [^ce]2[Ac]2 [B=d]2[ce]2 |
+[df]2A2 G2A2 [Afa]2A2 [Adf]2A2 | [ce]2A2 G2A2 [Aca]2A2 [Ace]2A2 | [E,Bd]4 [G,Bd]4 [A,Ac]4 [CAc]4 | [E,Ac]8 [E,GB]4 D2B,2 |
+[E,Ac]8 [E,GB]4 ^D2E2 | [GBe]8 [GBe]4 [GBe]4 | e4 a6g3/2g/ [Cf]2[Ee]2 | [GBe]8 [GBe]4 [GBe]4 |
+[Ae]8 [Aa]4 C2E2 | [Ce]8 [Ce]4 [Ce]4 | e8 d4 F2A2 | [^Df]8 [Df]4 [Df]4 |
+f8 e4 G2B2 | [Eg]8 [Eg]4 [Eg]4 | [=Fb]8 a2[cf]2 f2[Ad]2 | [Ee]8 [E,Bd]8 |
+g2[Bd]2 [^Ac]2[Bd]2 [=Aca]4 z4 | a2[=ce]2 [ce]2[ce]2 [d=fa]2[ce]2 [dfa]2[ce]2 | a2[Bd]2 [Bd]2[Bd]2 [Bdg]2[Bd]2 [A=ca]2[Ac]2 | b2[Bd]2 [Bd]2[Bd]2 [=ceb]2[Bd]2 [ceb]2[Bd]2 |
+b2[=ce]2 [ce]2[ce]2 [d=fa]2[ce]2 [B^d]2[ce]2 | [A,=c']8 [Ac']4 [Gc']4 | [=Gb]4 [Bd']4 [=c=c']4 [=Ce']4 | [=Fa]4 [^F=c']4 [=G=g]4 [=G,B]4 |
+[=Cd]8 =c2^c2 d2e2 | [E,e]8 e4 e4 | e2[A=c]2 [Bd]2[B^d]2 [ce]2=c'2 b2a2 | e2[GB]2 [A=c]2[^A^c]2 [Bde]2[Ac]2 [Bde]2[GB]2 |
+e2[A=c]2 [Bd]2[B^d]2 [ce]2e2 =c'2b2 | [A,a]8 [=fa]4 [fa]4 | [D=f^a]8 [fa]2d2 [fa]4 | [^Dfb]8 [fb]4 [fb]4 |
+[Eeg]8 E4 ^d2e2 | [Gb]8 [Aa]4 [A,a]4 | g4 ^d2e2 d2e2 =f2e2 | b8 [Aa]4 [A,a]4 |
+g4 ^d2e2 d2e2 =f2e2 | =f2e2 ^d2e2 f2^f2 =g2^g2 | a2[ce]2 [df]2[ce]2 [=c^da]2[^ce]2 [=dfa]2[ce]2 | c'2[ce]2 [ce]2[ce]b [cea]2[ce]2 [dfa]2[ce]2 |
+a2[Bd]2 [Bdg]2[Bd]2 [Bdf]2[Bd]2 [Bdg]4 | a2[Ac]2 [Bd]2[=c^d]2 [^ce]2[Ac]2 [B=d]2[ce]2 | [df]2A2 G2A2 [Afa]2A2 [Adf]2A2 | [ce]2A2 G2A2 [Aca]2A2 [Ace]2A2 |
+[E,Bd]4 [G,Bd]4 [A,Ac]4 [CAc]4 | [E,Ac]8 [E,Ac]4 D2B,2 | [E,Ac]8 [E,Ac]4 ^D2E2 | [GBe]8 [GBe]4 [GBe]4 |
+e4 a6g3/2g/ [Cf]2[Ee]2 | [GBe]8 [GBe]4 [GBe]4 | [Ae]8 [Aa]4 C2E2 | [Ce]8 [Ce]4 [Ce]4 |
+e8 d4 F2A2 | [^Df]8 [Df]4 [Df]4 | [Ef]8 e4 G2B2 | [Eg]8 [Eg]4 [Eg]4 |
+[=Fb]8 a2[cf]2 f2[Ad]2 | [Ee]8 [E,Bd]8 | g2[Bd]2 [^Ac]2[Bd]2 [=Aca]4 z4 |]
+V:S02
+A,16 | [A,c]2[ce]2 [ce]2[ce]2 [ce]2[ce]2 [df]2[ce]2 | E,16 | A,16 |
+A,16 | A,16 | x2E4E4E4E2 | x2E2 ^D2E2 x2E2 x4 |
+x2E2 ^D2E2 x2E2 x4 | D2F2 D2F2 D2F2 D2F2 | [CA]2E2 C2E2 [CA]2E2 x4 | D2E2 D2E2 D2E2 D2E2 |
+C2E2 C2E2 C2E2 x4 | x2A2 =G2A2 G2A2 G2A2 | [DF]2A2 F2A2 F2A2 x4 | x2B2 ^A2B2 =A2B2 A2B2 |
+[EG]2B2 G2B2 G2B2 x4 | x2[Bd]2 [^Ac]2[Bd]2 x2[Bd]2 x2[Bd]2 | x2[dg]2 [dg]2[dg]2 F4 D4 | x2[Ac]2 [GB]2[Ac]2 x2e2 f2g2 |
+A,12 x4 | A,16 | E,16 | E,16 |
+A,16 | x2[=ce]2 [ce]2[ce]2 x2[c=f]2 x2[cf]2 | x2[d=f]2 x2[f=g]2 x2[eg]2 x2[eg]2 | x2[=c=f]2 x2[c^d]2 x2[ce]2 x2[D=F]2 |
+x2[=F=G]2 [FG]2[FG]2 [=CEG]4 x4 | x2[GB]2 [A=c]2[^A^c]2 [Bd]2[Ac]2 [Bd]2[GB]2 | A,16 | E,16 |
+A,16 | x2e2 =c2A2 =F2c2 A2c2 | x2d2 ^A2d2 D4 A2d2 | x2=c2 A2c2 ^D2c2 A2c2 |
+x2B2 G2B2 x2e2 x4 | d2e2 d2e2 =c2e2 c2e2 | [E,B]2e2 x12 | d2e2 [Gd]2e2 =c2e2 c2e2 |
+[E,B]2e2 x12 | x16 | A,16 | A,16 |
+E,16 | A,16 | A,16 | A,16 |
+x2E4E4E4E2 | x2E2 ^D2E2 x2E2 x4 | x2E2 ^D2E2 x2E2 x4 | D2E2 D2E2 D2E2 D2E2 |
+[CA]2E2 C2E2 [CA]2E2 x4 | D2E2 D2E2 D2E2 D2E2 | C2E2 C2E2 C2E2 x4 | x2A2 G2A2 G2A2 G2A2 |
+[DF]2A2 F2A2 F2A2 x4 | x2B2 ^A2B2 A2B2 A2B2 | G2B2 G2B2 G2B2 x4 | x2[Bd]2 [^Ac]2[Bd]2 x2[Bd]2 x2[Bd]2 |
+x2[dg]2 [dg]2[dg]2 F4 D4 | x2[Ac]2 [GB]2[Ac]2 x2e2 f2g2 | A,16 |]

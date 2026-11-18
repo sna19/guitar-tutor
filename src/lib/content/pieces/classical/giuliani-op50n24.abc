@@ -1,0 +1,26 @@
+X:1
+T:Opus 50 No. 24 · Op. 50
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=144
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+e2 | a4 aec'b | a4 aec'b | A4 A4 |
+[c'e']a'g'f' e'^d'=d'b | a4 aec'a | a4 aec'b | A4 d'bd'g' |
+A2[ac'a']2 [Aac'a']4 | d'4 b4 | c'4 e'4 | d'2e'2 c'2d'2 |
+b4 eEeE | d'4 c'4 | c'4 e'4 | [=c'^d']2[b=d']2 [^a^c']2[=a=c']2 |
+be^de =f^f=g^g | a4 aec'b | a4 aec'b | A4 A4 |
+[c'e']a'g'f' e'^d'=d'b | a4 aec'b | a4 aec'b | A4 d'bd'g' |
+A2[ac'a']2 [eac'a']2[cac'a']2 | [Aeac'a']4 x4 |]
+V:S02
+z2 | Aece A2E2 | Aece A2E2 | zac'e' zad'f' |
+A4 E4 | Aece A2E2 | Aece A2E2 | zac'e' E4 |
+z8 | bEEE gEEE | aEEE c'EEE | bEgE aEbE |
+gEeE z4 | bEEE gEEE | aEEE c'EEE | zEzE zEzE |
+[Eg]4 z4 | Aece A2E2 | Aece A2E2 | zac'e' zad'f' |
+A4 E4 | Aece A2E2 | Aece A2E2 | zac'e' E4 |
+z8 | z8 |]

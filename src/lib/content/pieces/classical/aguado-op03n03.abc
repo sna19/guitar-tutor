@@ -1,0 +1,30 @@
+X:1
+T:8 Petites Pièces for Guitar, No. 3 · Op. 3 No. 3
+C:D. Aguado
+M:3/8
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+cd | efgabc' | e4f3/2e/ | e7/2g/f3/2e/ |
+e2[Ac]2cd | efgabc' | d'4c'3/2b/ | c'2a2e'2 |
+[E,b]4F,G, | A,B,CDEF | F4[Ac]2 | a2[B=f]2[Bfg]2 |
+F6 | abc'd'e'=f' | f'3CDB, | G,ze'2[Edg]2 |
+[A,ca]4z2 | [Ac]3/2d/[Ac][GB][Ac]2 | [ce]4[A,Ac]2 | [ca]3/2b/[ca][Bg][ca]2 |
+[ec']4[A,ca]2 | [eg]3/2f'/e'3/2^d'/e'2 | a3/2f'/e'3/2^d'/e'2 | efgabg |
+ac'eace | aececA | [EG]3/2A/[EG]3/2=G/[E^G]2 | [GB]4[E,EG]2 |
+[Bg]3/2b/[Bg][^A=g][B^g]2 | [db]4[E,Bg]2 | [EGe]2[FA^d]2[GB=d]2 | ceac'ae' |
+e4[E,DG]2 | [A,CA]4z2 |]
+V:S02
+x2 | x6 | A,6 | E,6 |
+A,4x2 | x6 | E6 | A,6 |
+x6 | x6 | x2[Ac]2a3/2a/ | C6 |
+x2f2fg | x6 | x6 | x6 |
+x6 | A,6 | A,2A,2x2 | A,6 |
+A,2A,2x2 | d2x4 | [ce]2x4 | [E,d]6 |
+[A,c]2x4 | [A,c]2x4 | E,6 | E,2E,2x2 |
+E,6 | E,2E,2x2 | x6 | A2x4 |
+x6 | x6 |]

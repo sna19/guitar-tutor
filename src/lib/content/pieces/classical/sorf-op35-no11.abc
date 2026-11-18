@@ -1,0 +1,32 @@
+X:1
+T:Op. 35, Study No. 11 · Op. 35 No. 11
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Dm
+V:S01
+z4 [dfa]2z2 | [^cea]2z2 [ega]2z2 | [dfa]2z2 [cea]2z2 | [cda]2z2 [cdf]2[cdg]2 |
+[A^ca]2z2 [Dfa]2z2 | [^Cea]2z2 [=C_ea]2z2 | [=B,da]2z2 [_B,dg]2z2 | [^cg]2[df]2 e2c2 |
+[Dd]2z2 [fa]2z2 | [cec']2z2 [c_eg]2[cea]2 | [Bdb]2z2 [Bdf]2z2 | [Fca]2z2 [B,Bg]2[=B,Af]2 |
+[CGe]2z2 [Ec]2z2 | [CEd]2z2 [CGe]2[CBf]2 | [CBg]2z2 [DAf]2z2 | f2z2 [Cce]2[CBe]2 |
+[F,Af]2z2 c2z2 | [Fca]2z2 [_Ecg]2z2 | [Dc_g]4 [_EB=g]2z2 | [CAg]2z2 [DA_g]2[DAg]2 |
+[G,Bg]2z2 d4 | [Gdc']2z2 [Fda]2z2 | [Ed_a]2z2 [^Ceg]2z2 | [Dd_g]2z2 [_Adf]2[Adf]2 |
+[A^ce]2z2 [A,cea]2z2 | [dfa]4 [^ce]2[=Bd]2 | [^ce]2A2 [A,cea]2z2 | [dfa]4 [^ce]2[=Bd]2 |
+[A,^ce]2z2 [dfa]2z2 | [^cea]2z2 [ega]2z2 | [dfa]2z2 [cea]2z2 | [Bdc']4 [Bdf]2[Bdg]2 |
+[A^ca]4 [A=ce]2[Ac_g]2 | [G=Bg]4 [G_Bd]2[GBe]2 | [EAf]4 [GBe]4 | [FAd]4 [A,E^c]2[A,Ec]2 |
+[DFd]4 z4 |]
+V:S02
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | A,8 |
+x8 | x8 | x8 | x8 |
+x4 C4 | x8 | x8 | [B,d]4 x4 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | A,8- | A,2x6 | A,8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 |]

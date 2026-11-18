@@ -1,0 +1,44 @@
+X:1
+T:Etude 9 · O 60
+C:M. Carcassi
+M:4/4
+L:1/16
+Q:1/4=120
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+=c^c=c^c f2e2 ^dede b2a2 | g2d'c' bagf e2gf edcB | =c^c=c^c f2e2 d^d=d^d g2f2 | e2fg abc'^d' e'4 z4 |
+=c^c=c^c f2e2 ^dede b2a2 | =f^f=f^f c'2b2 ^abab e'2d'2 | c'2d'c' bagf e2gf edcB | ABcd efga [A,A]4 z4 |
+E,2F,G, A,B,C^D E2G2 cBcB | [FAB]2Bc ^defg a4 z4 | B,2C^D EFGA B2^d2 gfgf | [GBe]2fg abc'^d' e'4 z4 |
+=g^g=g^g a2g2 [=c^dg]2=c'2 ^d'4 | =g^g=g^g a2g2 [ceg]2c'2 e'4 | [A,cf]2a2 c'4 [B,A^d]2f2 b4 | [EGe]2fg abc'^d' e'2e2 e2e2 |
+e=fef a2=g2 e2=c2 =G2E2 | E=FEF A2=G2 F2D2 B,2=G,2 | =C2=G2 FGFG D2G2 FGFG | E2=G2 FGFG B=cBc ^dede |
+[de]2g2 =g^g=g^g [de]2b2 ^abab | [=ce]2a2 gaga [ce]2=c'2 bc'bc' | [a^d']2[ad']2 F4 [Fad']2[=C=c]2 [DB]2[^DA]2 | [Ge]2e2 =fefe e2e'2 E,4 |
+[a=c']2e2 =fefe e2c'2 E,4 | [Beg]2e2 =fefe ^fefe gege | beee d'eee fedB GEDB, | =c^c=c^c f2e2 ^dede b2a2 |
+g2d'c' bagf e2gf edcB | =c^c=c^c f2e2 d^d=d^d g2f2 | e2fg abc'^d' e'4 z4 | =c^c=c^c f2e2 ^dede b2a2 |
+=f^f=f^f c'2b2 ^abab e'2d'2 | c'2d'c' bagf e2gf edcB | ABcd efga [A,A]4 z4 | E,2F,G, A,B,C^D E2G2 cBcB |
+[FAB]2Bc ^defg a4 z4 | B,2C^D EFGA B2^d2 gfgf | [GBe]2fg abc'^d' e'4 z4 | =g^g=g^g a2g2 [=c^dg]2=c'2 ^d'4 |
+=g^g=g^g a2g2 [ceg]2c'2 e'4 | [A,cf]2a2 c'4 [B,A^d]2f2 b4 | [EGe]2fg abc'^d' e'2e2 e2e2 | e=fef a2=g2 e2=c2 =G2E2 |
+E=FEF A2=G2 F2D2 B,2=G,2 | =C2=G2 FGFG D2G2 FGFG | E2=G2 FGFG B=cBc ^dede | [de]2g2 =g^g=g^g [de]2b2 ^abab |
+[=ce]2a2 gaga [ce]2=c'2 bc'bc' | [a^d']2[ad']2 F4 [Fad']2[=C=c]2 [DB]2[^DA]2 | [Ge]2e2 =fefe e2e'2 E,4 | [a=c']2e2 =fefe e2c'2 E,4 |
+[Beg]2e2 =fefe ^fefe gege | beee d'eee fedB GEDB, | =c^c=c^c f2e2 ^dede b2a2 | g2d'c' bagf e2gf edcB |
+=c^c=c^c f2e2 d^d=d^d g2f2 | e2fg abc'^d' e'4 z4 | =c^c=c^c f2e2 ^dede b2a2 | =f^f=f^f c'2b2 ^abab e'2d'2 |
+c'2d'c' bagf e2gf edcB | ABcd efga [A,A]4 z4 |]
+V:S02
+A,8 A,8 | E,8 E,8 | A,8 F8 | E,12 x4 |
+A,8 A,8 | D8 D8 | E,8 E,8 | A,8 x8 |
+x12 [EG]4 | x16 | x12 [AB]4 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | E,4 x4 =G,4 x4 | =C4 x12 |
+E,8 E,8 | A,8 A,8 | F4 x2[a^d']2 x8 | E,12 x2[bd']2 |
+E,12 x2[=c^da]2 | E,16 | x16 | A,8 A,8 |
+E,8 E,8 | A,8 F8 | E,12 x4 | A,8 A,8 |
+D8 D8 | E,8 E,8 | A,8 x8 | x12 [EG]4 |
+x16 | x12 [AB]4 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | E,4 x4 =G,4 x4 | =C4 x12 | E,8 E,8 |
+A,8 A,8 | F4 x2[a^d']2 x8 | E,12 x2[bd']2 | E,12 x2[=c^da]2 |
+E,16 | x16 | A,8 A,8 | E,8 E,8 |
+A,8 F8 | E,12 x4 | A,8 A,8 | D8 D8 |
+E,8 E,8 | A,8 x8 |]

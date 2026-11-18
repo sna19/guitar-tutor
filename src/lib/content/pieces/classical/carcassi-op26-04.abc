@@ -1,0 +1,54 @@
+X:1
+T:Six Caprices, No. 4 · Op. 26 No. 4
+C:M. Carcassi
+M:6/8
+L:1/16
+Q:1/4=92
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+zAzAzA zAzAzA | zAcAeA zcedac | zcecc'c zdfdbd | zcecac zAcAeA |
+zAzAzA zAzAzA | zAcAeA zcedac | zcecc'c zdfdbd | zcecac zAcAeA |
+z^GfGeG zGzGzG | zAfAeA zAzAzA | z^GdGzG zAcAzA | z3^GzG zGzGzG |
+zAzAzA zAzAzA | zAcAeA zcedac | zcecc'c zdfdbd | zcecac zAcAeA |
+zAzAzA zAzAzA | zAcAeA zcedac | zcecc'c zdfdbd | zcecac zAcAeA |
+zGgGfG zGzGzG | zGeGzG zGcGzG | zGgGfG zGzGzG | zGeGzG zGcGzG |
+z^GfGeG zGzGzG | zAfAeA zAzAzA | z^GdGzG zAcAzA | z^GBez8 |
+zczczc zczczc | zGcGeG z_BcBeB | zAcAfA z^GcGfG | zGcGeG zEGEcE |
+zczczc zczczc | zGcGeG z_BcBeB | zAcAfA z^GcGfG | zGcGeG zEGEcE |
+zG^cGdG zGzGzG | zGeGzG zGcGzG | zG^cGdG zGzGzG | zGeGzG zGcGzG |
+z_BdB^cB zBdBcB | zAdAeA z3AzA | z_BdB^cB zBdBcB | zAdAeA z3AzA |
+zAdAeA z3AzA | zAdAzA zA^dAzA | z^GBGeG zGzGzG | zAcAeA zAzAzA |
+z^GBGeG zGzGzG | zAcAeA zAzAzA | z3fze zdzczB | zAzAzA zAzAzA |
+zAcAeA zcecac | zcecc'c zdfdbd | zcecac zAcAeA | zAzAzA zAzAzA |
+zAcAeA zcecac | zcecc'c zdfdbd | zcecac zAcAeA | z^GfGeG zGzGzG |
+zAfAeA zAzAzA | z^GfGeG zGzGzG | zAfAeA zAzAzA | zFBFzF zG^cGzG |
+zAdAeA z3AzA | zAdAeA z3AzA | zAcABA z^GfGeG | zAeAzA zBdBzB |
+zAcAzA z^GBGzG | zAzAzA zAzAzA | z^GfGeG zGeGdG | zczAzA zAzAzA |
+z^GfGeG zGeGdG | zAcAcA zAzAzA | z^GfGeG zGzGzG | zAfAeA zAzAzA |
+z^GfGeG zGzGzG | zAzczd z^dzezc | zAzcze zazc'z^d' | z12 |
+z12 |]
+V:S02
+A,2C2D2 ^D2E2C2 | A,6 A,6 | A,6 A,6 | A,6 A,6 |
+A,2C2D2 ^D2E2C2 | A,6 A,6 | A,6 A,6 | A,6 A,6 |
+E,6 E2D2B,2 | A,6 E2C2A,2 | E,4E2 E,4E2 | [E,^GB]2F2E2 D2C2B,2 |
+A,2C2D2 ^D2E2C2 | A,6 A,6 | A,6 A,6 | A,6 A,6 |
+A,2C2D2 ^D2E2C2 | A,6 A,6 | A,6 A,6 | A,6 A,6 |
+G,6 D2B,2G,2 | C4C2 E4E2 | G,6 D2B,2G,2 | C4C2 E4E2 |
+E,6 E2D2B,2 | A,6 E2C2A,2 | E,4E2 E,4E2 | E,4B^G E4x2 |
+C2E2F2 ^F2G2E2 | C6 C6 | C6 C6 | C6 C6 |
+C2E2F2 ^F2G2E2 | C6 C6 | C6 C6 | C6 C6 |
+F6 D2B,2G,2 | C4C2 E4E2 | F6 D2B,2G,2 | C4C2 E4E2 |
+E6 E6 | F6 fAF2D2 | E6 E6 | F6 fAF2D2 |
+F6 fAF2D2 | F4F2 F4F2 | E,6 E2D2B,2 | A,6 E2C2A,2 |
+E,6 E2D2B,2 | A,6 E2C2A,2 | [E,^GBe]2F2E2 D2C2B,2 | A,2C2D2 ^D2E2C2 |
+A,6 A,6 | A,6 A,6 | A,6 A,6 | A,2C2D2 ^D2E2C2 |
+A,6 A,6 | A,6 A,6 | A,6 A,6 | E,6 E2D2B,2 |
+A,6 E2C2A,2 | E,6 E2D2B,2 | A,6 E2C2A,2 | D4D2 E4E2 |
+F6 fAD2E2 | F6 fAF2E2 | ^D6 =D6 | C4C2 D4D2 |
+E4E2 E,4E,2 | A,2C2D2 ^D2E2C2 | A,6 A,6 | A,2C2D2 ^D2E2C2 |
+A,6 A,6 | A,6 E2C2A,2 | A,6 E2D2B,2 | A,6 E2C2A,2 |
+A,6 E2D2B,2 | A,2C2D2 ^D2E2C2 | A,2C2E2 A2c2^d2 | [ee']6 [E,de^g]6 |
+[A,Acea]12 |]

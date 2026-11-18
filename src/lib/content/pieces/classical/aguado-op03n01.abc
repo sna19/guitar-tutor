@@ -1,0 +1,36 @@
+X:1
+T:8 Petites Pièces for Guitar, No. 1 · Op. 3 No. 1
+C:D. Aguado
+M:3/8
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+c3/2d/c3/2B/c3/2d/ | e3d[Gc]2 | c3/2d/c3/2B/c3/2d/ | g3f[Gd]2 |
+d3e^fg | d3^fed | dc/d/cBcA | [G,G]4z2 |
+gf/g/fefd | e3d[Gc]2 | G3GAB/d/ | cBcdef |
+g3gfe | gfefga- | acBce3/2d/ | [CEc]4z2 |
+BcBcBc | c2[FA]d[FAc]2 | BcdcB3/2c/ | a2[FA]2[FAf]2 |
+cdefga | _b4ag | _b4ag | f2[EG]2[EGc]2 |
+BcBcBc | c2[FA]d[FAc]2 | BcdcB3/2c/ | a2[FA]2[FAf]2 |
+cdefga | a4ge | g4fd | [CEc]4z2 |
+_bac'bge | c2[E_B]^c[EB=c]2 | Bc^cd^de | f2[FA]2[FAc]2 |
+fegfac | [DB]6 | [DB]6 | [CEc]4z2 |
+BcBcBc | c2[FA]d[FAc]2 | BcdcB3/2c/ | a2[FA]2[FAf]2 |
+cdefga | _b4ag | _b4ag | [FAf]4z2 |]
+V:S02
+C2E2G2 | C2E2x2 | C2E2G2 | B,2D2x2 |
+B,2D2G2 | C2E2G2 | ^F,2A,2D2 | x6 |
+B,2D2G2 | C2E2x2 | F,2B,2D2 | E,6 |
+^C2E2A2 | D4F2 | G4[G,F]2 | x6 |
+x6 | F,6 | x6 | F,6 |
+x6 | C2[G_B]2[GB]2 | C2[G_B]2[GB]2 | F,6 |
+x6 | F,6 | x6 | F,6 |
+x6 | C2[EG]2[EG]2 | B,2[FG]2[FG]2 | x6 |
+x6 | C6 | x6 | F,6 |
+x6 | x2[F^G]=G[F^G]=G | x2[F^G]=G[F^G]=G | x6 |
+x6 | F,6 | x6 | F,6 |
+x6 | C2[G_B]2[GB]2 | C2[G_B]2[GB]2 | x6 |]

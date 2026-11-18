@@ -1,0 +1,40 @@
+X:1
+T:25 Studies: No. 25 · O 60
+C:M. Carcassi
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+x8x3A xExC | xEGB egbc' x8 | x8x3A xExC | xEGB egbc' x8 |
+x16 | xGx6 A,8 | xGxB xexg x4xFA^d | xGBe gb^d'e' x8 |
+xE=G=c x7c xGxE | xB,D=F x12 | xE=G=c x7c xGxE | xB,D=F x12 |
+xBde x4 E,8 | x8 A,8 | xBde x4 E,8 | x8 A,8 |
+xA=cA x12 | x=GcG x12 | x=FAF x12 | xEAE x12 |
+xA=fA xAeA xAdA dAdA | xA=fA xAeA xAdA dAdA | xA=fA xAeA xA^dA xAdA | xGBe =fe^de E,8 |
+xA=ce ^de=fe A,8 | xGBe =fe^de E,8 | xA=ce ^de=fe A,8 | E,2xe xexe xexe xexe |
+x8x3A xExC | xEGB egbc' x8 | x16 | xEGB egbc' x8 |
+x16 | x16 | xBde gc'bg xdeg be'd'b | x16 |
+x16 | xafd AfdA x8 | xBde gc'bg xdeg be'd'b | A,8 xBde ge'd'b |
+A,8 xBde ge'd'b | A,8 x^ABd gfdB | xAcA fecA xGBG feBG | xAce baec x^ABd gfdB |
+xAcA feca E,8 | A,8 E,8 | xeac' d'c'ae xBdg agdB | A,8 E,8 |
+xeac' d'c'ae xBdg agdB | xcea baec x8 | xeac' d'c'ae x8 | xac'e' f'e'c'a x8 |
+x16 | x16 | x16 |]
+V:S02
+A,CEA cfec AcE2 C2A,2 | E,8 d'bge fedB | A,CEA cfec AcE2 C2A,2 | E,8 d'bge fedB |
+A,CEA cfec B,^DAB ^dbaf | C2ce gbe'^d' c'bag fe^dc | B,2E2 G2B2 ebge B,4 | E,8 [EGBe]4 z4 |
+=C4 ea=ge =ce=G2 E2C2 | =G,4 GBde =fdBG AG=FD | A,4 eage =ce=G2 E2C2 | =G,4 GBde fdBG AG=FD |
+G,4 gbd'b ge^de =fe=dB | A,=CEA ceab =c'ae=c =fecA | G,4 gbd'b ge^de =fe=dB | A,=CEA ceab =c'aec =fecA |
+=F4 f=ca=f =c'2F2 A2F2 | =C4 ec=ge =c'2C2 E2C2 | D4 dA=fd a2D2 =F2D2 | A,4 =cAec a2A,2 C2A,2 |
+D4 E4 =F8 | D4 E4 =F8 | D4 E4 =F4 F4 | E,8 d'bge fedB |
+A,8 de=ce BeAe | E,8 d'bge =fedB | A,8 de=ce BeAe | GeF2 E2^D2 E2=D2 C2B,2 |
+A,CFA cfec AcE2 C2A,2 | E,8 d'bge fedB | A,CEA cfec AcEA CEA,C | E,8 d'bge fedB |
+A,CEA cfec A,E=Gc ea=ge | fA,DF ADFA dFAd fAdf | A,8 A,8 | c'A,CE ACEA cEAc eAce |
+A,CEA cfec A,E=Gc ea=ge | A,8 FdAF DAFD | A,8 A,8 | c'ae^d fecA E,8 |
+c'ae^d fecA E,8 | c'ae^d fecA D8 | E8 D8 | C8 D8 |
+E8 gedB GEDB, | [ca]eee [ac']eee [ge']eee [bd']eee | A,8 E,8 | [ca]eee [ac']eee [ge']eee [bd']eee |
+A,8 E,8 | A,8 G,A,CE Acea | A,8 =C^CEA ceac' | A,8 ^DEAc eac'e' |
+[A,a']4 z4 [A,cea]4 [A,cea]4 | [A,cea]4 z4 [A,eac']4 z4 | [A,CEA]8 z8 |]

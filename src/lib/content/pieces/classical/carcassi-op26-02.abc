@@ -1,0 +1,56 @@
+X:1
+T:Six Caprices, No. 2 · Op. 26 No. 2
+C:M. Carcassi
+M:3/8
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+zdzdzd | zdzdzd | zdzdzd | zdzdzd |
+zcdcac | zBdBgB | zA^cAgA | zAdfz2 |
+zezeze | zezeze | zezeze | zezeze |
+zcecac | zBdBgB | zAcAfA | zGBgz2 |
+zBzBzB | zBzBzB | zBzBz2 | zBzBzB |
+zAcAeA | zGBGeG | zA^dAfA | zGeGg2 |
+zBzBzB | zBzBzB | zBzBz2 | zBzBzB |
+zA^cAeA | zAdAfA | zA^cAgA | zAdfz2 |
+zezeze | zezeze | zdbded | zcacec |
+zdzdzd | zdzdzd | zcacdc | zBgBdB |
+z3GzG | zGzGzG | zezeze | zezeze |
+zdzdzd | zdzdzd | zA^cAgA | zAdfz2 |
+zdzdzd | zdzdzd | zdzdzd | zdzdzd |
+zcdcac | zBdBgB | zA^cAgA | zAdfz2 |
+zezeze | zezeze | zezeze | zezeze |
+zcecac | zBdBgB | zAcAfA | zBgBdB |
+zBeBdB | zcacdc | zcecdc | zBgBzB |
+zczdze | zGBGgG | zAcAfA | zBgBdB |
+zBeBdB | zcacdc | zcecdc | zBgBzB |
+zczdze | zGBGgG | zAcAfA | zBgz2g |
+zcfczf | zBgz2g | zcfczf | z[Bg]z[Bg]z[Bg] |
+z[Bg]z[Bg]z[Bg] | z6 | z6 | z6 |]
+V:S02
+D2E2F2 | G2A2B2 | D2E2F2 | G2A2B2 |
+F6 | G6 | A,6 | D4D2 |
+E2F2^G2 | A2B2c2 | E2F2^G2 | A2B2c2 |
+C6 | D6 | D6 | G,4G,2 |
+B,2^C2^D2 | E2F2G2 | A2F2BB | G2F2E2 |
+E,6 | E,6 | E,6 | E,6 |
+B,2^C2^D2 | E2F2G2 | A2F2BB | G2F2E2 |
+A,6 | A,6 | A,6 | D4D2 |
+E2^D2=D2 | C2B,2A,2 | ^G6 | A6 |
+D2^C2=C2 | B,2A,2G,2 | F6 | G6 |
+GGF2=F2 | E2D2C2 | E2^D2=D2 | C2B,2A,2 |
+D2^C2=C2 | B,2A,2G,2 | A,6 | D4D2 |
+D2E2F2 | G2A2B2 | D2E2F2 | G2A2B2 |
+F6 | G6 | A,6 | D4D2 |
+E2F2^G2 | A2B2c2 | E2F2^G2 | A2B2c2 |
+C6 | D6 | D6 | G6 |
+G6 | F6 | F6 | G4=F2 |
+E2D2C2 | D6 | D6 | G6 |
+G6 | F6 | F6 | G4=F2 |
+E2D2C2 | D6 | D6 | G3GD2 |
+A4D2 | G3GD2 | A4D2 | G,2D2B,2 |
+G,2D2B,2 | G,6 | [G,B,DGBg]6 | [G,B,DGBg]6 |]

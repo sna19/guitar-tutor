@@ -1,0 +1,52 @@
+X:1
+T:24 Studies for the Guitar, No. 13 · Op. 100
+C:M. Giuliani
+M:3/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+z2E2 G2B2 c2B2 | z2E2 G2B2 c2B2 | z2^D2 A2B2 c2B2 | z2^D2 A2B2 c2B2 |
+z2E2 G2B2 c2B2 | z2A2 c2f2 g2f2 | z2G2 B2e2 f2e2 | B,4 z8 |
+z2E2 G2B2 c2B2 | z2E2 G2B2 c2B2 | z2D2 A2c2 d2c2 | z2D2 A2c2 d2c2 |
+z2D2 G2B2 c2B2 | D12 | z2g2 d2B2 d2g2 | z12 |
+z2B2 d2d2 e2d2 | z2B2 d2d2 e2d2 | z12 | z12 |
+z2c2 e2e2 =f2e2 | z2^c2 e2e2 f2e2 | z12 | z12 |
+z2[Bd]2 [Bd]2[Bd]2 z2[Bd]2 | z2[Bd]2 [Bd]2[Bd]2 z2[Bd]2 | z2[Bd]2 [Bd]2[Bd]2 z2[Bd]2 | z2[B^c]2 [Bc]2[Bc]2 z2[^Ac]2 |
+z2B2 ^A2B2 c2B2 | z2B2 z2B2 z2B2 | z2B2 z2B2 z2B2 | z2B2 z2B2 z2B2 |
+z2B2 ^A2B2 c2B2 | z2B2 z2B2 z2B2 | z2B2 z2B2 z2B2 | z2B2 z2B2 z2B2 |
+z2^D2 z8 | z2E2 z8 | z2^D2 z8 | z2E2 z8 |
+z2^D2 z8 | z2^D2 z8 | z2E2 G2B2 c2B2 | z2E2 G2B2 c2B2 |
+z2^D2 A2B2 c2B2 | z2^D2 A2B2 c2B2 | z2E2 G2B2 c2B2 | z2A2 c2f2 g2f2 |
+z2G2 B2e2 f2e2 | B,4 z8 | z2E2 G2B2 c2B2 | z2^G2 B2e2 f2e2 |
+z2A2 c2e2 =f2e2 | z2G2 ^c2e2 f2e2 | z2G2 B2e2 g2e2 | z2F2 A2^d2 f2d2 |
+z2E2 G2B2 c2B2 | z2^D2 A2B2 c2B2 | z2E2 G2B2 c2B2 | z2^D2 A2B2 c2B2 |
+z2E2 G2B2 c2B2 | z2B2 d2e2 =f2e2 | z2A2 c2e2 f2e2 | z2G2 B2e2 z2^d2 |
+z2e2 g2b2 c'2b2 | z2^d2 f2b2 c'2b2 | z2e2 g2b2 c'2b2 | z2^d2 f2b2 c'2b2 |
+z2e2 g2b2 c'2b2 | z2B2 d2e2 =f2e2 | z2A2 c2e2 f2e2 | z2G2 B2e2 z2^d2 |
+z2G2 B2e2 f2e2 | z2B2 e2g2 a2g2 | z2e2 g2b2 c'2b2 | z2g2 b2e'2 f'2e'2 |
+z2g2 b2e'2 g'2e'2 | z12 | z12 | z12 |]
+V:S02
+E,12 | E,12 | F,12 | F,12 |
+G,12 | A,12 | B,12 | ^d2c2 B2A2 G2F2 |
+E,12 | E,12 | F,12 | F,12 |
+G,12 | A2B2 c2d2 e2f2 | G12 | G8 x4 |
+G12 | =F12 | ^G2E,2 B,2E2 =G2B2 | e2=f2 e2d2 c2B2 |
+A12 | G12 | ^A2F,2 ^C2F2 A2c2 | f2g2 f2e2 d2^c2 |
+B,8 D4 | E8 F4 | G8 D4 | E8 F4 |
+B,12 | A4 F4 A4 | G4 ^D4 E4 | G4 F4 E4 |
+B,12 | A4 F4 A4 | G4 F4 E4 | G4 F4 E4 |
+B,4 F2B2 ^A2B2 | B,4 G2B2 ^A2B2 | B,4 F2B2 ^A2B2 | B,4 G2B2 ^A2B2 |
+B,4 F2B2 ^A2B2 | B,4 F2B2 ^A2B2 | E,12 | E,12 |
+F,12 | F,12 | G,12 | A,12 |
+B,12 | ^d2c2 B2A2 G2F2 | E,12 | D12 |
+C12 | ^A,12 | B,12 | B,12 |
+E,12 | F,12 | E,12 | F,12 |
+E,12 | ^G,12 | A,12 | B,8 F4 |
+E,12 | B,12 | E,12 | B,12 |
+E,12 | ^G,12 | A,12 | B,8 F4 |
+E,12 | E,12 | E,12 | E,12 |
+E,12 | E,8 x4 | [EGBe]4 [B,GBe]4 [G,GBe]4 | [E,GBe]12 |]

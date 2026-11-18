@@ -1,0 +1,16 @@
+X:1
+T:24 Studies for the Guitar, No. 17 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+A,4 bc'ba a2^g2 =g2f2 | f2e2 e2d2 d2c2 c2c2 | B2cB _B=Bcd efeg fedc | BA^G2 E2^D^F Ac^d^f ac'z2 |
+E,4 EAce ac'e'f' E,4 | [Beg]4 [cea]2c'a eace AcEA | CEA,4z2 z8 |]
+V:S02
+xAce x4 [Bd]4 [Ac]4 | [^GB]4 [EG]4 [FA]4 x4 | [DA]4 x12 | x16 |
+x2A,C x12 | x4 A,4 x8 | x16 |]

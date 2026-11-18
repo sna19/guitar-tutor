@@ -1,0 +1,18 @@
+X:1
+T:24 Studies for the Guitar, No. 18 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+C2EG cEGc EGce gg2B,- | B,E^GB EGBe GBe^g2g2A,- | A,EAc EAce Acea ^g2f2 | e2^dA cde^G Be^c=G _BcdF |
+A^dcF ^G_BcE =GcG,2 A/d/^c/e/d/f/e/g/ | f/a/^g/b/a/=g/f egfA2e2^d2G,2G,- | G,G,2G,2G,2G,2G,2G,2G,2G,- | G,G,2G,2G,/D/G/B/G,/D/ G/B/G,/D/G/B/G,/D/ G/B/c/C/E/G/c/E/ |
+G/c/e/G/c/e/g/c/ e/g/c'/e/g/c'/e'/c'/ g/c'/e/g/c/e/G/c/ E/G/C2z | z3[CEGce]4z z8 |]
+V:S02
+x16 | x16 | x16 | x16 |
+x16 | x12x3/2E/G/c/x/E/ | G/c/x/E/G/c/x/E/ G/c/x/^D/G/c/x/D/ G/c/x/D/G/c/x/D/ G/c/x/=D/G/c/x/D/ | G/c/x/D/G/c/x/D/ G/c/x3 x8 |
+x16 | x16 |]

@@ -1,0 +1,18 @@
+X:1
+T:24 Studies for the Guitar, No. 20 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x2[^GBg]2 x2[^ABf]2 x8 |]
+V:S02
+E,2G,B, E2GB e2gf agfe | ^d/A/B/d/e/A/B/e/ d/A/B/d/e/A/B/e/ =d4 F,2A,2 | B,2^D2 F2A2 B2^de fgaf | e^de/G/B/e/ e/A/c/e/e/G/B/e/ e/A/c/e/[GBe]4E,2 |
+^G,B,DE ^GB^de =fegf edcG, | A,CEA cea2 c'bag fe^dA | c^ddA cde^A ^ceeA ceB,2 | E^GBE GBeG Beg^c egb2- |
+b2g2 e2B2 ^G2E2 z4 | B,4 ^D4 [E,B,E^GBe]4 z4 |]

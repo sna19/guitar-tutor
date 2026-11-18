@@ -1,0 +1,22 @@
+X:1
+T:Divertissements pour la guitare, n°5.1 · O 1.5.1
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+x4 | x8 | x8 | x3[e'g'] x4 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | g^gx6 |
+x8 |]
+V:S02
+[c'e']2[bg']2 | [af']2z[ge'] [fd']2[Ggb]2 | [cec']2z2 [c'e'c'']2[g'b']2 | [f'a']2g2 [Bd'f']2[cc'e']2 |
+[Gbd']2z2 [cc'e']2[cbg']2 | [caf']2z[ge'] [Ffd']2[Ggb]2 | [cec']2z2 [c'e'c'']2[^gd'b']2 | [ac'a']2zg' [dc'^f']2[dc'a']2 |
+[Gbg']2z2 [gbd'g']2[gc'^f'a']2 | [gd'f'b']2z[c'e'c''] [bf'g'd'']2[c'e'g'e'']2 | [gbd'f'']2z2 [c''e'']2[^g'b']2 | [a'c'']2z[e'^g'] [f'a']2[fd'f']2 |
+[gbd']4 [cc'e']2[E_bg']2 | [Faf']2z[ge'] [Gfd']2[Gfb]2 | [cec']2z2 [ebd'^g']2[fc'a']z | [d'f'b']2[ac'e'c'']3/2[^fc'^d'a']/ [gc'e'g']2[G=fb]2 |
+[cec']2z6 |]

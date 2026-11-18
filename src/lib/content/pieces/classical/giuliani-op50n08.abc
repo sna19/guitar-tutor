@@ -1,0 +1,24 @@
+X:1
+T:Opus 50 No. 8 · Op. 50
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=132
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+b2 | c'4[da]2 F2A2[da]2 | b4[dg]2 G2B2[db]2 | a4[dd']2 d'4[dd']2 |
+b6 G2B2[db]2 | c'4[da]2 F2A2[da]2 | b4[dg]2 G2B2[db]2 | a4[dd']2 d'4[dd']2 |
+g6 G2B2[dg']2 | e'4[gc']2 c2e2[ge']2 | d'6 b4[gg']2 | e'4[gc']2 g'4[ge']2 |
+d'6 G2B2[db]2 | c'4[da]2 F2A2[da]2 | b4[dg]2 G2B2[db]2 | a4[dd']2 d'4[dd']2 |
+b6 G2B2[db]2 | c'4[da]2 F2A2[da]2 | b4[dg]2 G2B2[db]2 | a4[dd']2 d'4[dd']2 |
+[gb]6 [ac']6 | [gb]6 [ac']6 | [GBdgb]6 z6 |]
+V:S02
+x2 | F2A2x8 | G2B2x8 | F2A2x2 F2A2x2 |
+G2B2d2 x6 | F2A2x8 | G2B2x8 | F2A2x2 F2A2x2 |
+G2B2d2 x6 | c2e2x8 | B2d2g2 B2d2x2 | c2e2x2 c2e2x2 |
+B2d2g2 x6 | F2A2x8 | G2B2x8 | F2A2x2 F2A2x2 |
+G2B2d2 x6 | F2A2x8 | G2B2x8 | F2A2x2 F2A2x2 |
+G2B2d2 F2A2d2 | G2B2d2 F2A2d2 | x12 |]

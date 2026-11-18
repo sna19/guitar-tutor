@@ -1,0 +1,30 @@
+X:1
+T:18 Progressive Lessons, No. 6 · Op. 51
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+f2g2f3/2f/ | e2^d2e2 a2g2e2 | d2c2d2 f2e2c2 | B2^A2B2 e2B2d2 |
+c2B2A2 A2B2c2 | d6 e6 | f2e2d2 d2A2=c2 | =c2^A2B2 e2B2d2 |
+d2=c2^c2 a2e2g2 | f2e2d2 c2d2B2 | A2c2^d2 e2B2=d2 | c2f2^d2 e2B2=d2 |
+c2e2a2 B2d2f2 | E6 e2d2B2 | A6 [de]6 | [ce]6 [de]6 |
+[ce]2[Bd]2[Ac]2 [fa]2[e^g]2[df]2 | [ce]2[Bd]2[Ac]2 [Bd]2[Ac]2[^GB]2 | [A,A]2e2d2 c2[Ge]2[Fd]2 | [Ec]2g2f2 e2[Eg]2[Df]2 |
+[Ce]2[Bg]2[Af]2 [Ge]2[Ge]2[Fd]2 | c2A2B2 =c2^c2d2 | ^d2e2=f2 ^f2g2f3/2f/ | e2^d2e2 a2g2e2 |
+d2c2d2 f2e2c2 | B2^A2B2 e2B2d2 | c2B2A2 A2B2c2 | d6 e6 |
+f2e2d2 [Bd]2[Ac]2[GB]2 | A2d2f2 e2g2c2 | d2a2f2 d2A2F2 | D6 [DAdf]6 |
+[DFAd]12 |]
+V:S02
+D6 | C6 A,6 | B,6 F,6 | G,6 ^G,6 |
+A,6 G6 | F2E2D2 C2B,2A,2 | D6 F,6 | G,6 ^G,6 |
+A,6 C6 | D6 E,6 | A,6 ^G,6 | A,6 ^G,6 |
+A,6 D6 | x2A2c2 E,6 | A,2C2A,2 ^G,2E,2G,2 | A,2C2A,2 ^G,2E,2G,2 |
+A,6 D6 | E,6 E,6 | x12 | x12 |
+x12 | E4x8 | x6 D6 | C6 A,6 |
+B,6 F,6 | G,6 ^G,6 | A,6 G6 | F2E2D2 C2B,2A,2 |
+D6 G,6 | [A,F]6 A,6 | D6 x6 | x12 |
+x12 |]

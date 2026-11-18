@@ -1,0 +1,26 @@
+X:1
+T:Etude 7 · O 60
+C:M. Carcassi
+M:4/4
+L:1/16
+Q:1/4=110
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+zAAA zAAA zAAA zAAA | zAfA zAeA z^GdG zAcA | zABA zABA zABA zABA | zAcA zAcA zABA z^GeG |
+zAAA zAAA zAAA zAAA | zAfA zAeA z^GdG zAcA | zABA zABA zAcA z^GBe | zAce fe^de z8 |
+zccc zccc zccc zccc | zAdA z^cec zdfd z=c^fc | zBgB zGgG zG^fG zG=fG | zGeG zGdG zGcG zGeG |
+zAAA z^ccc zddd z=ccc | zBBB z^ddd zeee z=ddd | zccc zccc zBBB zAAA | z^GBe z12 |
+E,8 zeze zeze | z^GBe z12 | E,8 zeze zeze | z3e zeze zeze zeze |
+zAAA zAAA zAAA zAAA | zAfA zAeA z^GdG zAcA | zF_BF zFBF zG^cG zGcG | zAdA zAeA zAeA zAeA |
+z^ddd zddd zeee z=ddd | zccc zBBB zAAA zAcA | zABA zABA zAcA z^GBe | zAce fe^de z8 |]
+V:S02
+A,4 C4 F4 E4 | D4 C4 B,4 A,4 | D4 ^D4 E4 F4 | E4 E,4 E4 E,4 |
+A,4 C4 F4 E4 | D4 C4 B,4 A,4 | D4 ^D4 E4 E,4 | A,8 a4 x4 |
+C4 E4 A4 G4 | F4 E4 D4 D4 | G4 G,4 A,4 B,4 | C4 D4 E4 C4 |
+F4 E4 D4 ^F4 | G4 F4 E4 ^G4 | A4 A,4 D4 ^D4 | E4 feee ^geee beee |
+aeee fe^de =d2c2 B2A2 | E4 feee ^geee beee | aeee fe^de =d2c2 B2A2 | ^G2F2 E2^D2 E2=D2 C2B,2 |
+A,4 C4 F4 E4 | D4 C4 B,4 A,4 | D4 D4 E4 E4 | F4 ^C4 D4 E4 |
+^F4 A4 ^G4 E4 | A4 E4 F4 C4 | D4 ^D4 E4 E,4 | A,8 a4 x4 |]

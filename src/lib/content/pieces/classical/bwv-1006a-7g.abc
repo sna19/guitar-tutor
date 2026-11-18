@@ -1,0 +1,30 @@
+X:1
+T:Suite E-Dur - BWV 1006a - Gigue · BWV 1006a
+C:J. S. Bach
+M:6/8
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+b'2 | g'2e'2b2 efgabc' | d'e'f'2f'2 aga2f'2 | Bcdefg agac'ba |
+gfgabg e3fga | bgegb=d' c'e'a'e'c'a | bgegb=d' c'e'a'e'c'a | d'f'a'f'd'b e4g'e' |
+bd'[df']2[da']2 g'f'e'f'g'e' | ^ac'[ce']2[cg']2 f'e'd'c'b=a | gb[Bd']2[Bf']2 e'd'c'd'e'c' | fc'bc'd'b egc'd'e'f' |
+g'f'e'd'c'e' b'^a'g'f'e'd' | [c'e'][bd'][c'e']2[c'e']2 cegece | ^ac'[c'e']2[c'e']2 ^AcecAc | d4b^a [df']2e'd'c'd' |
+b6 [Bb]4z2 | f'2d'2b2 fgabc'd' | e'f'g'a'b'2 b'2=d'c'd'2 | b'2=f^fga b=d'c'^d'=f'^f' |
+g'b'a'g'b'a' g'f'[cg']2[=fc']2 | [cg']2a'f'c'f' a'f'=d'bfb | =d'bg'e'be' g'e'c'aea | c'af'e'f'g' a'b'c'2=d'c' |
+bc'a6[Acea]4 | c'2d4 bag4 | e'd'c4 agf4 | d'c'b4 g'f'[e'b']2a'g' |
+f'e'd'c'd'e' f'd'bc'd'e' | f'g'a'g'[f'a']2 [f'a']2fac'a | fad'f'[f'a']2 [f'a']2dfbf | dfG4 e'd'[gbe'b']2a'g' |
+[d'f']g'e'6[Egbe']4 |]
+V:S02
+x2 | E4x2 G4x2 | F4x2 E4x2 | x6 B4x2 |
+E4x8 | G4x2 A4x2 | G4x2 A4x2 | F4B2 xa'g'f'E2 |
+d2x4 e4x2 | c2x4 d4x2 | B2x4 c2e2G2 | ^A2d2B2 c4x2 |
+e2c2e2 f2^a2b2 | x12 | F4x8 | xe'd'c'x4e2f2 |
+B2fedc x6 | x2B4 x2B4 | x2E4 x2G4 | x2B4 x2=f4 |
+x2f2e2 =d2x4 | x2F4 x2B4 | x2E4 x2A4 | x2=d4 x2e4 |
+x4e=d cBx4 | x3fac' x3bd'f' | x3egb x3ac'e' | x3d'f'a' a2g4 |
+a2b2f2 e2d2c2 | B2f4 x6 | x2B4 x6 | x3a'g'f' x4a2 |
+b2e2BA GFx4 |]

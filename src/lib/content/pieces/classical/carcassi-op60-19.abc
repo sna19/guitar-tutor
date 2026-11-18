@@ -1,0 +1,30 @@
+X:1
+T:25 Studies: No. 19 · O 60
+C:M. Carcassi
+M:3/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Em
+V:S01
+eBAB gBGB eBGB | [E,b]12 | gBGB aBGB gBGB | [E,f]12 |
+fcAc gcAc fcAc | [E,^d]12 | ^dAFA fAFA dAFA | [E,e]12 |
+eBGB gBGB eBGB | [E,b]12 | gBGB fBGB eBGB | [F,d]12 |
+dADA eADA dADA | [G,B]12 | fcAc ecAc fcAc | [G,g]12 |
+gBGB gBGB gBGB | [A,g]12 | g^cGc gcGc gcGc | [B,g]12 |
+f^dAd gdAd fdAd | [Ce]12 | g^cGc fcGc ecGc | bf^df B2A,2 G,2F,2 |
+eBGB gBGB eBGB | [E,b]12 | gBGB aBGB gBGB | [A,=f]12 |
+ecGc gcGc ecGc | [A,=f]12 | ecGc gcGc ecGc | [A,=f]12 |
+e^cGc fcGc ecGc | eBGB gBGB eBGB | b^dBd adBd fdBd | [E,GBe]8 z4 |]
+V:S02
+E,12 | xBGB GBGB GBGB | E,12 | xcAc AcAc AcAc |
+E,12 | xAFA FAFA FAFA | E,12 | xBGB GBGB GBGB |
+E,12 | xBGB GBGB GBGB | E,12 | xADA DADA DADA |
+F,12 | xGDG DGDG DGDG | D12 | xBGB GBGB GBGB |
+G,12 | xcGc GcGc GcGc | ^A,12 | xdGd GdGd GdGd |
+B,12 | xcGc GcGc GcGc | ^A,12 | B,6x6 |
+E,12 | xBGB GBGB GBGB | E,12 | xcAc AcAc AcAc |
+^A,12 | xcAc AcAc AcAc | ^A,12 | xcAc AcAc AcAc |
+^A,12 | B,12 | B,12 | x12 |]

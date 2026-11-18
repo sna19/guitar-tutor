@@ -1,0 +1,44 @@
+X:1
+T:Spanish Fandango
+C:H. Worrall
+M:6/8
+L:1/16
+Q:1/4=70
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+G2g2b2 d2g2b2 | G2g2b2 G2g2b2 | d2a2c'2 d2a2c'2 | G2g2b2 G2g2b2 |
+G2g2b2 d2g2b2 | G2g2b2 G2g2b2 | d2a2c'2 d2a2c'2 | z2g2b2 z6 |
+d2a2c'2 d2a2c'2 | G2g2b2 G2g2b2 | d2a2c'2 d2a2c'2 | G2g2b2 G2g2b2 |
+G2g2b2 d2g2b2 | G2g2b2 G2g2b2 | d2a2c'2 d2a2c'2 | z12 |
+c2c'2e'2 c2c'2e'2 | G2g2b2 d2g2b2 | d2d'2f'2 a2d'2f'2 | G2g2b2 d2g2b2 |
+B2b2^d'2 f2b2d'2 | c2c'2e'2 g2c'2e'2 | d2d'2f'2 a2d'2f'2 | z12 |
+z2[gbb']2[gbb']2 z2[gba']2[gba']2 | z2[gbg']2[gbg']2 z2[gbd']2[gbd']2 | z2[ac'd']2[ac'd']2 z2[ac'd']2[ac'd']2 | z2[gbd']2[gbd']2 z2[gbd']2[gbd']2 |
+z2[gbb']2[gbb']2 z2[gba']2[gba']2 | z2[gbg']2[gbg']2 z2[gbd']2[gbd']2 | z2[ac'd']2[ac'd']2 z2[ac'd']2[ac'd']2 | z2[gbd']2[gbd']2 z6 |
+z8[gbd']2[gbd']2 | z2[gbd']2[gbd']2 z2[gbd']2[gbd']2 | z2[ac'd']2[ac'd']2 z2[ac'd']2[ac'd']2 | z2[gbd']2[gbd']2 z2[gbd']2[gbd']2 |
+z8[gbd']2[gbd']2 | z8[gbd']2[gbd']2 | z2[ac'd']2[ac'd']2 z2[ac'd']2[ac'd']2 | z2[gbd']2[gbd']2 z6 |
+z2[c'e'g']2[c'e'g']2 z2[c'e'g']2[c'e'g']2 | z2[gbd']2[gbd']2 z2[gbd']2[gbd']2 | z2[d'f'a']2[d'f'a']2 z2[d'f'a']2[d'f'a']2 | z2[gbd']2[gbd']2 z2[gbd']2[gbd']2 |
+z2[b^d'f']2[bd'f']2 z2[bd'f']2[bd'f']2 | z2[c'e'g']2[c'e'g']2 z2[c'e'g']2[c'e'g']2 | z2[d'f'a']2[d'f'a']2 z2[d'f'a']2[d'f'a']2 | z2[gbd']2[gbd']2 z6 |
+zgbb'zg ba'zgbg' | zgbd'z2 [ac'd']2z2[ac'd']2 | zgbd'z2 [gbd']2zgbb' | zgba'zg bg'z2[gbd']2 |
+zac'd'za c'd'z2[gbg']2 | z4zg bg'z2[gbf']2 | zgbe'z2 [gbd']2zac'd' | zac'd'zg bd'z2[gbd']2 |
+zgbg'z2 [gba']2zgbb' | z2[gbd']2za c'd'zac'd' | z2[gbg']2z2 z3c'e'g' | zc'e'g'z2 [gbd']2z2[gbd']2 |
+zd'f'a'zd' f'a'z2[gbd']2 | z2[gbd']2zb ^d'f'zbd'f' | zc'e'g'zc' e'g'zd'f'a' | zd'f'a'z2 [gbg']2z4 |]
+V:S02
+b'6 a'6 | g'6 d'6 | d'6 d'6 | d'6 d'6 |
+b'6 a'6 | g'6 d'6 | d'6 d'6 | G6 [Ggbg']6 |
+d'6 d'6 | d'6 d'6 | d'6 d'6 | d'6 d'6 |
+g'6 a'6 | b'6 d'6 | d'6 d'6 | Ggbd'e'd' [Ggbg']6 |
+g'6 g'6 | d'6 d'6 | a'6 a'6 | d'6 d'6 |
+f'6 f'6 | g'6 g'6 | a'6 a'6 | Ggbd'e'd' [Ggbg']6 |
+G6 d6 | G6 G6 | d6 d6 | G6 G6 |
+G6 d6 | G6 G6 | d6 d6 | G6 [Ggbg']6 |
+g2[gbd']2[gbd']2 f6 | e6 d6 | d6 d6 | G6 G6 |
+g2[gbd']2[gbd']2 a6 | b2[gbd']2[gbd']2 d6 | d6 d6 | G6 [Ggbg']6 |
+c6 g6 | G6 G6 | d6 a6 | G6 d6 |
+B6 f6 | c6 g6 | d6 a6 | G6 [Ggbg']6 |
+G4d4G4 | G4d4d4 | G4G4G4 | d4G4G4 |
+d4d4G4 | [gbg']4G4d4 | G4G4d4 | d4G4G4 |
+G4d4G4 | G4d4d4 | G4[gbg']4c4 | g4G4d4 |
+d4a4G4 | d4B4f4 | c4g4d4 | a4G4[Ggbg']4 |]

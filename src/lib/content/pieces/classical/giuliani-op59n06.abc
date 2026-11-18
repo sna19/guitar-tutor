@@ -1,0 +1,24 @@
+X:1
+T:16 Studies for the Guitar: No. 6 · Op. 59 No. 6
+C:M. Giuliani
+M:3/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[Ac]3[GB] [ce]4 C2A,2 | [GB]3[Ac] [Bd]4 G,2E,2 | [Ac]2[GB]2 [Ed]2[Fc]2 [DB]2[CA]2 | [EAc]4 [GB]4 B,2E2 |
+[AB]6[^DAB]2 [GB]4 | [AB]6[^DAB]2 [GB]2e2 | [Ac]agf B,4 B,4 | [Ge]4 E,2E,2 [GB]3[FA] |
+[FA]4 [EG]4 [Bg]3[Af] | [Af]4 [Ge]4 [Bd]3[Ac] | [Ac]4 [GB]4 [DB]3[CA] | [CA]4 [B,G]4 [df]3[ce] |
+[E,Bd]2[E,^Ac]2 [E,Bd]2[E,=Af]2 [E,Ge]2[E,Bd]2 | [Ac]3[Bd] [ce]4 D4 | [GB]3[Ac] [Bd]4 E4 | [Ac]/Bc/d/Be/ E4 edBG |
+AECE AEcA GEdB | AECE AEcA GEdB | AecA EcAE CAEC | A,4 aece aece |
+[A,a]4 [A,CEA]4 [A,CEA]4 | [A,CEA]8 z4 |]
+V:S02
+A,4 x2A,2 x4 | E4 x2E,2 x4 | A,4 A,4 x4 | x4 E,2G,2 x4 |
+^D2F,2 B,2x2 E2B,2 | ^D2F,2 B,2x2 E4 | A,4 x2[Ge]2 x2[F^d]2 | E,2E,2 x4 E,2E,2 |
+E,2E,2 E,2E,2 E,2E,2 | E,2E,2 E,2E,2 E,2E,2 | E,2E,2 E,2E,2 E,2E,2 | E,2E,2 E,2E,2 E,2E,2 |
+x12 | A,4 xE,A,C x[Ac][Bd][Ac] | E,4 xE,G,B, x[GB][Ac][Bd] | A,2D2 x2Ac E,4 |
+A,4 A,4 E,4 | A,4 A,4 E,4 | A,4 x8 | xAce A,4 A,4 |
+x12 | x12 |]

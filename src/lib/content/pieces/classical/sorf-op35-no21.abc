@@ -1,0 +1,36 @@
+X:1
+T:Op. 35, Study No. 21 · Op. 35 No. 21
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=110
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[Ac]2 | [Ac]2[ce]2 [Ac]2[ce]2 | f4 [fa]2[df]2 | [ce]2[Ac]2 [GB]2[Ge]2 |
+d4 [Ac]2[ce]2 | [Ac]2[ce]2 [Ac]2[ce]2 | a6[Eg]2 | g2e2 [Ac]2[B,A^d]2 |
+[E,Af]4 [EGe]2e2 | [Ac]2[ce]2 [Ac]2[ce]2 | f4 [fa]2[df]2 | [ce]2[Ac]2 [GB]2[Ge]2 |
+d4 c2e2 | [A,Ac]2e2 [Ac]2[GBe]2 | [Fa]4 [Eeg]2[Gdf]2 | [Ace]2[Ddf]2 [EAc]2[E,GB]2 |
+A4 A,2[Ac]2 | B2B2 e2[eg]2 | b4 [fa]2[eg]2 | [^df]2[ce]2 [Bd]2[df]2 |
+a4 [eg]2[Bb]2 | c2a2 B2g2 | g3f e2e2 | b2a2 a2g2 |
+g3f [Ge]2[EGe]2 | [FAe]2[F^Ae]2 [GBe]2[G=ce]2 | e2c'4[Aca]f | e2[GBe]2 ^d2[FAd]2 |
+[Ge]4 E,4- | E,8 | e2[GB]2 [Ac]2e2 | [Bd]2[GB]2 [Ac]2[Bd]2 |
+[Ac]4 [GB]2e2 | f^Ace [Bd]fgf | eGBd [Ac]efe | ^defe dBcd |
+[E,e]4 E4 | [Ac]2[ce]2 [Ac]2[ce]2 | f4 [fa]2[df]2 | [A,e]4 B2e2 |
+[A,d]4 c2e2 | a2[A,ca]2 [B,dg]2[Ce=g]2 | f6[^D=cf]2 | [ce]2[Ac]2 [Bd]2[GB]2 |
+A4 A,2z2 |]
+V:S02
+x2 | A,8 | [A,d]2A2 x4 | x4 E,4 |
+[A,B]2E2 x4 | x8 | [Fc]2^d2 B4 | [A,c]4 x4 |
+x2^D2 x4 | A,8 | [A,d]2A2 x4 | x4 E,4 |
+[A,B]2E2 A4 | x8 | c2^d2 x4 | x8 |
+A,2[Ec]2 x4 | [EG]4 x4 | g2B2 x4 | x8 |
+f2B2 x4 | E,8 | [E,A]2B2 G4 | [E,c]4 [E,B]4 |
+[E,A]2B2 x4 | x8 | [Ac]4 A,4 | B,4 B,4 |
+x2E2 x2e2 | f2[^Ac]2 [Bd]2f2 | E,8 | E,4 E,4 |
+E,2E4x2 | E,8- | E,8 | [E,A]8 |
+GEGB x2e2 | A,8 | [A,d]2A2 x4 | c2[Ac]2 [E,G]4 |
+B2E2 A4 | x8 | [Dd]2^A2 B2x2 | E4 E,4 |
+A,2[Ec]2 x4 |]

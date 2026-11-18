@@ -1,0 +1,32 @@
+X:1
+T:25 Studies: No. 14 · O 60
+C:M. Carcassi
+M:2/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+dfed cBAG | FGAB cdef | gfef geag | fgag fgef |
+defe dcBA | ^dABc =def^g | ac'ba ^gbag | ac'e'c' a2z2 |
+AcBA ^GABc | d2DC B,A,^G,F, | E,2cB ^ABcd | e2ED CDB,C |
+A,8 | fedc dcBA | ^GABc def^g | abc'd' ^d'e'=d'c' |
+d'c'ba ^gfed | cea^g gfed | cedc BdcB | ABcd efge |
+dfed cBAG | FGAB AGFE | DEFG AB=cA | B2A,B, =CDEF |
+G2^AB c^def | g2F,G, A,B,C^D | F2gf edcB | c^GAB cdef |
+gfef geag | fa^ga gaba | gfef geag | fad'c' c'bag |
+fagf egfe | dcBA GFED | EFGA Bcde | fg^ga e=gfe |
+dfed cedc | [Dd]4 z4 | [A,cea]2z2 [A,egc']2z2 | [Ddfd']8 |]
+V:S02
+D8 | D8 | A,8 | D8 |
+B,8 | E,8 | A,4 E,4 | A,8 |
+A,8 | xB,x6 | xdx6 | xCx6 |
+xedc BAa^g | D8 | E,8 | A,8 |
+E,8 | A,4 D4 | E,4 E,4 | A,8 |
+D8 | D2x6 | x8 | xG,x6 |
+xBx6 | xE,x6 | xBx6 | A,8 |
+A,8 | D8 | A,8 | D4 G4 |
+A,4 A,4 | D7x | A,8 | D4 G4 |
+A,4 A,4 | x8 | x8 | x8 |]

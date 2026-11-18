@@ -1,0 +1,30 @@
+X:1
+T:Op. 35, Study No. 4 · Op. 35 No. 4
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=120
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+G6D2 G2B2 | d6G2 B2d2 | g2f2 e2d2 c2B2 | [A,d]4 c4 A2G2 |
+c8 c4 | B8 B4 | A2^G2 A2e2 c2A2 | [DG]4 E2D2 E2F2 |
+G4 B,8 | d4 D2G2 B2d2 | g2f2 e2d2 c2B2 | [A,d]4 c4 A2G2 |
+c8 c4 | B2c2 d2e2 f2g2 | e2c2 A2c2 F2A2 | G2D2 B,2D2 G,2z2 |
+[GB]4 E2G2 B2e2 | [Ac]4 A8 | B4 ^D2A2 f2A2 | G4 G,4 E2G2 |
+B6B2 e2d2 | ^c2e2 g2c2 d2f2 | f2e2 G,4 d^cBc | e4 d2c2 A2F2 |
+G6D2 G2B2 | d6G2 B2d2 | g2f2 e2d2 c2B2 | [^Gd]4 [Ac]4 A2G2 |
+c8 c4 | B8 B4 | ^G2A2 c2e2 F2d2 | [Ac]4 [GB]2D2 G2B2 |
+d6G2 g2d2 | e4 E2G2 c2e2 | d6B2 c2f2 | [Bg]12 |]
+V:S02
+x2G,2 B,8 | x2B,2 D8 | x12 | x6E2 x4 |
+F2G2 A2D2 E2F2 | G2F2 G2F2 E2D2 | C8 A,4 | x12 |
+x2E,2 x2D2 G2B2 | x2B,2 B,8 | x12 | x6E2 x4 |
+F2G2 A2D2 E2F2 | G8 B,4 | C4 x4 D4 | x12 |
+E,2B,2- B,8 | A,2E2 x2c2 e2c2 | x2B,2- B,8 | x2E,2 x2B,2 x4 |
+x2E2 G8 | A4 A,4 D4 | [GB]4 x2B2 A,4 | D6x6 |
+x2G,2 B,8 | x2B,2 D8 | x8 E,4 | A,6E2 x4 |
+F2G2 A2D2 E2F2 | G2F2 E2^D2 E2=D2 | C8 D4 | G,6x6 |
+x2B,2 D8 | x2C2- C8 | x2D2 [DG]4 [DA]4 | x2G2 D2B,2 G,4 |]

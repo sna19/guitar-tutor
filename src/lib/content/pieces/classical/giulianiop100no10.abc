@@ -1,0 +1,36 @@
+X:1
+T:24 Studies for the Guitar, No. 10 · Op. 100
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=92
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+zGcG zGdG | zGeG zGcG | zGfG zGeG | zGdG zG^cG |
+zGdG zGeG | zGfG zGdG | zGgG zGfG | zGeG zGgG |
+zGBG zGcG | zGfG zGeG | zGBG zGcG | zGfG zGeG |
+zGeG zGeG | zGeG zGeG | zGBG z^FAF | zB,GB, zDBD |
+zB,GB, zDBD | zB,GB, zEcE | zDBD zCAC | zB,GB, zcec |
+zBdB zAcA | zGBG zGBG | zAcA z^FAF | z4z_BcB |
+zAdA zAeA | zAfA zGBG | zGcG zGdG | zGeG z^Gde |
+zAce z^Gde | zAce zFAd | zEGc zDGB | zEGc z_B^cB |
+zAdA zAgA | zAfA zEGE | zGcG zGfG | zGce zBde |
+zAce zBde | zAce zFAd | zEGB zDGB | zEGc zFAc |
+zEGc zF^GB | zEGc zFAc | zEGc zF^GB | zEGc zEGe |
+zEGc zEGe | zEGc zEGe | zEGc zEGe | z8 |]
+V:S02
+E4 B,4 | C4 E4 | D4 C4 | B,4 _B,4 |
+B,4 C4 | D4 B,4 | D4 D4 | C4 E4 |
+F4 E4 | D4 C4 | F4 E4 | B,4 C4 |
+C4 C4 | C4 C4 | D4 D4 | G,4 G,4 |
+G,4 G,4 | G,4 G,4 | G,4 G,4 | G,4 G,4 |
+G,4 G,4 | G,4 E4 | C4 D4 | [G,G]4 G4 |
+F4 ^C4 | D4 F4 | E4 B,4 | C4 B,4 |
+A,4 B,4 | A,4 F,4 | G,4 G,4 | C4 G4 |
+F4 ^C4 | D4 F4 | E4 B,4 | C4 ^G,4 |
+A,4 C4 | A,4 F,4 | G,4 G,4 | C4 C4 |
+C4 C4 | C4 C4 | C4 C4 | C4 C4 |
+C4 C4 | C4 C4 | C4 C4 | [CEGc]8 |]

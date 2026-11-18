@@ -1,0 +1,82 @@
+X:1
+T:Suite E-Dur - BWV 1006a - Preludio · BWV 1006a
+C:J. S. Bach
+M:3/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+E4 e''2b'2 g'2b'2 | e'f'e'd' e'2b2 g2b2 | ebfb gbab gbfb | ee'd'c' be'd'c' bagf |
+ebfb gbab gbfb | ee'd'c' be'd'c' bagf | efga bc'd'e' f'g'a'f' | g'b'e'f' g'a'b'c'' d''e''c''d'' |
+e''b'a'b' g'b'a'b' g'b'f'b' | e'e''d''c'' b'e'c''e' b'e'a'e' | g'b'f'b' g'b'a'b' g'b'f'b' | e'e''d''c'' b'e'c''e' b'e'a'e' |
+g'e'e'e' d'e'e'e' f'e'd'e' | e'e'g'e' f'e'g'e' a'e'f'e' | g'e'e'e' d'e'e'e' f'e'd'e' | e'e'g'e' f'e'g'e' a'e'f'e' |
+g'e'g'e' g'e'g'e' g'e'g'e' | g'e'g'd' g'e'g'd' g'e'g'd' | g'e'g'=d' g'e'g'd' g'e'g'd' | a'e'a'c' a'e'a'c' a'e'a'c' |
+a'e'a'b a'e'a'b a'e'a'b | g'e'g'b g'e'g'b g'e'g'b | g'e'g'a g'e'g'a g'e'g'a | f'e'f'a f'e'f'a f'e'f'a |
+f'e'f'g f'e'f'g f'e'f'g | e'e'e'g e'e'e'g e'e'e'g | e'e'e'f e'e'e'f e'e'e'f | d'e'd'f d'e'd'f d'e'd'f |
+efef gbef gbef | gaga be'ga be'ga | bc'bc' =d'g'bc' d'g'bc' | =d'b'g'e' d'bge =dcdB |
+cdcd =fgcd fgcd | =f^f=f^f gc'=f^f gc'=f^f | gaga b=f'ga bf'ga | bg'=f'c' b'g'a'^f' =f'g'c'b |
+ac'af f'd'e'c' =c'd'gf | egez egc'g e'c'g'c' | =c'd'c'g g'=g'^g'=g' ^g'd'e'^c' | =c'd'c'g f'=f'^f'=f' ^f'd'e'^c' |
+=c'd'c'g agag adec | =cf^cf dfcf =cfdf | G4 =c'fd'f c'fd'f | G4 e'ec'e e'ec'e |
+G4 =c'fd'f c'fd'f | G4 e'ec'e e'ec'e | G4 e'=gc'g e'gc'g | G4 e'=gc'g e'gc'g |
+G4 d'gc'g d'gc'g | G4 d'f=c'f d'fc'f | ec'ba gc'gf eged | cc'gf eged cecB |
+^A4 e'fc'f e'fc'f | ^A4 e'fc'f e'fc'f | d'b'^a'g' f'b'f'e' d'f'd'c' | bb'f'e' d'f'd'c' bd'ba |
+g4 g'=d'b'd' g'd'e'd' | g=d'e'd' gd'fd' gd'ed' | c'e'a'g' a'e'=d'e' c'e'be' | aa'g'f' e'af'a e'a=d'a |
+c'e'be' c'e'=d'e' c'e'be' | aa'g'f' e'af'a e'a=d'a | c'AaA gAaA bAgA | aAc'A bAc'A =d'AbA |
+c'AaA gAaA bAgA | aAc'A bAc'A =d'AbA | c'Ac'a c'Ac'a c'Ac'a | c'Ac'g c'Ac'g c'Ac'g |
+c'Ac'=g c'Ac'g c'Ac'g | =d'Ad'f d'Ad'f d'Ad'f | =d'Ad'e d'Ad'e d'Ad'e | c'Ac'e c'Ac'e c'Ac'e |
+c'Ac'=d c'Ac'd c'Ac'd | bAb=d bAbd bAbd | bAbc bAbc bAbc | aAac aAac aAac |
+aAaB aAaB aAaB | gAgB gAgB gAgB | ABAB ceAB ceAB | c=dcd eacd eacd |
+efef =gc'ef gc'ef | =ge'c'=d' e'c'^ab c'afe | =dcBc dfBc dfBc | =dede fbde fbde |
+fgfg ad'fg ad'fg | af'd'e' f'd'=c'^c' d'=c'gf | =fb'g'a' b'g'=f'^f' g'=f'c'b | ac''a'b' c''a'f'g' a'f'd'c' |
+b=d''b'c'' d''b'g'a' b'g'=f'g' | c'd'c'd' =f'g'c'd' f'g'c'd' | =f'^f'=f'^f' g'b'=f'^f' g'b'=f'^f' | g'a'g'a' b'=d''g'a' b'd''g'a' |
+b'=d''b'g' =f'b'g'f' c'b'a'g' | f4 B4 c4 | =d4 G4 ^A4 | B4 =f4 ^f4 |
+gaba gbab gbfb | =f^fga b=f=d'f c'fbf | F4 Acfc afc'f | =fgfz fgc'g =f'c'g'b |
+ac'af ac'f'c' a'f'c''f' | =f'g'f'c' c''=c''^c''=c'' ^c''g'a'^f' | =f'g'f'c' b'^a'b'a' b'g'=a'^f' | =f'g'f'c' =d'c'd'c' d'gaf |
+=fgc'b' b'g'a'f' =f'g'c'b | ac'f'c'' c''a'b'g' f'a'=d'c' | b=d'=gf =f^gcB A4 | afbf c'f=d'f c4 |
+faga aaga faea | daea faga aafa | gagf ee'd'e' c'e'be' | ^ae'be' c'e'd'e' e'e'c'e' |
+d'e'd'c' bc'd'e' f'g'a'f' | b'bab gbfb eb=db | cefg abc'=d' e'f'g'e' | a'aga faea daca |
+Bdef gabc' d'e'f'd' | g'e=de ceBe AeGe | A4 c'e'a'g' a'f'c'e' | B4 d'f'a'g' a'f'd'f' |
+B4 be'g'f' g'e'be' | B4 c'e'^a'g' a'e'c'e' | d'b'^a'g' f'b'f'e' d'f'd'c' | bb'a'g' f'a'f'e' d'f'd'c' |
+ba'g'f' e'g'e'd' c'e'c'b | ag'f'e' d'f'd'c' bd'ba | ge'c'b ac'ag fafe | dfac' bd'f'g' a'g'a'f' |
+g'e'g'b' e''b'g'e' b4 | e''b'g'e' =d'e'c'e' d'e'be' | c'e'a'e' c'e'be' c'e'ae' | be'g'e' be'ae' be'ge' |
+ae'f'e' d'e'e'e' f'e'g'e' | [fd'a']6b'2 [Eebe'g']4 | [Aec']4 f'6e'2 | e'e''d''c'' b'd''a'd'' g'd''f'd'' |
+e'e'd'c' be'ae' ge'fe' | egbd' e'g'b'd'' e''b'g'e' | E12 |]
+V:S02
+x2e''d'' x8 | x12 | E4 x8 | x12 |
+E4 x8 | x12 | E4 x8 | x12 |
+E4 x8 | x12 | E4 x8 | x12 |
+E4 x8 | x12 | E4 x8 | x12 |
+E4 x8 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+E4 x8 | E4 x8 | G4 x8 | G4 x8 |
+x12 | x12 | =f4 x8 | =f4 x8 |
+F4 x8 | c4 x8 | G4 x8 | G4 x8 |
+G4 x8 | x12 | xfd'f x8 | xec'e x8 |
+xfd'f x8 | xec'e x8 | x=gc'g x8 | x=gc'g x8 |
+xgc'g x8 | xf=c'f x8 | c4 x8 | x12 |
+xfc'f x8 | xfc'f x8 | B4 x8 | x12 |
+x=d'e'd' x8 | E4 x8 | A4 x8 | x12 |
+A4 x8 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | ^A4 x8 | x12 | x12 |
+x12 | =c4 x8 | c4 x8 | F4 x8 |
+B4 x8 | B4 x8 | G4 x8 | =f4 x8 |
+x4 c4 =f4 | xg'a'f' xa'g'f' xg'f'=f' | x=f'^f'=d' xf'e'd' xe'd'c' | xc'=d'b xd'c'b xc'ba |
+=d4 x8 | c4 x8 | xafc x8 | c4 x8 |
+c4 x8 | c4 x8 | c4 x8 | c4 x8 |
+c4 x8 | F4 x8 | B4 x4xcfg | x6B2 xfg=f |
+F4 x8 | B4 x8 | E4 x8 | F4 x8 |
+B4 x4 A4 | G4 x8 | A4 x4 G4 | F4 x8 |
+G4 x4 F4 | E4 x8 | xec'b x8 | xfd'c' x8 |
+xgba x8 | x^ac'b x8 | B4 x8 | B4 x8 |
+d4 G4 E4 | F4 x4 d4 | E4 c4 A4 | B4 d4 B4 |
+e4 g4 xf'e''d'' | E4 x8 | E4 x8 | E4 x8 |
+F4 x2e2 d2c2 | B8 x4 | xa'g'a'/f'/ [Bbd']4 a4 | [Eg]4 x8 |
+x12 | x12 | x12 |]

@@ -1,0 +1,22 @@
+X:1
+T:18 Progressive Lessons, No. 4 · Op. 51
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=110
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+d8 e8 | d8 e2[G,d]2 [A,c]2[B,B]2 | A4 G4 c4 B4 | A2D2 ^C2D2 E2F2 G2A2 |
+B2D2 G2B2 c2A2 d2c2 | B2D2 G2B2 c2A2 d2c2 | G,8 ^d2e2 c2A2 | D8 A4 B,2A,2 |
+d8 e8 | d8 e2[G,d]2 [A,c]2[B,B]2 | A4 G4 c4 B4 | A2D2 ^C2D2 E2F2 G2A2 |
+B2G2 e2^c2 d2D2 A2=c2 | B2G2 e2^c2 d2D2 A2=c2 | B2d2 [A,c]2[CA]2 D4 D4 | G2D2 G2^G2 A2D2 A2^A2 |
+B2D2 G2B2 d2^c2 =c2A2 | G2D2 ^G2D2 A2D2 ^A2D2 | B2D2 G2B2 c2A2 c2f2 | [G,GBg]8 z8 |]
+V:S02
+B,2G2 F2G2 C2G2 F2G2 | B,2G2 F2G2 x8 | C2D2 B,2D2 A,2D2 G,2D2 | F,4 x12 |
+G,8 F,4 D4 | G,8 F,4 D4 | x2B2 c2d2 C4 x4 | x2G2 B2G2 [DF]2C2 x4 |
+B,2G2 F2G2 C2G2 F2G2 | B,2G2 F2G2 x8 | C2D2 B,2D2 A,2D2 G,2D2 | F,4 x12 |
+G,8 F,8 | G,8 F,8 | G,4 x6G2 x2F2 | G,4 x4 F,4 x4 |
+G,4 x4 F,4 x4 | G,4 B,4 C4 F,4 | G,8 D8 | x16 |]

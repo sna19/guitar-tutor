@@ -1,0 +1,48 @@
+X:1
+T:16 Studies for the Guitar: No. 15 · Op. 59 No. 15
+C:M. Giuliani
+M:3/8
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+[Bd] | [Bd]2[GB]2[Bd]2 | [Bd]2[GB]2[eg]2 | [Geg]2[Gdf]2[Gce]2 |
+[GBd]4[^G,Be]2 | c2A2[F,Ad]2 | B2G2[CAc]2 | D6 |
+[DFA]4[Bd]2 | [Bd]2[dg]2[Bd]2 | [Bd]2[dg]2[Bd]2 | [Geg]2[Gdf]2[Gce]2 |
+[GBd]4[^G,Be]2 | c2A2[F,Ad]2 | B2G2[CAc]2 | D6 |
+GDB,D^GD | ADA,D^AD | BDB,DGB | dDcDAD |
+GDB,DG^G | ADA,DA^A | BDB,DGB | dDcDAD |
+[G,G]2[DGBg]2[A,GBg]2 | [G,GBg]4[GB]2 | [FA]2[Af]2[Ge]2 | [Fd]2[E^c]2[Fd]2 |
+[A,F^d]2[^CGe]2[EGe]2 | [A,Ge]4A2 | A2[eg]2[df]2 | [^ce]2[=c^d]2[^ce]2 |
+[D^c=f]2[Fd^f]2[Adf]2 | [Ddf]4d2 | dDBDdD | dDADdD |
+^cdefge | fd^cded | dDBDBD | dDADdD |
+^cdefgc | d4D2 | D2D2[D^Ge]2 | [Ac]4[DFd]2 |
+[GB]4[DAc]2 | [FA]4D2 | D2D2[D^Ge]2 | [DAc]2[DAc]2[DFd]2 |
+[DGB]2[DGB]2[DAc]2 | [FA]6 | [GB]6 | [FA]6 |
+[G^A]6 | [DFA]2[DFA]2[DFA]2 | [DFA]4[Bd]2 | [Bd]2[GB]2[Bd]2 |
+[Bd]2[GB]2[Bd]2 | [Geg]2[Gdf]2[Gce]2 | [GBd]4[^G,Be]2 | c2A2[F,Ad]2 |
+B2G2[CAc]2 | D6 | GDB,D^GD | ADdDdD |
+GDB,D^GD | ADdDdD | [G,G]2[GBg]2[DGBg]2 | [B,GBg]2[DGBg]2[B,GBg]2 |
+[G,GBg]6 |]
+V:S02
+x | G,6 | G,6 | x6 |
+x6 | A,4x2 | G,4x2 | x2[GB]2[GB]2 |
+x6 | G,6 | G,4x2 | x6 |
+x6 | A,4x2 | G,4x2 | x2[GB]2[FA]2 |
+G,4x2 | F,4x2 | G,4x2 | F,6 |
+G,4x2 | G,4x2 | G,6 | G,6 |
+x6 | x6 | D4x2 | D6 |
+x6 | x6 | A,4x2 | A,4x2 |
+x6 | x6 | G,6 | F,6 |
+A,6 | D6 | G,6 | F,6 |
+A,6 | D2D2x2 | x6 | D2D2x2 |
+D2D2x2 | D2D2x2 | x6 | x6 |
+x6 | D2D2D2 | D2D2D2 | D2D2D2 |
+D2D2D2 | x6 | x6 | G,4x2 |
+G,4x2 | x6 | x6 | A,4x2 |
+G,4x2 | x2[GB]2[FA]2 | G,4x2 | F,2A,2A,2 |
+G,4x2 | F,2A,2A,2 | x6 | x6 |
+x6 |]

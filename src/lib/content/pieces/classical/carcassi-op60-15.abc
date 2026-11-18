@@ -1,0 +1,34 @@
+X:1
+T:Etude 15 · O 60
+C:M. Carcassi
+M:4/4
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+zEGE AEGE zGcG dGcG | zcec fcec zege aege | zfbf c'fbf zgd'g e'gd'g | zgc'g d'gc'g zege aege |
+zEGE AEGE zGcG dGcG | zcec fcec zeae beae | zc^fc gcfc zfd'f e'fd'f | zBgB aBgB z8 |
+zBdB eBdB zBdB eBdB | zcdc ecdc z^fc'f d'fc'f | zcdc ecdc zcdc ecdc | zBdB eBdB zgbg c'gbg |
+zBgB aBgB zBgB aBgB | zcfc gcfc zcfc gcfc | zded fded zdbd c'dbd | zec'e d'ec'e zcac bcac |
+zc^fc gcfc zcfc gcfc | zBgB aBgB z_BeB ^fBeB | zBdB eBdB zc^fc gcfc | zBgB aBgB z8 |
+zEGE AEGE zGcG dGcG | zcec fcec zege aege | ze_be c'ebe zeae beae | zege aege zdfd gdfd |
+zfbf c'fbf zfbf c'fbf | zec'e d'ec'e z^dad bdad | zege aege zFBF cFBF | zEcE zEcE zGeG fGeG |
+z^FdF zFdF zBgB aBgB | zcec zcec zec'e d'ec'e | zAdA ^cAdA zBgB aBgB | zEcE zEcE zGeG fGeG |
+z^FdF zFdF zBgB aBgB | zcec zcec zec'e d'ec'e | zAdA ^cAdA zBgB aBgB | zEcE eEcE zFBF gFBF |
+zEeE dEcE zFdF cFBF | zEcE eEcE zFBF gFBF | zEeE dEcE zFdF cFBF | zEcE BEcE zGce zGcg |
+z16 | z16 |]
+V:S02
+C8 E8 | G8 c8 | d8 f8 | e8 c8 |
+C8 E8 | A8 c8 | D8 D8 | G8 G,4 x4 |
+G8 G8 | ^F8 D8 | ^F8 D8 | G8 G8 |
+G8 G8 | A8 A8 | ^G8 E,8 | A,8 A,8 |
+D8 ^D8 | E8 ^C8 | D8 D8 | G8 G,2F2 E2D2 |
+C8 E8 | G8 c8 | c8 ^c8 | A,8 D8 |
+G8 ^G8 | A8 ^F8 | G8 G,8 | C4 C4 C8 |
+C4 C4 C8 | C4 C4 A8 | F8 G,8 | C4 C4 C8 |
+C4 C4 C8 | C4 C4 A8 | F8 G,8 | C8 C8 |
+C8 C8 | C8 C8 | C8 C8 | C8 C4 E4 |
+[Cegc']4 x4 [CEGc]4 [CGce]4 | [CEGc]8 x8 |]

@@ -1,0 +1,40 @@
+X:1
+T:16 Studies for the Guitar: No. 14 · Op. 59 No. 14
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+A2B2 | c2A2 d2B2 | e2c2 A2f2 | e2d2 B2^d2 |
+e2c2 A2B2 | c2A2 d2B2 | e2c2 a2g3/2g/ | [df]2[ce]2 [Bd]2[Ac]2 |
+[E,GB]4 A2B2 | c2A2 d2B2 | e2c2 A2f2 | e2d2 B2^d2 |
+e2c2 A2B2 | c2A2 d2B2 | e2c2 a2g2 | [df]2[ce]2 [Bd]2[Ac]2 |
+[E,GB]4 G2A2 | B2G2 c2A2 | d2B2 E2d2 | c2A2 E2c2 |
+B2G2 E2F2 | G2A2 B2c2 | d2B2 e2d2 | c2A2 e2c2 |
+B2G2 B2e2 | f2B2 g2f2 | e2G2 B2e2 | f2B2 g2f2 |
+E,4 B2e2 | E,4 B2e2 | E,4 =c2f2 | E,4 d2g2 |
+E,4 e2a2 | E,4 e2a2 | E,4 e2b2 | E,4 e2^a2 |
+[E,deb]4 A2B2 | c2A2 d2B2 | e2A2 c2e2 | =g2e2 a2g2 |
+f2d2 f2a2 | g2e2 g2b2 | a2e2 c2A2 | e2d2 B2G2 |
+A,4 c2e2 | d2B2 d2e2 | c2A2 c2e2 | d2B2 d2e2 |
+A,4 F4 | D4 E4 | A,4 c2e2 | a2e2 c2e2 |
+A,4 z4 | [A,Aca]4 z4 | [A,CEA]8 |]
+V:S02
+x4 | A,4 x4 | A,4 x4 | E,4 x4 |
+A,4 x4 | A,4 x4 | A,4 x4 | A,4 x4 |
+x8 | A,4 x4 | A,4 x4 | E,4 x4 |
+A,4 x4 | A,4 x4 | A,4 x4 | A,4 x4 |
+x8 | E,4 x4 | E,4 x4 | E,4 x4 |
+E,4 x4 | E,4 x4 | E,4 x4 | A,4 x4 |
+E,4 x4 | [E,A]4 x4 | E,4 x4 | [E,A]4 x4 |
+x2G2 x4 | x2G2 x4 | x2A2 x4 | x2B2 x4 |
+x2c2 x4 | x2c2 x4 | x2d2 x4 | x2c2 x4 |
+x8 | A,4 x4 | A,4 x4 | A,4 x4 |
+D4 x4 | E,4 x4 | A,4 x4 | E,4 x4 |
+x2A2 x4 | E,4 x4 | A,4 x4 | E,4 x4 |
+x2[Ac]2 x2[Ac]2 | x2[AB]2 x2[GB]2 | x2A2 x4 | x8 |
+x8 | x8 | x8 |]

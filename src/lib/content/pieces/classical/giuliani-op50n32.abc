@@ -1,0 +1,34 @@
+X:1
+T:Opus 50 No. 32 · Op. 50
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=144
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[Aa]4 c'2e'2 | d'c'd'f' e'2c'2 | [Aa']4 c'2e'2 | agac' b2e2 |
+[Aa]4 c'2e'2 | d'c'd'f' e'2c'2 | [Aa']4 c'2f'2 | e'^d'c'd' [Ge']4 |
+[Aa]4 c'2e'2 | d'c'd'f' e'2c'2 | [Aa']4 c'2e'2 | agac' b2e2 |
+[Aa]4 c'2e'2 | d'c'd'f' e'2c'2 | [Aa']4 c'2e'2 | ac'bg [Aa]4 |
+b'e'b'e' d''c''b'a' | g'e'e'e' a'e'e'e' | b'e'e'e' c''e'e'e' | e''d''c''d'' b'c'e'f' |
+b'e'b'e' d''c''b'a' | g'e'g'e' a'e'a'e' | a'e'b'e' c''e'a'=c'' | b'bc'^d' e'f'g'e' |
+a'2a'2 f'4 | b'2b'2 g'4 | a'2a'2 f'2f'2 | e'2f'2 g'4 |
+a'2a'2 f'4 | b'2b'2 g'4 | a'2a'2 f'2f'2 | e'^d'f'e' g'f'a'g' |
+b'a'g'f' e'd'c'b | [Aa]4 c'2e'2 | d'c'd'f' e'2c'2 | [Aa']4 c'2e'2 |
+agac' b2e2 | [Aa]4 c'2e'2 | d'c'd'f' e'2c'2 | [Aa']4 a2c'2 |
+ac'bg ac'e'a' | d4 E4 | [Aac'a']4 [Acea]2[Acea]2 | [Acea]4 z4 |]
+V:S02
+x4 A4 | A4 A4 | x4 A4 | A4 E4 |
+x4 A4 | A4 A4 | x4 A4 | A4 x4 |
+x4 A4 | A4 A4 | x4 A4 | A4 E4 |
+x4 A4 | A4 A4 | x4 A4 | A2E2 x4 |
+E4 A4 | E4 A4 | E4 A4 | E4 E4 |
+E4 A4 | E4 A4 | E4 A4 | E4 x4 |
+fbfb ^dbbb | gbgb ebbb | fbfb abab | gb^db ebbb |
+fbfb ^dbbb | gbgb ebbb | fbfb abab | [gb]4 x4 |
+x8 | x4 A4 | A4 A4 | x4 A4 |
+A4 E4 | x4 A4 | A4 A4 | x4 A4 |
+A2E2 A4 | x2[bd'f']2 x2[bd'g']2 | x8 | x8 |]

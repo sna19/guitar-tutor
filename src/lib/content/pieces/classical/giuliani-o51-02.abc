@@ -1,0 +1,24 @@
+X:1
+T:18 Progressive Lessons, No. 2 · Op. 51
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=120
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+e2f2 | g2e2c2 d4d2 | c2B2c2 G2c2B2 | A2B2c2 G2B2c2 |
+G4[B,F]2 E2G2c2 | B2A2G2 ^F2E2D2 | D2d2B2 A2c2e2 | e2d2B2 d2c2A2 |
+G6 G,4e2 | ^c6 [Gc]2[Fd]2[Ee]2 | [Df]2[Ed]2[A^c]2 [Fd]2f2d2 | B6 [FB]2[Ec]2[Dd]2 |
+[Ce]2[Ec]2[GB]2 [Ec]2c2d2 | ^d6 [C^F]2=d2c2 | B6 [G,G]2g2f2 | ^d6 [C^F]2=d2c2 |
+g6 g6 | g6 g6 | g6 [Fd]2e2f2 | g2e2c2 B2c2d2 |
+c2B2c2 A2e2d2 | c6 B6 | [CEGc]12 |]
+V:S02
+x4 | c4x2 B2e2x2 | F6 x6 | F6 E6 |
+D2G,2x2 C4x2 | G,6 A,6 | B,6 C6 | D6 D6 |
+G,2D2B,2 x2g2x2 | x2_B2A2 x6 | x12 | x2^G2=G2 x6 |
+x12 | x2[C^F]2[CF]2 x6 | x2[G,G]2[G,G]2 x6 | x2[C^F]2[CF]2 x6 |
+x2[B,G]2[B,G]2 x2[B,G]2[B,G]2 | x2[DB]2[DB]2 x2[^D^c]2[Dc]2 | x2[Fd]2[Fd]2 x6 | C6 D6 |
+E6 F6 | G,2E2G2 G,2D2G2 | x12 |]

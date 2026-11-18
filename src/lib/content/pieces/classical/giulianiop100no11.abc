@@ -1,0 +1,30 @@
+X:1
+T:24 Studies for the Guitar, No. 11 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+ze^de zeze zeze zeze | ze^de zeze zeze zeze | ze^de zez=d zeze zeze | ze^de zez=d zeze G,2ze |
+ze^de zeze zeze zeze | ze^de zeze zeze zeze | zGBG fGeG z3G zGzG | zGdG fGeG z3G zGzG |
+zGeG gGfG z3G zGzG | zGeG gGfG z3G zGzG | zAeA aAgA z3A zAzA | zGdG gGfG z3G zGzG |
+zFcF fFeF z3F zFzF | zEBE eEdE z3E zEzE | zEAE zEAE z^DAD zDAD | zE^GE BGeB ^gebg ebge |
+zEAE cAec aec'a ec'ae | zE^GE BGeB ^gebg ebge | zEAE cAec aec'a ec'ae | z^GBe zAce zGBe zAce |
+z^GBe zGBe zAce zGde | zAzA zAzA zAzA zAzA | ze^de =dece z8 | zdzd zdzd zdzd zdzd |
+zAdA fAeA z8 | zAcA fAeA zAcA fAeA | zABA fAeA z^GBG fGeG | ze^de zeze zede zeze |
+ze^de zeze zede zeze | ze^de zeze zeze zeze | ze^de zeze zeze zeze | zAzA zAzA zAzA zAzA |
+z16 | z16 |]
+V:S02
+A,4 c2B2 A2E,2 C2B,2 | A,4 c2B2 A2E,2 C2B,2 | ^G,4 d2c2 B2E,2 D2C2 | B,4 d2c2 B2E,2 ^G,eE,2 |
+A,4 c2B2 A2E,2 C2B,2 | A,4 c2B2 A2E,2 C2B,2 | G,8 DGG,2 D2C2 | B,8 DGG,2 B,2G,2 |
+C8 eGG,2 E2D2 | C8 eGG,2 E2D2 | ^C8 fAC2 D2=C2 | B,8 eGB,2 C2B,2 |
+A,8 dF_B,2 =B,2A,2 | ^G,8 cEG,2 A,2=G,2 | F,4 F,4 F,4 F,4 | E,16 |
+E,16 | E,16 | E,16 | E,4 E,4 E,4 E,4 |
+E,4 D4 C4 B,4 | A,2E,2 C2B,2 A,2E,2 C2B,2 | A,8 BeAe ^GeAe | D2A,2 F2E2 D2A,2 F2E2 |
+D8 dAfA eAdA | E,8 E,8 | E,8 E,8 | A,4 c2A2 E,4 d2B2 |
+A,4 c2[CA]2 E,4 d2[^G,B]2 | A,4 c2B2 A2E2 C2B,2 | A,4 c2B2 A2E2 C2B,2 | A,2E,2 C2B,2 A,2E,2 C2B,2 |
+A,8 [A,Ace]8 | [A,EAc]8 x8 |]

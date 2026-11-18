@@ -1,0 +1,34 @@
+X:1
+T:24 Studies for the Guitar, No. 14 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=120
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+z2Ad fdAz | z2^GB eBGz3=Gc ecGz | z2Fd adFz3DA dADz | z2Bd edBz3Ac gcAz |
+z2Ad fdAz3Ad fdAz | z2^GB eBGz3=Gc ecGz | z2Fd adFz3AB fBAz | z2AB eBAD z2^Gd edGz |
+z2Ac ecAz3Ad fdAz | z2Ac ecAz3Bd ^gdBz | z2Ac acAz3Ad fdAz | z2Ac ecAz3^Gd edGz |
+z2Ac ecAz3Ac ecAz | z2=ce aecz3cf afcz | z2Be geBz3Be geBz | z2=ce fecz3B^d fdBz |
+z2GB eBGz3GB eBGz | z2Be geBz3^Ae geAz | z2Ad fdAz3DA dADz | z2Bd edBz3Bd edBz |
+z2Ac ecAz3Ad fdAz | z2^GB eBGz3=Gc ecGz | z2Fd adFz3d=f bfdz | z2df afdz3ce aecz |
+z2Ad fdAz3A=c fcAz | z2GB gBGz3Gc ecGz | z2FA dAFD z2=F^G dGFz | z2FA dAFz3EA cAEz |
+z2FA dAFz3Gc ecGz | z2FA dAFz3Gc ecGz | z2FA dAFz3GA dAGz | z2FA dAFz3FA dAFz |
+z2FA dAFz3FA dAFz | z2Ad fdAz3df afdz | z2df d'fdz3df =c'fdz | z2dg bgdz3dg c'gdz |
+z2df d'fdz3df =c'fdz | z2dg bgdz3dg c'gdz | z2df d'fdz3df d'fdz | z2df afdz3Ad fdAz |
+z16 |]
+V:S02
+D7D | D7D D7D | D7D F,7F, | G,7G, A,7A, |
+D7D D7D | D7D D7D | D7D D7D | E8 E,7E, |
+A,7A, A,7A, | A,7A, A,7A, | A,7A, A,7A, | A,7A, A,7A, |
+A,7A, A,7A, | A,7A, ^D7D | E,7E, G,7G, | A,7A, B,7B, |
+E,7E, E,7E, | E,7E, C7C | D7D F,7F, | G,7G, ^G,7G, |
+A,7A, D7D | D7D D7D | D7D ^G7G | A,7A, A,7A, |
+D7D D7D | D7D D7D | B,8 B,7B, | A,7A, A,7A, |
+D7D D7D | D7D D7D | D7D D7D | A,7A, F,7F, |
+D7D D7D | D7D D7D | D7D D7D | D7D D7D |
+D7D D7D | D7D D7D | D7D D7D | D7D D7D |
+[DFAd]8 x8 |]

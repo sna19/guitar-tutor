@@ -1,0 +1,28 @@
+X:1
+T:Opus 50 No. 10 · Op. 50
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=144
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+f'2g'2 | a'2f'2 e'2d'2 | d'2c'2 e'2f'2 | g'2e'2 a'2g'2 |
+=f'2^f'2 f'2g'2 | a'2f'2 e'2d'2 | d'2c'2 e'2c'2 | c'2b2 d'2b2 |
+^g2a2 f'2g'2 | a'2f'2 e'2d'2 | d'2c'2 e'2f'2 | g'2e'2 a'2g'2 |
+=f'2^f'2 a'2g'2 | ^d'2e'2 g'2f'2 | c'2d'2 f'2d'2 | c'2b2 c'2a2 |
+d'2a2 d'2f'2 | e'2c'2 e'2g'2 | f'2a2 d'2f'2 | a'2^g'2 =g'2e'2 |
+d'2a2 d'2f'2 | e'2c'2 e'2g'2 | f'2a2 d'2f'2 | a'2^g'2 =g'2e'2 |
+d4 f'2d'2 | a4 f4 | d4 f'2d'2 | a4 f4 |
+d4 z4 | [Aac'e'a']4 z4 | [dd'f'd'']8 |]
+V:S02
+x4 | d4 x4 | A4 x4 | A4 x4 |
+d4 x4 | d4 x4 | A4 x4 | E4 x4 |
+A4 x4 | d4 x4 | A4 x4 | A4 x4 |
+d4 x4 | A4 x4 | d4 x4 | A4 x4 |
+d4 x4 | A4 x4 | d4 x4 | A4 x4 |
+d4 x4 | A4 x4 | d4 x4 | A4 x4 |
+x2d'2 x4 | x2d'2 x2a2 | x2d'2 x4 | x2d'2 x2a2 |
+x8 | x8 | x8 |]

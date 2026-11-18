@@ -1,0 +1,22 @@
+X:1
+T:Divertissements pour la guitare, n°1 Andante · O 1.1
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=84
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+B4 B4 c4 | d7[ce] d4 | [ce]4 [df]4 [eg]4 | [df]4 [ce]3d [GBd]4 |
+[Bg]4 [Bb]4 [Bd']4 | f6g/fe/ [Acf]2[Df]2 | [Bg]4 [Bb]4 [Bd']4 | f6g/fe/ [Acf]2[DAcf]2 |
+[EGBg]4 z2[A,G^c]2 [A,Gc]2[A,Gc]2 | [DFd]4 [DFd]4 z4 | [Ac]6[Ac][^GB] [F,Ac]2[DAc]2 | B2g2 [df]2[ce]2 [Bd]2[^A^c]2 |
+[Ac]6[Ac][^GB] [F,Ac]2[DAc]2 | [GB]2g2 [df]2[ce]2 [Bd]2[Ac]2 | [^GB]4 [GB]4 [GB]4 | [Ac]3[Bd] [ce]4 F4 |
+[GBd]3[CAc] [DGB]4 [DFA]4 | [CFA]4 [B,G]4 z4 |]
+V:S02
+[G,G]2D2 G2D2 A2D2 | [G,B]2G2 B2Gx B2G2 | G2G2 G2G2 G2G2 | G2G2 G2G2 x4 |
+G2D2 G2D2 G2D2 | [Ac]2D2 [Ac]2D2 x4 | G2D2 G2D2 G2D2 | [Ac]2D2 [Ac]2D2 x4 |
+x12 | x12 | F,2D2 F,2D2 x4 | [G,G]4 x8 |
+F,2D2 F,2D2 x4 | G,4 x8 | x2=F2 E2D2 C2B,2 | A,4 x7[ce] |
+x12 | G,8 x4 |]

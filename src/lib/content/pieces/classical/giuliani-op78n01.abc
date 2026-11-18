@@ -1,0 +1,30 @@
+X:1
+T:Divertissements, No. 1 · Op. 78 No. 1
+C:M. Giuliani
+M:3/4
+L:1/16
+Q:1/4=84
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+e6[Ed][Gc] B2c2 | ^c4 d2g2 ^f2=f2 | e4 C4 BAfd | c4 BG^FG ABcd |
+e6[Ed][Gc] B2c2 | ^c4 d2g2 ^f2=f2 | ecAd c4 B4 | d8 [Cc]2x2 |
+e6[^Gf][Be] e2e2 | e6[Af][Ce] e2e2 | E,4 ^geba gf/x/e/x/d/x/ | cEAc BE^GB ABc^c |
+d6[A,e][Dd] d2d2 | d6[B,e][Dd] d2d2 | d4 ^F,4 ^fedc | _B4 =BDGA Bcde |
+f6[De][Gf] [B,e][Gf][Dg][Gf] | ^d4 e2g2 ^f2e2 | B,2C2 D4 D4 | G6^G2 AdcA |
+G6^G2 AdcA | G2A2 G2A2 G2A2 | G,4 GBdc Bdfe | dcBA G^FAG =FEFD |
+e6[Ed][Gc] B2c2 | ^c4 d2g2 ^f2=f2 | e4 C4 BAfd | c4 BG^FG ABcd |
+e6[Ed][Gc] B2c2 | ^c4 d2g2 ^f2=f2 | ecAd c4 B4 | c6e2 d2g2 |
+c6e2 d2g2 | c4 c4 c4 | [CEGc]8 x4 |]
+V:S02
+CGEG CGz2 CGEG | B,GCG B,GG,G A,GB,G | CGEG zGdc F,4 | G,GEG G,4 z4 |
+CGEG CGz2 CGEG | B,GCG B,GG,G A,GB,G | C2F,2 G,GEG G,GDG | G,GFG B,GFG z4 |
+E,B^GB E,Bz2 E,BGB | A,cAC A,cz2 A,cAC | zBde E,4 z4 | A,4 E,4 A,2z2 |
+^F,DA,D F,Dz2 F,DA,D | G,DB,D G,Dz2 G,DB,D | ^F,DA,D zDag z4 | G,DB,D G,4 z4 |
+B,GDG B,Gz6 | CGEG CGEG DGCG | z[Gd]z[Ac] zGBg zAd^f | G,DB,D G,EB,D ^F,4 |
+G,DB,D G,EB,D ^F,4 | G,D^F,D G,DF,D G,DCD | zGBG z8 | z12 |
+CGEG CGz2 CGEG | B,GDG B,GG,G A,GB,G | CGEG zGdc F,4 | G,GEG G,4 z4 |
+CGEG CGz2 CGEG | B,GDG B,GG,G A,GB,G | C2F,2 G,GEG G,GEG | CGEG CGEG B,GG,G |
+CGEG CGEG B,GG,G | CGEG G,GEG E,GEG | z12 |]

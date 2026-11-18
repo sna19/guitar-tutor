@@ -1,0 +1,32 @@
+X:1
+T:12 Etudes, No. 8 · Op. 6 No. 8
+C:F. Sor
+M:3/4
+L:1/16
+Q:1/4=88
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+[Cce]4 [Ece]4 [Fce]4 | [Gd]8 [^ce]4 | [Ddf]4 [Fdf]4 [Gdf]4 | [Ae]8 [df]4 |
+[Eeg]4 [ce]4 [df]2[ce]2 | [Bd]4 [ce]2[Bd]2 [Ac]4 | [Bd]2[Ac]2 [^GB]4 [Ac]2[=GB]2 | [^FA]4 [B,Gd]4 [CGe]4 |
+[GB]4 [Ac]4 [D^FA]4 | [G,g]4 G4 F4 | E8 f3f | [Ce]8 [_B,^Gd]4 |
+^c4 a4 g3g | [Df]8 [EGe]4 | d4 a4 g3g | [df]8 [G_Be]4 |
+e4 d4 [^FAc]4 | [GB]4 [FAc]4 [DBd]4 | [ce]12 | [FAc]4 [Bd]4 [ce]4 |
+[df]12 | [GBd]4 [ce]4 [df]4 | [eg]12 | [Ace]4 [Fdf]4 [Dfa]4 |
+[ce]4 [df]4 [B,Bd]4 | [Cc]4 e4 [Dc^f]4 | [GBg]4 d4 [C_Be]4 | f4 c4 [FAd]4 |
+e4 B4 [A,G^c]4 | d4 A4 [G,FB]4 | [A,Ec]4 [F,Ad]4 [G,Fb]4 | [CEc]4 E4 a4- |
+a4 [Dg]4 g4- | g4 [Cf]4 f4- | f4 [B,e]4 e4- | e4 [A,d]4 d4- |
+d4 c4 c4- | c7/2c/ B2A2 B4 | [Cc]12 |]
+V:S02
+x12 | c4 B4 F2E2 | x12 | d4 c4 G2F2 |
+x4 A2G2 F4 | G2F2 E4 F2E2 | D4 E2D2 C4 | D2C2 x8 |
+D8 x4 | x12 | x4 g4 D4 | x4 G4 x4 |
+[A,A]8 [^Ce]4 | d4 A4 x4 | F2A6 [E^c]4 | D4 A4 x4 |
+[FA]8 x4 | x12 | C4 D4 E4 | x12 |
+D4 E4 F4 | x12 | E4 F4 G4 | x12 |
+G8 x4 | x12 | x12 | [FA]8 x4 |
+[E^G]8 x4 | [D^F]8 x4 | x12 | x8 [^Fc]4 |
+[GB]4 x4 [E_B]4 | [FA]4 x4 [DA]4 | [E^G]4 x4 [^C=G]4 | [D^F]4 x4 [B,=F]4 |
+[CE]8 [A,^F]4 | [G,D]2E2 F8- | F7/2F/ E2D2 E4 |]

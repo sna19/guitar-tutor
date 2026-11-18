@@ -1,0 +1,30 @@
+X:1
+T:24 Studies for the Guitar, No. 9 · Op. 100
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Ab
+V:S01
+zcea eczc | zdfa fdzd | zcea eczc | zcea eczc |
+zdeb edzd | zcea eczc | zBeg eBGB | zBeg eBGB |
+zcea eczc | zdeb edzd | zcea eczc | zdfb fdzd |
+zcea eczc | zBeg eBzB | zcea eczc | zc=eb eczc |
+zAcf cAzA | zBdf dBzB | zAcf cAzA | zAcf cAzA |
+zBcg cBzB | zAcf cAzA | zGc=e cGzG | zGc=e cGzG |
+zAcf cAzA | zBcg cBzB | zAcf cAzA | zBdg dBzB |
+zAcf cAzA | zGc=e cGzG | zAcf cAzA | zAcf cAzA |
+zAcf cAzA | z8 |]
+V:S02
+A6A2 | A6A2 | A6A2 | A6A2 |
+G6G2 | A6A2 | E8 | E8 |
+A6A2 | G6G2 | A6A2 | D6D2 |
+E6E2 | E6E2 | A6A2 | G6G2 |
+F6F2 | F6F2 | F6F2 | F6F2 |
+=E6E2 | F6F2 | C6C2 | C6C2 |
+F6F2 | =E6E2 | F6F2 | B,6B,2 |
+C6C2 | C6C2 | F6F2 | C6C2 |
+A,6A,2 | [F,Ace]8 |]

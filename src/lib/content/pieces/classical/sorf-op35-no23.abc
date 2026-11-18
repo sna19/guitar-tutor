@@ -1,0 +1,26 @@
+X:1
+T:Op. 35, Study No. 23 · Op. 35 No. 23
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x/G/B/B/x2 [Bg]2x2 |
+x2x/G/B/B/ x4 |]
+V:S02
+E,/E/B/B/E,z [eg]z[gb]z | E,/E/B/B/E,z [eg]z[gb]z | B,/A/B/B/B,z [Bg]z[Af]z | E,/E/B/d/E,z [GB]z[GB]z |
+E,/E/B/B/E,z [eg]z[gb]z | F,/F/d/d/F,z [FBd]z[FBd]z | F,/F/c/c/F,z [Fce]z[F^Ac]z | B,/F/d/B/B,z A,zF,z |
+B,/F/d/B/B,z B,zA,z | G,/G/d/d/G,z [=cdg]z[cdg]z | C/G/e/c/Cz [ceg]z[ceg]z | F,/F/c/c/F,z [ca]z[ca]z |
+G,/G/d/d/A,z [=cg]z[cdf]z | C/G/e/c/Cz [ceg]z[ceb]z | F/c/^a/e/Fz G/B/b/d/Gz | E/G/b/c/Ez [Fc^a]z[Fea]z |
+[Bdb]zB,/B/f/f/ B,zB2 | E,/E/B/B/E,z [eg]z[gb]z | E,/E/B/B/E,z [eg]z[gb]z | B,/A/B/B/B,z [Bg]z[Af]z |
+E,/E/B/B/E,z [GB]z[GB]z | E,/E/B/B/E,z [B=dg]z[Gdb]z | C/c/e/e/A,z [ac']z[c'e']z | B,2B,4[DAf]2 |
+[EGe]zB,2 E,2z2 |]

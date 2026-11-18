@@ -1,0 +1,14 @@
+X:1
+T:14 Canons - 3 · BWV 1087
+C:J. S. Bach
+M:2/4
+L:1/16
+Q:1/4=60
+%%score (S01)
+V:S01 clef=treble-8
+K:G
+V:S01
+z4 G4 | F4 E4 | D4 [B,d]4 | [Ce]4 [Df]4 |
+[G,g]4 [Gb]4 | [Fa]4 [Eg]4 | [Dd']4 [B,d]4 | [Ce]4 [Df]4 |
+[G,g]4 [Gb]4 | [Fa]4 [Eg]4 | [Dd']4 [B,d]4 | [Ce]4 [Df]4 |
+[G,g]8 |]

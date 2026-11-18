@@ -1,0 +1,36 @@
+X:1
+T:Six Petites Pièces, No. 3 · Op. 4, No. 3
+C:D. Aguado
+M:3/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[A,ca]2- | [A,ca]2[EBdg]4z4[E,db]2- | [E,db]2[A,ca]4ga ecA2- | AGA2 [G,EB]2[A,Ec]2 [A,F^d]2[E,Ge]2- |
+[E,Ge]2z2 e2^de fed'2- | d'4 c'bag fed2- | d6[FAc]4B3/2d/- | d/f3/2A3/2B/ A2c3B[A,CA]2- |
+[A,CA]2z8[A,ca]2- | [A,ca]2[EBdg]4z4[E,db]2- | [E,db]2[A,ca]4ga ecA2- | AGA2 [G,EB]2[A,Ec]2 [A,F^d]2[E,Ge]2- |
+[E,Ge]2z2 e2^de fed'2- | d'4 c'bag fed2- | d6[FAc]4B3/2d/- | d/f3/2A3/2B/ A2c3B[A,CA]2- |
+[A,CA]2z8c'2 | c'c'c'2 [c=fc']2[^d^f=c']2 [=fgb]2[^fa]2 | [CBg]2[FAf]4fg a^ab2 | bbb2 [B^db]2[ce^a]2 [df=a]2[eg]2 |
+[B,Af]2[EGe]4^de fe[^D=ca]2- | [^D=ca]2g3e^de fe[Egd']2- | [Egd']2[Fac']4a2 b=c'^d2- | ^d8-d2e2- |
+e4 [Be]2b3^de2- | e4 [Be]2b3^d[E,Ge]2- | [E,Ge]2z2 e2a3a[Edg]2- | [Edg]2b3Bd3d[Ac]2- |
+[Ac]2a3aa2 gfe2- | e2a3ce2 dB[A,CA]2- | [A,CA]2z8c'2 | c'c'c'2 [c=fc']2[^d^f=c']2 [=fgb]2[^fa]2 |
+[CBg]2[FAf]4fg a^ab2 | bbb2 [B^db]2[ce^a]2 [df=a]2[eg]2 | [B,Af]2[EGe]4^de fe[^D=ca]2- | [^D=ca]2g3e^de fe[Egd']2- |
+[Egd']2[Fac']4a2 b=c'^d2- | ^d8-d2e2- | e4 [Be]2b3^de2- | e4 [Be]2b3^d[E,Ge]2- |
+[E,Ge]2z2 e2a3a[Edg]2- | [Edg]2b3Bd3d[Ac]2- | [Ac]2a3aa2 gfe2- | e2a3ce2 dB[A,CA]2- |
+[A,CA]2z2 z8 |]
+V:S02
+x2 | x12 | x12 | x12 |
+x8x2[EB]2- | [EB]8-[EB]2x2 | x2[=FG]4x4[D^F]2- | [DF]2E7/2x/[E,D]4x2 |
+x12 | x12 | x12 | x12 |
+x8x2[EB]2- | [EB]8-[EB]2x2 | x2[=FG]4x4[D^F]2- | [DF]2E7/2x/[E,D]4x2 |
+x12 | x12 | x12 | x12 |
+x12 | x2[EB]4x6 | x12 | =c2B2 A2G2 A2[E,G]2 |
+B2G2 x2[B,A]2 B2[E,G]2 | B2G2 x2[B,A]2 B2x2 | x12 | x12 |
+x6[^D=c]4[E^c]2- | [Ec]4 x2[E,D]4x2 | x12 | x12 |
+x12 | x12 | x12 | x2[EB]4x6 |
+x12 | =c2B2 A2G2 A2[E,G]2 | B2G2 x2[B,A]2 B2[E,G]2 | B2G2 x2[B,A]2 B2x2 |
+x12 | x12 | x6[^D=c]4[E^c]2- | [Ec]4 x2[E,D]4x2 |
+x12 |]

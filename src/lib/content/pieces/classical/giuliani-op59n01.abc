@@ -1,0 +1,24 @@
+X:1
+T:16 Studies for the Guitar · Op. 59 No. 1
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+[GB]6 [G,B]2[B,^A]2[DB]2 | d4[D^c]2 =c4D2 | [GB]6 [G,B]2[B,^A]2[DB]2 | A2cBAG FEDCB,A, |
+[GB]6 [G,B]2[B,^A]2[DB]2 | d4[D^c]2 =c4D2 | [GB]6 [Ac]6 | [G,GB]2[B,GB]2[DGB]2 [G,GB]4z2 |
+c4[DA]2 d6 | B4[DG]2 d6 | [Ac]6 [GB]6 | A6 F,2A,2D2 |
+c4[DA]2 d6 | B4[DG]2 d6 | [Ac]2D2d2 [GB]2D2d2 | A2D2E2 F2G2A2 |
+[GB]6 [G,B]2[B,^A]2[DB]2 | d4[D^c]2 =c4D2 | [GB]6 [G,B]2[B,^A]2[DB]2 | A2cBAG FEDCB,A, |
+[GB]6 [G,B]2[B,^A]2[DB]2 | d4[D^c]2 =c4D2 | [GB]6 [Ac]6 | [G,GB]2[B,GB]2[DGB]2 [G,GBg]4z2 |]
+V:S02
+G,2B,2D2 x6 | F,2A,2x2 F,2A,2x2 | G,2B,2D2 x6 | [F,D]4x8 |
+G,2B,2D2 x6 | F,2A,2x2 F,2A,2x2 | G,2B,2D2 F,2A,2D2 | x12 |
+F,2A,2x2 F,2A,2D2 | G,2B,2x2 G,2B,2D2 | F,2A,2D2 G,2B,2D2 | F,2A,2D2 x6 |
+F,2A,2x2 F,2A,2D2 | G,2B,2x2 G,2B,2D2 | F,6 G,6 | F,6 x6 |
+G,2B,2D2 x6 | F,2A,2x2 F,2A,2x2 | G,2B,2D2 x6 | [F,D]4x8 |
+G,2B,2D2 x6 | F,2A,2x2 F,2A,2x2 | G,2B,2D2 F,2A,2D2 | x12 |]

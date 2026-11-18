@@ -1,0 +1,26 @@
+X:1
+T:16 Studies for the Guitar: No. 11 · Op. 59 No. 11
+C:M. Giuliani
+M:3/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+d | g4 d7[GB] | e4 c4 C4 | e4 d4 F,Dc2 |
+^A4 B4 G,Dd2 | d4 B4 G,Dd2 | d4 A4 F,4 | fege A,4 A,4 |
+D4 D2[Ddf]2 [Deg]2[Dfa]2 | [gb]4 D2[D^ce]2 [Ddf]2[Deg]2 | [fa]4 D2[DFd]2 [DGe]2[DAf]2 | fege A,4 A,4 |
+d4 D2df egfa | [gb]4 D2^ce dfeg | [fa]4 D2F2 G2A2 | fege A,4 A,4 |
+d2[ce]2 [Bd]2[Ac]2 [GB]2[DA]d | g4 d7[GB] | e4 c4 CGe2 | e4 d6c2 |
+^A4 B4 G,Dd2 | d4 A4 F,Dd2 | d4 B4 G,DB2 | BAce D4 D4 |
+[G,GBg]4 [G,B,DG]4 x4 |]
+V:S02
+z | B,GDG B,GDG B,GDz | CGEG CGEG zAce | F,DA,D F,DA,D z2A,D |
+G,DB,D G,DB,D z2B,D | G,DB,D G,DB,D z2B,D | F,DA,D F,DA,D zAdf | [G,B]4 zFAd zEA^c |
+zdAF z8 | D2D2 z8 | D2D2 z8 | [G,B]4 zEAd zEA^c |
+D2DD z2D2 D2D2 | D2DD z2D2 D2D2 | D2DD z3d zezf | [GB]4 z2[Fd]2 z2[E^c]2 |
+D4 z8 | B,GDG B,GDG B,GDz | CGEG CGEG z2EG | F,DA,D F,DA,D F,DA,D |
+G,DB,D G,DB,D z2B,D | F,DA,D F,DA,D z2A,D | G,DB,D G,DB,D z2B,D | C4 z2[GBg]2 z2[Adf]2 |
+z12 |]

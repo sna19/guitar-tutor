@@ -1,0 +1,24 @@
+X:1
+T:Opus 50 No. 17 · Op. 50
+C:M. Giuliani
+M:3/8
+L:1/16
+Q:1/4=132
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Gm
+V:S01
+[Gdb]2[Gdb]2[Gdb]2 | [cda]4[Bdg]2 | [Adc']2[Adc']2[Gdb]2 | [^Fda]4x2 |
+[^Fdad']2[Fdad']2[Fdad']2 | d'bd'g'b'2 | [eb_d']2[ead']2[egd']2 | [d^fd']6 |
+G6 | c4gd | A4bd | a4Ad |
+d'2d'2d'2 | d'4Bd | d'2g'2g'2 | c4d'g |
+e4c'a | G6 | c6 | d6 |
+d6 | [Gbd'g']4x2 | [^FAdad']2[FAdad']2[FAdad']2 | [GBdg]6 |]
+V:S02
+z6 | z6 | z6 | z6 |
+z6 | G4z2 | z6 | z6 |
+zdbdbd | zdadB2 | zdc'dG2 | ^FdAdz2 |
+^FdAdAd | GdBdz2 | =Bgdgdg | zge'gd2 |
+zg_d'g^F2 | zdbdbd | ze_ac'e'2 | zbd'g'b'2 |
+z^fad'^f'a' | z6 | z6 | z6 |]

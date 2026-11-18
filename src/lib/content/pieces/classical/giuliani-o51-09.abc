@@ -1,0 +1,26 @@
+X:1
+T:18 Progressive Lessons, No. 9 · Op. 51
+C:M. Giuliani
+M:3/4
+L:1/16
+Q:1/4=80
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+A,4 E2C2 E2C2 | A,4 c2e2 a2g2 | [A,f]4 F2D2 F2D2 | A,4 d2f2 a2f2 |
+[A,e]4 E2C2 E2C2 | A,4 c2e2 f2e2 | [E,d]4 B,2G,2 B,2G,2 | E,4 GEBE eEdE |
+c/z/efe de/z/Be GeBe | cefe/z/ deBe GeBe | C4 =f^fg/z/f/z/ cdFB | E,4 G2FE/E/ DCDB, |
+A,4 E2C2 E2C2 | A,4 c2e2 a2g2 | [A,f]4 F2D2 F2D2 | A,4 d2f2 a2f2 |
+[A,e]4 E2C2 E2C2 | A,4 c2e2 f2e2 | dBde gebd caec | ged/z/B/z/ fec/z/A/z/ edB/z/G/z/ |
+A,8 deBe | cAce agfe deBe | cBAB cdef gaec | ^ABdf ^decA e=dBG |
+AecA EcAE CAEC | A,4 [A,EAca]4 z4 |]
+V:S02
+xABA xAxA xAxA | xABA xAxA xAxA | xABA xAxA xAxA | xABA xAxA xAxA |
+xABA xAxA xAxA | xABA xAxA xAxA | xEFE xExE xExE | xEFE x8 |
+A,4 E,2G,2 B,2D2 | C4 E,2G,2 B,2D2 | xAce D8 | xCEA [E,B,]^Dx6 |
+xABA/x3/2AxA xAxA | xABA xAxA xAxA | xABA xAxA xAxA | xABA/x3/2AxA xAxA |
+xABA xAxA xAxA | xABA/x3/2AxA xAxA | E,4 E,4 A,4 | D4 E,4 E,4 |
+xAce ^defe E,2G,2 | A,8 E,2G,2 | A,8 A,4 | D4 E,4 E,4 |
+A,4 x8 | x12 |]

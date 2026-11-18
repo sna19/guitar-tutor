@@ -1,0 +1,34 @@
+X:1
+T:Etude 1 · O 60
+C:M. Carcassi
+M:4/4
+L:1/16
+Q:1/4=160
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+x2c2 x12 | x2e2 x12 | x2g2 x12 | x16 |
+x2G2 x12 | x2B2 x12 | x2d2 x12 | x16 |
+x2c2 x12 | x16 | x16 | x16 |
+x2A2 x12 | x16 | x16 | x16 |
+x2c2 x12 | x16 | x2e2 x12 | x16 |
+x2G2 B2e2 x8 | x2G2 B2f2 x8 | C8 G8 | A8 E8 |
+F8 x8 | E8 x8 | x2G2 x12 | x16 |
+x2G2 c2e2 x2B2 d2g2 | x2e2 g2c'2 x2B2 d2g2 | x2G2 c2e2 x2c2 ^d2a2 | x2c2 e2g2 x2d2 f2b2 |
+x2e2 g2c'2 x2B2 d2g2 | x2G2 c2e2 x2E2 ^G2d2 | x2E2 A2c2 x2F2 A2d2 | x2E2 G2c2 x2D2 G2B2 |
+x16 | x2c2 x12 | x2c'2 x12 | x2c2 x12 |
+x16 | x16 | x16 |]
+V:S02
+C4 B2A2 G2F2 E2D2 | C4 d2c2 B2A2 G2F2 | E4 f2e2 d2c2 B2A2 | G2^F2 E2D2 C2B,2 A,2D2 |
+G,4 ^F2E2 D2C2 B,2A,2 | G,4 A2G2 ^F2E2 D2C2 | B,4 c2B2 A2G2 F2E2 | D2C2 B,2A,2 G,2F2 E2D2 |
+C4 d2e2 f2g2 a2b2 | c'2b2 a2g2 f2e2 d2c2 | B2E,2 ^F,2^G,2 A,2B,2 C2D2 | E2^D2 E2F2 E2=D2 C2B,2 |
+A,4 B2c2 d2e2 ^f2^g2 | a2g2 f2e2 f2e2 d2c2 | B2G,2 A,2B,2 C2D2 E2^F2 | G2^F2 G2A2 G2=F2 E2D2 |
+C4 d2e2 f2e2 d2c2 | B2G,2 B,2D2 G2F2 E2D2 | C4 ^f2g2 a2g2 f2e2 | ^d2B,2 ^D2^F2 B2A2 G2F2 |
+E8 ^d2e2 d2e2 | D8 e2f2 e2f2 | e2g2 f2e2 d2f2 e2d2 | c2e2 d2c2 B2d2 c2B2 |
+A2B2 c2B2 c2^c2 d2c2 | d2e2 f2e2 d2c2 B2A2 | G,4 A2B2 c2d2 e2f2 | g2G,2 B,2D2 G2F2 E2D2 |
+C8 G8 | c8 G8 | C8 ^F8 | G8 G8 |
+c8 G8 | C8 B,8 | A,8 F,8 | G,8 G,8 |
+c2C2 D2E2 F2G2 A2B2 | C4 d2e2 f2g2 a2b2 | c4 b2a2 g2f2 e2d2 | C4 B2A2 G2F2 E2D2 |
+C4 z12 | [CEGc]4 z4 [CGce]4 z4 | [CEGc]8 z8 |]

@@ -1,0 +1,32 @@
+X:1
+T:Opus 50 No. 26 · Op. 50
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=144
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+d'e' | df'e'c Bd'c'A | G4 e'f'g'e' | d'c'ba ^gabc' |
+d'e'f'g' ^g'a'=g'e' | df'e'c Bd'c'A | G4 e'f'g'e' | d'c'ba ^gabc' |
+d4 d2c'd' | e'd'a'^g' f'e'd'c' | d'b^g'e' b'3d' | d'c'ba ^g'f'e'd' |
+e4 [^gb]2c'd' | e'c'a'^g' f'e'd'c' | d'b^g'e' b'g'e'd' | c'a'e'c' e'd'b^g |
+[Aa]4 e'd''b'e' | e'c''a'e' e'b'^g'e' | e'e''c''e' e'd''b'e' | e'c''a'e' e'b'^g'e' |
+[Aa']4 E4 | E4 E4 | E4 E4 | E4 E4 |
+a2^ga bac'b | d'c'e'd' f'e'g'f' | a'^g'=g'f' e'd'c'b | A4 bc'd'e' |
+df'e'c Bd'c'A | G4 e'f'g'e' | d'c'ba ^gabc' | d'e'f'g' ^g'a'g'e' |
+df'e'c Bd'c'A | G4 e'f'g'e' | d'c'ba ^gabc' | d'ad'f' a'2[Aac'g']2 |
+[ad'f']4 a2[Ae'g'c'']2 | [dd'f'd'']4 [dfad']2[dfad']2 | [dfad']4 z4 |]
+V:S02
+x2 | x8 | x^ab^d' x4 | A4 A4 |
+d4 x2A2 | x8 | x^ab^d' x4 | A4 A4 |
+xfad' x4 | A4 A4 | E4 E4 | A4 d4 |
+xac'e' E4 | A4 A4 | E4 E4 | A4 E4 |
+x4 E4 | E4 E4 | E4 E4 | E4 E4 |
+x4xed'b | xec'a xeb^g | xee'c' xed'b | xec'a xeb^g |
+A4 x4 | x8 | x8 | xa^ga x4 |
+x8 | x^ab^d' x4 | A4 A4 | d4 x2A2 |
+x8 | x^ab^d' x4 | A4 A4 | d4 x4 |
+dAdf x4 | x8 | x8 |]

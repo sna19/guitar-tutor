@@ -1,0 +1,22 @@
+X:1
+T:16 Studies for the Guitar: No. 13 · Op. 59 No. 13
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=88
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Em
+V:S01
+B | e2e2 e2e2 | e4 EBGB | f2f2 f2f2 |
+f4 ^DBAB | g4 f4 | e4 EBGB | F4 E4 |
+f4 ^DBf2 | =f2f2 f2f2 | e4 C4 | B,4 ^D4 |
+g4 EBg2 | f2f2 f2f2 | g4 A,4 | B,4 B,4 |
+E,4 B2G2 | E,4 B,2G,2 | E,4 [EGBe]4 | [G,B,EGBe]8 |]
+V:S02
+z | EBGB EBGB | EBGB z4 | ^DBAB DBAB |
+^DBAB z4 | EBGB ^DBAB | EBGB z4 | zBbB zBgB |
+^DBAB z2AB | DB^GB DBGB | CcAc zAce | zGBe zBfB |
+EBGB z2GB | ^DBAB DBAB | EBGB zAcf | zGBe zEB^d |
+zege zezB | zEGE zEzB, | z8 | z8 |]

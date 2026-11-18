@@ -1,0 +1,30 @@
+X:1
+T:Op. 35, Study No. 7 · Op. 35 No. 7
+C:F. Sor
+M:12/8
+L:1/16
+Q:1/4=110
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Em
+V:S01
+zG,B,EGB e2G2c2 z2[GBe]2[GBe]2 [GBe]2[GBe]2[GBe]2 | zG,B,EGB e2G2c2 z2[GBe]2[GBe]2 [GBe]2[GBe]2[GBe]2 | zG,CEAc e2A2c2 z2[Ace]2[Ace]2 [Ace]2[Ace]2[Ace]2 | zG,CEAc e2A2c2 z2[Ace]2[Ace]2 [Ace]2[Ace]2[Ace]2 |
+zA,B,^DAB f2A2B2 z2[ABf]2[ABf]2 [ABf]2[ABf]2[ABf]2 | zG,B,EGB e2G2B2 z2[GBe]2[GBe]2 [GBe]2[GBe]2[GBe]2 | zEGEcG e2c2G2 z2[Gce]2[Gce]2 [Gce]2[Gce]2[Gce]2 | zEGEBG e8[GBe]2[GBe]2 [GBe]2[GBe]2[GBe]2 |
+zEGE^cG e8[Gce]2[Gce]2 [Gce]2[Gce]2[Gce]2 | B,12 z2B,2B,2 z6 | zB,DB,GD B2G2D2 z2[DGB]2[DGB]2 [DGB]2[DGB]2[DGB]2 | zCECGE c2E2G2 z2[EGc]2[EGc]2 [EGc]2[EGc]2[EGc]2 |
+zA,DA,AD c2A2D2 z2[DAc]2[DAc]2 [DAc]2[DAc]2[DAc]2 | zB,DB,GD B2G2D2 z2[GB]2[Ac]2 z6 | zGcGec g2e2c2 z2[ceg]2[ceg]2 [ceg]2[ceg]2[ceg]2 | zGBGdB g2B2d2 z2[Bdg]2[Bdg]2 [Bdg]2[Bdg]2[Bdg]2 |
+zGcG^c=c g2e2c2 z2[ceg]2[ceg]2 [ceg]2[ceg]2[ceg]2 | zGBGdG g2B2d2 z2[Bdg]2[Bdg]2 [Bdg]2[Bdg]2[Bdg]2 | zEGEBG g2G2B2 z2[GBg]2[GBg]2 [GBg]2[GBg]2[GBg]2 | zEGEcG e2[Gc]2[Gc]2 z2[Ac]2[Ac]2 A,6 |
+zBdBdB g2[gb]2[gb]2 zAcAcA f2[Ac]2[Ac]2 | G,B,DGBG zBGBDB z12 | zDGBdB g2B2d2 z2[Bd]2[Bd]2 [Bd]2[Bd]2[Bd]2 | zFAFdA f2d2A2 z2[cf]2[cf]2 ^D6 |
+zGBGeB g2e2B4[^Ae]2[Ae]2 [Ae]2[Ae]2[Ae]2 | B,2^A,2B,2 C2B,2A,2 z12 | zG,B,EGB e2G2B2 z2[^Gde]2[Gde]2 [Gde]2[Gde]2[Gde]2 | zEAEcA e2c2A2 E2[Ac]2[Ac]2 z2[Ac]2[Ac]2 |
+zEGEBG e2[GB]2[GB]2 z^DADBA f2[AB]2[AB]2 | zB,EGBe zEGcec zEAcfc z^DABfB | zB,EGBe zEGcec zEAcfc z^DABfB | z24 |
+z24 |]
+V:S02
+E,12 E12 | E,12 E12 | E,12 E12 | E,12 E12 |
+E,12 ^D12 | E,12 E12 | C12 C12 | B,8G2B2 B,12 |
+^A,8G2^c2 A,12 | ^d2[FB]2[FB]2 [FB]2[^DB]2[DB]2 [DB]6 B,2C2A,2 | G,12 G,12 | G,12 G,12 |
+F,12 F,12 | G,12 G,6 [^A^c]2[Bd]2[Bd]2 | G,12 G12 | G,12 G12 |
+G,12 G12 | G,12 G12 | E,12 E12 | C12 C6 a2[ce]2[ce]2 |
+D12 D12 | g6 g6 G,6 x6 | G,12 G12 | D12 D6 [Bf]2[ABf]2[ABf]2 |
+E12 C12 | [B^d]12 B,2C2B,3/2B,/ A,2G,2F,2 | E,12 E12 | A,16-A,2 [A,f]6 |
+B,12 B,12 | E,6 C6 A,6 B,6 | E,6 C6 A,6 B,6 | E,G,B,EGB eBGBEG E,G,B,EGB eBGBEG |
+E,12 x12 |]

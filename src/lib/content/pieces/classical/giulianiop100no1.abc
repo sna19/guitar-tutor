@@ -1,0 +1,18 @@
+X:1
+T:24 Studies for the Guitar, No. 1 · Op. 100
+C:M. Giuliani
+M:4/4
+L:1/16
+Q:1/4=96
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+x2Gc x6Gd x4 | x2Gc x6GB x4 | x2Gc x6Ad x4 | x2Gc x6GB x4 |
+x2Gc x6^Gd x4 | x2Ac x6^Gd x4 | x2Ac x6Ac x4 | x2Ad x6Ad x4 |
+x2Ac x6^Gd x4 | x16 |]
+V:S02
+C4 ecGC B,4 fdBB, | C4 ecGC D4 fBGD | E4 ecGE F4 fdAF | G,4 ecGG, G,4 fBGG, |
+C4 ecGC B,4 ed^GB, | A,4 ecAA, B,4 ed^GB, | C4 ecAC A,4 ecAA, | D4 fdAD F4 fdAF |
+E4 ecAE E,4 ed^GE, | [A,Ac]8 z8 |]

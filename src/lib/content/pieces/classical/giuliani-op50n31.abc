@@ -1,0 +1,24 @@
+X:1
+T:Opus 50 No. 31 · Op. 50
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=132
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+a2b3/2a/ | c'3ba2 A4b3/2a/ | c'3ba2 A4b2 | c'2g2[cc']2 d'2g2[Gd']2 |
+e'3f'e'2 e'2f'2e'2 | e'2f'e'd'z [dab]2[dab]2[^dab]2 | [^gb]6 E4b3/2a/ | c'3ba2 e2a2b3/2a/ |
+c'3ba2 A4b2 | c'2b2[cc']2 d'2^c'2[Ggd']2 | e'2c'2a2 f'2d'2b2 | e6 E6 |
+[Aa]4a'2 ^g'2e'2=g'2 | ^f'2d'2=f'2 e'2b2d'2 | c'3ba2 b2d'2f'2 | e4a2 E4^g2 |
+a2e'2a'2 ^g'2e'2=g'2 | ^f'2d'2=f'2 e'2b2d'3/2d'/ | c'3ba2 b2d'2f'2 | e'2c'2a2 e'2d'2b2 |
+a2c'2e2 a2c2e2 | A6 [c'e'a']6 | A6 z6 |]
+V:S02
+x4 | A4x4a2x2 | A4x4a2x2 | e4x2 B4x2 |
+[cgc']6 [B^gd']6 | [Aac']6 x6 | e2^G2B2 x2a2x2 | A4x2 A4x2 |
+A4x4a2x2 | [eg]4x2 [Bg]4x2 | c6 d6 | x2a2c'2 x2^g2b2 |
+x6 A4x2 | A4x2 ^G4x2 | A4x2 d4x2 | x2c'2x4b2x2 |
+A4x2 c4x2 | A4x2 ^G4x2 | A4x2 d4x2 | e6 E6 |
+A6 x6 | x12 | x12 |]

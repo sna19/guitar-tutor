@@ -1,0 +1,36 @@
+X:1
+T:Six Petites Pièces, No. 6 · Op. 4, No. 6
+C:D. Aguado
+M:3/8
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+d2 | b3/2a/g2[DAcf]2 | g4e2 | [ec']3/2[db]/[ca]2[EB^g]2 |
+[ca]7/2b/a3/2c'/ | f2[Ac]f[Ace]3/2f/ | d'2d'/^c'=c'/b/ag/ | e2a2g/f/e/f/ |
+[G,Bg]4b3/2b/ | b2[B^d]2[Bdb]3/2f/ | bgefg^g | a2[A^c]2[Acg]3/2e/ |
+f2-f/de/f/ga/ | ^a4=ag | [DFf]d'2bge | [Ed]4[A,Ge]2 |
+[Fd]a^gafd | ^c4c2 | [Fd]efgba | ^c4c2 |
+[Fd]2d/e/f/g/a/b/c'/d'/ | b2g2[Ag^c']2 | [Dfd']2z2d2 | b3/2a/g2[DAcf]2 |
+[Bg]4e2 | [ec']3/2[db]/[ca]2[EB^g]2 | [ca]3ae'3/2e'/ | f2[Ac]/g/f[Ace]3/2f/ |
+a2a/ge/e/cA/ | e/dB/G2B3/2A/ | [G,G]4d2 | g/ab/b/c'd'/d'/e'f'/ |
+g'2g'/d'b/d'/bg/ | f/c'b/c'/af/d/ef/ | g/ba/g2g2 | g/fe/d/cB/A/BG/ |
+[DF]/DF/A/df/ad' | d'/c'b/b/ad/a/ge/ | [DFd]4d2 | [Ac]4[Ac]2 |
+[GB]/gf/g/dB/d/BG/ | [Ac]4[Ac]2 | [GB]2G/Bd/g/ba/ | ^g/ba/a/=fe/d/cB/ |
+c/Ae/c/ae/c'/ba/ | D4a/ba/ | [Bg]4z2 |]
+V:S02
+x2 | [GB]4x2 | [GB]2G,2x2 | x6 |
+A,4-A,3/2x/ | D6 | [GB]6 | [CA]4[DAc]2 |
+x6 | B,6 | [Ee]2x4 | A,6 |
+[Dd]2x4 | x2[^CG]2[CG]2 | x6 | A,2A,3/2f/x2 |
+D2x4 | x^A=AGFG | x6 | x^A=A^A=AG |
+x6 | G4x2 | x6 | [GB]4x2 |
+[G,G]2G2x2 | x6 | A,4x2 | D6 |
+x2[EB]2C2 | D4D2 | x6 | [GB]6 |
+[GB]6 | D6 | [GB]4x2 | [A,G]4^C2 |
+x6 | [Gg]2[Af]2[A,G^c]2 | x6 | xF,G,A,/C/D/A,F,/ |
+G,4x2 | xF,G,A,/C/D/A,F,/ | G,4x2 | [Ed]x4x |
+A,2x4 | x/Bd/g/bg/[Dc]2 | G2G,2x2 |]

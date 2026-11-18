@@ -1,0 +1,30 @@
+X:1
+T:8 Petites Pièces for Guitar, No. 8 · Op. 3 No. 8
+C:D. Aguado
+M:3/8
+L:1/16
+Q:1/4=78
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:E
+V:S01
+B3/2e/ | [Eg]4[B,Af]2 | ee/d/e/f/g/a/^a/b/c'/b/ | [ad']4[ge']2 |
+[Baf']4c3/2f/ | [Fa]4[CEBg]2 | [F,f]g/f/a/g/b/a/c'/b/d'/c'/ | ^a/b/g/e/B2[B,Ad]2 |
+[Ad]2[Ge]2B3/2e/ | g4fe | dfbd'c'b | ^ac'/d'/e'/d'/c'/b/a/g/f/e/ |
+e4[Bd]2 | Bd/f/b2[Da]2 | g/e/d/e/g/e/b/g/e'2 | c'a/f/[Be]2[B,Ad]2 |
+[E,Ge]4B2 | [B=g]4[Af]2 | [Ge]4=G,E, | [fa]4[Ae=g]2 |
+[df]4=d3/2d/ | =c'3b/a/=g/f/e/=d/ | =c4[E=GB]2 | [=Ce]4=c'3/2f/ |
+[=GB=g]4[gb]2- | [=gb]2[gb]2[fa]2- | [fa]4[e=g]2- | [e=g]2[eg]2[B,df]2- |
+[B,df]4a3/2d'/ | f'/e'd'/=c'/ba/[Be=g]2 | [B,Adf]2[=C=Ge]2[=cf]3/2a/ | =c'2[B,Fd]2[Af]2- |
+[Af]2[E,=Ge]2z2 |]
+V:S02
+x2 | x2B2x2 | [E,G]6 | x2B4 |
+x6 | x2[Ac]2x2 | [FA]2x4 | x6 |
+E4x2 | E2[GB]2[GB]2 | [B,B]6 | [Fc]6 |
+xFG^Ax2 | B,4x2 | E2x4 | A2x4 |
+x6 | x=GFEDB, | xE,=G,B,x2 | x=cAFGE |
+B2B,2x2 | x2[=DA]4 | x2[DA]2x2 | xaga[=DA]2 |
+x4x=G/F/ | =GABcx=d | c=dedx=G,/F,/ | E,F,=G,A,xB |
+^AB=cBcx | x6 | x4A,2- | A,2x2E2 |
+B,2x4 |]

@@ -1,0 +1,22 @@
+X:1
+T:Six Petites Pièces, No. 4 · Op. 4, No. 4
+C:D. Aguado
+M:3/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[CA]2- | [CA]2[CA]4[DB]4[Ec]2- | [Ec]4 [A,DB]2[A,CA]4[DB]2- | [DB]6[DB]4[DB]2- |
+[DB]A[A,CA]4z4[A,d]2- | [A,d]6[G,Ed]4c2- | c4-cde2 a2[Eg]2- | [Eg]6[Ea]4[EBg]2- |
+[EBg]2E,4z4E2- | EGB2 B2B2 B3/2d/[A=c]2- | [A=c]B[EGB]4z4A2- | Ace2 e2e2 e2f2- |
+fe[Ace]4z4A,C | E8-E2F,A, | C8-C2[Ae]2 | a4 a4 [dg]2[dg]2- |
+[dg]6[A,ca]4z2 |]
+V:S02
+A,2 | A,2A,2 A,2A,2 A,2A,2 | A,2A,2 x6E,2 | F,2G,2 F,2G,2 E,2A,2- |
+A,2x8F2- | F2=F4x4[A,E]2- | [A,E]4 x6B2 | c2d2 B2c2 A2x2 |
+x12 | x8x2^D2- | ^D2x2 x8 | x8x2[Gd]2- |
+[Gd]2x2 x8 | xA[ca]4[Bg]4x2 | xF[Af]4[G=f]4C2- | C2[DB]2 [^D=c]2[E^c]2 x2A2- |
+A2E4x6 |]

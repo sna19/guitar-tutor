@@ -1,0 +1,24 @@
+X:1
+T:Stille Nacht · n/a
+C:F. X. Gruber
+M:3/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+d'6e'2 d'4 | b12 | d'6e'2 d'4 | b12 |
+a'8 a'4 | ^f'12 | g'8 g'4 | d'12 |
+e'8 e'4 | g'6^f'2 e'4 | d'6e'2 d'4 | b12 |
+e'8 e'4 | g'6^f'2 e'4 | d'6e'2 d'4 | b12 |
+a'8 a'4 | c''6a'2 ^f'4 | g'8 g'4 | b'12 |
+g'4 d'4 b4 | d'6c'2 a4 | [Gg]12 |]
+V:S02
+G2d2 g8 | G2d2 g2d2 G2d2 | G2d2 g8 | G2d2 g2d2 G2d2 |
+d2a2 d'2^f'2 z4 | d2a2 d'2a2 d2a2 | G2d2 g2b2 z4 | G2d2 g2d2 G2d2 |
+c2e2 g2c'2 z4 | c2g2 c'8 | G2d2 g8 | G2d2 g2d2 G2d2 |
+c2e2 g2c'2 z4 | c2g2 c'8 | G2d2 g8 | G2d2 g2d2 G2d2 |
+d2a2 d'2^f'2 z4 | d2a2 d'8 | G2d2 g2b2 z4 | G2d2 g2d2 G2d2 |
+G2g2 z2g2 z2g2 | d2a2 ^f2z6 | z12 |]

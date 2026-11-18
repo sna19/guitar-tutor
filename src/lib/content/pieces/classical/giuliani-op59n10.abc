@@ -1,0 +1,28 @@
+X:1
+T:16 Studies for the Guitar: No. 10 · Op. 59 No. 10
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+GABG | [Ec]2[Cc]2 [B,d]2[G,d]2 | e2c2 [B,g]2[G,g]2 | e2c2 [B,g]2[G,g]2 |
+[Cce]4 fedc | cBdB BAcA | G4 A2A2 | B2G2 A2A2 |
+B4 d2d2 | B4 d2d2 | G4 GABG | c2c2 d2d2 |
+e2c2 cdec | f2f2 g2g2 | F4 ^C4 | gfef B,4 |
+fedc BAed | G,4 G,4 | c4 d2d2 | e2c2 d2d2 |
+e4 g2g2 | e4 g2g2 | e4 Bcdc | BAGF EDGF |
+F2E2 cedc | BAfd cedB | cGEG cGce | cGEG cGce |
+[Cc]4 [CEGce]4 | [CGc]8 |]
+V:S02
+F4 | x8 | C4 x4 | C4 x4 |
+x8 | D4 D4 | G,DB,D ^F,DA,D | G,DB,D ^F,DA,D |
+G,DB,D ^F,DA,D | G,DB,D ^F,DA,D | G,DB,D F,4 | E,GCG B,GG,G |
+CGEG _B,4 | A,cFc EcCc | xcac xAeg | D4 xGdf |
+C4 F,4 | xEGc xDGB | CGEG B,GDG | CGEG B,GDG |
+CGEG B,GDG | CGEG B,GDG | CGEG E,4 | F,4 G,4 |
+A,4 E,4 | F,4 G,4 | C4 C4 | C4 C4 |
+x8 | x8 |]

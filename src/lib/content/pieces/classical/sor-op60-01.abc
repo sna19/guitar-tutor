@@ -1,0 +1,14 @@
+X:1
+T:25 Leçons Progressives, no 1 · O 60
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=160
+%%score (S01)
+V:S01 clef=treble-8
+K:C
+V:S01
+c'8 b4 g4 | c'8 b4 g4 | c'4 d'4 e'4 g'4 | f'4 e'4 d'4 g4 |
+c'8 b4 g4 | c'4 e'4 d'4 b4 | a4 c'4 d4 ^f'4 | g'4 [dgb]4 G4 z4 |
+g'4 g4 e'4 g'4 | f'4 g4 d'4 f'4 | e'4 g4 c'4 e'4 | d'4 b4 g4 f4 |
+e4 g4 c'4 e4 | f4 a4 d4 f4 | e4 g4 G4 B4 | c4 [gc'e']4 c4 z4 |]

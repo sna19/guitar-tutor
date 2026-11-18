@@ -1,0 +1,22 @@
+X:1
+T:18 Progressive Lessons, No. 5 · Op. 51
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=92
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Em
+V:S01
+E,4 e4 | E,4 e4 | E,4 e4 | E,4 e4 |
+E,4 e4 | E,4 e4 | E,4 e4 | E,4 e4 |
+E,4 e4 | E,4 e4 | c[Bg][Af][Ge] [Cf]2[Cf]2 | [Ge][Bg][Af][Ge] [Cf]2[Cf]2 |
+e4 [Ge]2[Ge]2 | [Ge]GBe g2[^DABf]2 | e4 [Ge]2[Ge]2 | e4 B,2[^DABf]2 |
+[E,e]8 | [E,e]8 | [E,GBe]4 [E,B,EG]2[E,B,EG]2 | [E,B,E]8 |]
+V:S02
+z[GB][FA][EG] z[GB][FA][EG] | z[GB][FA][EG] z[GB][FA][EG] | z[Ec][DB][CA] z[Ec][DB][CA] | z[Ec][DB][CA] z[Ec][DB][CA] |
+z[GB][FA][EG] z[GB][FA][EG] | z[GB][FA][EG] z[GB][FA][EG] | z[Bd][Ac][^GB] z[Dd][Cc][B,B] | z[Bd][Ac][^GB] z[Dd][Cc][B,B] |
+z[ce][Bd][Ac] z[Fc][DB][CA] | z[ce][Bd][Ac] z[Fc][DB][CA] | E,4 ABAB | E,4 ABAB |
+[E,G]E^D=D ^C=CB,^A, | B,4 z4 | [EGB]E,=F,^F, G,^G,A,^A | [B,G]BGE z4 |
+[GB][GB][Ac][GB] [Ac][GB][Ac][GB] | [GB][B,G][Cc][B,G] [CA][B,G][CA][B,G] | z8 | z8 |]

@@ -1,0 +1,54 @@
+X:1
+T:24 Studies for the Guitar, No. 16 · Op. 100
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+c3c d3d | cBAG ^FGAB | c2c2 d2d2 | f4 eGce |
+g4 ^C4 | f4 B,4 | fedc BAfd | G,4 BGED |
+C4 F,4 | cBAG ^FGAB | c2c2 d2d2 | [df]4 eGce |
+g4 ^C4 | f4 B,4 | ecAd cGBG | [Ec]2zG ^FGAG |
+e2e2 f2f2 | e2dG ^FGAG | f2f2 g2g2 | f2ec Bcdc |
+fcec Bcdc | acgc Bcde | fGgG eGfG | [B,d]2zd ^cded |
+B2B2 c2c2 | B2Ad ^cded | c2c2 d2d2 | c2Bg ^fgag |
+BGcg ^fgag | ^cGdg ^fgag | ^fecA BdcA | G4 G2dg |
+^f2e2 d2c2 | B4 G4 | ^f2e2 d2c2 | B2B,D G2de |
+fGeG fGdG | e4 ceg^C | D4 D4 | [GBg]4 G4 |
+^f2e2 d2c2 | B4 G2dg | ^f2e2 d2c2 | B4 G2dg |
+fGeG fGdG | eGce fGdf | eGce fGdf | e2ge c2G2 |
+E2D2 ^C4 | D4 bgdB | D4 D4 | [GBg]2zG ^FGAG |
+BGBG cGcG | d3G ^FGAG | cGcG dGdG | e3G ^FGAG |
+dGdG eGeG | f2^FG FGeG | f2^FG FGeG | fGeG fGeG |
+fG^FG ^GA_B=B | c3c d3d | cBAG ^FGAB | c2c2 d2d2 |
+f4 eGce | g4 ^C4 | f4 B,4 | fedc BAfd |
+G,4 BGFD | C4 F,4 | cBAG ^FGAB | c2c2 d2d2 |
+[df]4 eGce | g4 ^C4 | f4 B,4 | ecAd cGBG |
+cGed cGBG | cGed cGBG | [Cc]2[CGce]2 [G,Gce]2[E,Gce]2 | [cgc'e']4 [cegc']4 |
+[CEGc]8 |]
+V:S02
+xEGx2FAx | D4 x4 | EGCG B,GG,G | xG,A,B, C4 |
+xGED xAeg | xFDC xGdf | C4 F,4 | xEGc G,4 |
+xEGc xFAd | G,4 x4 | EGCG B,GG,G | xG,A,B, C4 |
+xGED xAag | xFDC xGgf | C2F2 E2D2 | x8 |
+CGCG DGDG | CGB,2 x4 | DGDG EGEG | DGC2 x4 |
+A2G2 x4 | F2E2 x4 | D2B,2 C2D2 | x8 |
+G,DG,D A,DA,D | G,D^F,2 x4 | A,DA,D B,DB,D | A,DG,2 x4 |
+G,2A,2 x4 | _B,2=B,2 x4 | C4 D4 | xG,B,D xBx2 |
+dDcD BDAD | GG,B,D xBdg | dDcD BDAD | GG,x3Bx2 |
+D2C2 D2B,2 | xCEG C3x | xBdg xAd^f | xG,B,D xBdg |
+ADcD BDBD | GG,B,D xBx2 | ADcD BDBD | GG,B,D xBx2 |
+D2C2 D2C2 | C4 B,4 | C4 B,4 | C4 xexc |
+xGxG xG_Be | xBdg x4 | xAcg xAc^f | G,4 x4 |
+G,2G,2 A,2A,2 | B,4 x4 | A,2A,2 B,2B,2 | C4 x4 |
+B,2B,2 C2C2 | D6^C2 | D6^C2 | D2^C2 D2C2 |
+D4 x4 | xEGx2FAx | D4 x4 | EGCG B,GG,G |
+xG,A,B, C2x2 | xGED xAeg | xFDC xGdf | C4 F,4 |
+xEGc G,4 | xEGc xFAd | G,4 x4 | EGCG B,GG,G |
+xG,A,B, C4 | xGED xAag | xFDC xGgf | C2F2 E2D2 |
+C4 C2G,2 | C4 C2G,2 | x8 | x8 |
+x8 |]

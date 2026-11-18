@@ -1,0 +1,30 @@
+X:1
+T:25 Studies: No. 22 · O 60
+C:M. Carcassi
+M:6/8
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+ef^f | gecGEC gecGEC | c'afcAF c'afcAF | gfdBGF DB,G,^G,A,B, |
+CDEFGA Bcdef^f | gecGEC gecGEC | c'a^f^dcA ^F^DC_B,^F,C | B,EGBeg B,^FB^d^fb |
+EBegbe' [Ee]2ze^de | fedB^GE FEDB,^G,E, | fe^decA FE^DECA, | agfdBG AGFDB,G, |
+ag^fgec AG^FGEC | _B,CEG_Bc eg_bd'c'=b | c'bafcB dcAFCB, | _B,CEG_Bc eg_bd'c'=b |
+c'bafcB dcAFCB, | _B,^CEG_B^c eg^f/a/gfe | ^dB_B=B^f=d B^F=F^F^DB, | _B,^CEG_B^c eg^f/a/gfe |
+^dB_B=B^f=d B^F=F^F^DB, | B,2_B=B^f^d B2F^F^DB, | B,6 B,^F=F^F^DB, | B,6 B,^F=F^F=FD |
+B,2^D2^F2 B,2=D2F2 | G,4Bd gbd'c'ba | g^fag=fe/e/ d^cdef^f | gecGEC gecGEC |
+c'afcAF c'afcAF | gfdBGF DB,G,^G,A,B, | CDEFGA Bcdef^f | gecGFC gecGFC |
+c'a^f^dcA ^F^DCA,^F,C | G,CFGce G,DGBdg | CGcegc' [Cc]4z2 |]
+V:S02
+x3 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | xBx4 x^Fx4 | xB_B=B_B=B x6 | xB_B=B_B=B x6 |
+xBxBxB xBxBxB | xB,DGx8 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 |]

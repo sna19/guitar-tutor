@@ -1,0 +1,26 @@
+X:1
+T:18 Progressive Lessons, No. 10 · Op. 51
+C:M. Giuliani
+M:6/8
+L:1/16
+Q:1/4=120
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+g2 | g4[Gg]2 g4[Gg]2 | g6 C2E2[Gg]2 | e4[Ge]2 [B,g]2[Df]2[Gd]2 |
+c6 C2E2[Ge]2 | d4[Dd]2 d4[Dd]2 | d4[DB]2 A2c2e2 | D6 d2c2A2 |
+G6 G,4G2 | c4[Gc]2 c4[_Bc]2 | c6 C6 | d4[Dd]2 d4[Dd]2 |
+d6 G,4e2 | f4[B,f]2 [Ce]2[Dd]2[Ec]2 | B4[FB]2 [Ec]2[Dd]2[Ce]2 | A2f2d2 c2d2B2 |
+[Cc]2G2G2 G2G2G2 | G2[G,G]2[A,G]2 [B,G]2[CG]2[DG]2 | [EG]2[EGg]2[EGf]2 [EGe]2[EGd]2[EGc]2 | [EGB]2[EGd]2[EGc]2 [EGB]2[EGc]2[EGd]2 |
+c4G2 G2G2G2 | G2[GB]2[Gc]2 [Gd]2[Ge]2[Gf]2 | [Ge]2[Ge]2[FGe]2 [EGe]2[DGe]2[CGe]2 | [B,Gf]2[DGf]2[CGf]2 [B,Gf]2[A,Gf]2[G,Gf]2 |
+[CGe]2[G,Ge]2[^CGe]2 [DGf]2[G,Gf]2[B,Gf]2 | [CGe]2[G,Ge]2[^CGe]2 [DGf]2[G,Gf]2[B,Gf]2 | [CGe]4z2 [CEGce]6 | [CEGc]12 |]
+V:S02
+x2 | C2E2x2 B,2F2x2 | C2E2G2 x6 | C2E2x8 |
+C2E2G2 x6 | G,2B,2x2 ^F,2C2x2 | G,2B,2x2 C6 | x2G2B2 D6 |
+G,2D2B,2 x6 | C2E2x2 C2E2x2 | C2F2A2 x2c2^c2 | ^F,2A,2x2 F,2C2x2 |
+G,2B,2D2 x2d2x2 | B,2G2x8 | F2G2x8 | F,6 G,6 |
+x12 | x12 | x12 | x12 |
+[EG]2G2x8 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |]

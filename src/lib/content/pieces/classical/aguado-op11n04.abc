@@ -1,0 +1,36 @@
+X:1
+T:Les Favorites, No. 4 · Op. 11 No. 4
+C:D. Aguado
+M:2/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:D
+V:S01
+[dd']2z2 [Aa]2z2 | [Ff]2z2 [Dd]2z2 | cdef geag | fgef d2z2 |
+[dd']2z2 [Aa]2z2 | [Ff]2z2 [Dd]2z2 | cdef g^gac | [DFd]4 z4 |
+e2aa aaaa | f4 [DBd]2z2 | B2ee eeee | c4 [A,CA]2z2 |
+e2aa aaaa | [Df]6z2 | a3/2^gf3/2 e3/2fg3/2 | [A,ca]4 z4 |
+[dd']2z2 [Aa]2z2 | [Ff]2z2 [Dd]2z2 | cdef geag | fgef d2z2 |
+[dd']2z2 [Aa]2z2 | [Ff]2z2 [Dd]2z2 | cdef g^gac | [DFd]4 z4 |
+D3/2GB3/2 d3/2BG3/2 | D3/2GB3/2 d3/2BG3/2 | A3/2=cA3/2 F3/2AF3/2 | G3/2BG3/2 D4 |
+G3/2Bd3/2 d3/2=cB3/2 | B3/2AG3/2 G3/2FE3/2 | D3/2ED3/2 =C3/2B,A,3/2 | G,4 z4 |
+D3/2FA3/2 A3/2FD3/2 | D3/2GB3/2 B3/2GD3/2 | D3/2=cA3/2 D3/2BG3/2 | D3/2AE3/2 D4 |
+D3/2FA3/2 A3/2FD3/2 | D3/2G^A3/2 A3/2=AG3/2 | G3/2=F^D3/2 D3/2=DC3/2 | D4 z4 |
+D3/2GB3/2 d3/2BG3/2 | D3/2GB3/2 d3/2BG3/2 | A3/2=cA3/2 F3/2AF3/2 | G3/2BG3/2 D4 |
+G3/2Bd3/2 d3/2=cB3/2 | B3/2AG3/2 G3/2FD3/2 | D3/2ED3/2 =C3/2B,A,3/2 | G,4 z4 |]
+V:S02
+x8 | x8 | A,8 | D6x2 |
+x8 | x8 | [A,G]8 | x8 |
+[Ac]4 x4 | x8 | [E^G]4 x4 | x8 |
+[Ac]4 x4 | x4 [db]2x2 | [E,d]4 x4 | x8 |
+x8 | x8 | A,8 | D8 |
+x8 | x8 | [A,G]8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |]

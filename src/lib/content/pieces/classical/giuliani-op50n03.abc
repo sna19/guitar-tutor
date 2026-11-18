@@ -1,0 +1,28 @@
+X:1
+T:Opus 50 No. 3 · Op. 50
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=132
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+[cc'e']4 [cc'e']4 | [Bd'g']8 | [cc'e']4 [cc'e']4 | [Bd'g']8 |
+[ce']4 [ec']4 | a4 d'4 | [gc']4 [Gb]4 | [cc']8 |
+e'4 e'4 | g'8 | e'4 e'4 | g'8 |
+e'4 c'4 | a2b2 c'2d'2 | c'4 b4 | [cc']8 |
+c4 e4 | d4 B4 | c4 e4 | d4 B4 |
+c4 e4 | F8 | c'3/2ge3/2 b3/2gd3/2 | c4 c'4 |
+c8 | g'8 | c8 | g'8 |
+c4 e4 | f8 | G4 G4 | [cegc']8 |]
+V:S02
+z8 | z8 | z8 | z8 |
+z8 | f8 | z8 | z8 |
+c2g2 e2g2 | B2g2 d2g2 | c2g2 e2g2 | B2g2 d2g2 |
+c2g2 e2g2 | f4 z4 | e2g2 d2g2 | z8 |
+z3/2ge'3/2 z3/2gc'3/2 | z3/2gf'3/2 z3/2gd'3/2 | z3/2ge'3/2 z3/2gc'3/2 | z3/2gf'3/2 z3/2gd'3/2 |
+z3/2ge'3/2 z3/2gc'3/2 | z3/2fa3/2 d'3/2af3/2 | G4 G4 | z3/2eg3/2 z4 |
+zgeg c'ge'c' | Bgdg Bgdg | zgeg c'ge'c' | Bgdg Bgdf |
+zge'g zgc'g | zad'a e'ad'a | zec'e zdgb | z8 |]

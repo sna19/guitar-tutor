@@ -1,0 +1,42 @@
+X:1
+T:12 Etudes, No. 9 · Op. 6 No. 9
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Dm
+V:S01
+[Fd]2[E^c]2 [Fd]2[Ge]2 [Ae]2[Bg]2 [Af]2[Ge]2 | [Fd]2[E^c]2 [Fd]2[Ge]2 [Af]2[Fd]2 [Ge]2[Af]2 | [Bg]2[A_g]2 [B=g]2[A_g]2 [B=g]2[db]2 [ca]2[Bg]2 | [Bg]2[Af]2 [Af]2[Af]2 [_Ae]2[=Af]2 [Bg]2[Af]2 |
+[Ge]2[Fd]2 [E^c]2[Fd]2 [Ge]2[Bg]2 [Af]2[Ge]2 | [Ge]2[Fd]2 [Af]2[Ge]2 [Bg]2[Af]2 [_Ae]2[=Af]2 | [Ge]2[Fd]2 [E^c]2[Fd]2 [Ge]2[Bg]2 [Af]2[Ge]2 | [Ge]2[Fd]2 [Af]2[Ge]2 [Fd]2[Af]2 [Af]2[Af]2 |
+[Af]2[Ge]2 [Ge]2[Ge]2 [Ge]2[Fd]2 [Fd]2[Fd]2 | [Fd]2[E^c]2 [Ge]2[Fd]2 [Ec]4 z4 | [Ac]2[_A=B]2 [=Ac]2[_Bd]2 [Ac]2a2 [FBg]2[Af]2 | [Gf]2e2 [Bg]2[Af]2 [Ge]2[Fd]2 [Ec]4 |
+[Ac]2[_A=B]2 [=Ac]2[_Bd]2 [Ac]2a2 [FBg]2[Af]2 | [Gf]2e2 [Bg]2[Af]2 [Ge]2[Fd]2 [Ec]4 | [Ac]2[_A=B]2 [=Ac]2a2 [_Bg]2[Af]2 [F_Ae]2[=Af]2 | [ce]2[Bd]2 [A^c]2[Bd]2 [Bd]2[Gdb]2 [A=ca]2[Bdg]2 |
+g2f2 f2f2 [Ge]2[Af]2 [Bg]2[Ge]2 | [Af]12 z4 | [FAc]8 [_EG^c]8 | [_Gd]6[=Ge]2 [_Gd]2[=Ge]2 [A_g]2[B=g]2 |
+[ca]4 [ca]4 [ca]4 [ca]4 | [ca]2[Bg]2 [db]2[ca]2 [Bg]4 z4 | [GB]8 [^CF=B]8 | [Ec]6[D=B]2 [Ec]2[Fd]2 [Ge]2[Af]2 |
+[Bg]4 [Bg]4 [Bg]4 [Bg]4 | [FBg]8 [Af]4 E2D2 | [Af]2[Ge]2 [Ge]2[Ge]2 [Ge]8 | [Ge]2[Fd]2 [Fd]2[Fd]2 [Fd]2[Af]2 [Af]2[Af]2 |
+[Af]2[Ge]2 [Ge]2[Ge]2 [Ge]2[Fd]2 [Fd]2[Fd]2 | [A,E^c]8 a8 | [Ge]4 ^C4 [D_Gd]4 [D,Fd]4 | [A,E^c]8 a8 |
+[Ge]4 ^C4 [D_Gd]4 [D,Fd]4 | [A,E^c]8 a2a2 b2b2 | a2a2 _a2a2 =a2a2 _a2a2 | [^ca]2[ca]2 [d_a]2[da]2 [c=a]2[ca]2 [d_a]2[da]2 |
+[^ca]2a2 [Bg]2[Bg]2 [Af]2[Af]2 [Ge]2[Ge]2 | [Fd]2[E^c]2 [Fd]2[Ge]2 [Af]2[Bg]2 [Af]2[Ge]3/2[Ge]/ | [Fd]2[E^c]2 [Fd]2[Ge]2 [Af]2[Fd]2 [Ge]2[Af]2 | [Bg]2[A_g]2 [B=g]2[A_g]2 [B=g]2[db]2 [ca]2[Bg]2 |
+[Bg]2[Af]2 [Af]2[Af]2 [_Ae]2[=Af]2 [Bg]2[Af]2 | [Ge]2[Fd]2 [E^c]2[Fd]2 [Ge]2[Bd]2 [Ac]2[Ge]2 | [Ge]2[Fd]2 [Af]2[Ge]2 [Bg]2[Af]2 [_Ae]2[=Af]2 | [Ge]2[Fd]2 [E^c]2[Fd]2 [Ge]2[Bd]2 [Ac]2[Ge]2 |
+[Ge]2[Fd]2 [Af]2[Ge]2 [Fd]2[Ge]2 [A_g]2[B=g]2 | [ca]12 [ca]4 | [ca]2[Bg]2 [db]2[ca]2 [ca]2[Bg]2 [Af]2[Ge]2 | [Ge]2[Fd]2 [E^c]2[Fd]2 [Af]2[Ge]2 [Fd]2[Ec]2 |
+[Fd]2[E^c]2 [Fd]2[Ge]2 [A_g]2[Ge]2 [Ag]2[B=g]2 | [ca]12 [ca]4 | [ca]2[Bg]2 [db]2[ca]2 [ca]2[Bg]2 [Af]2[Ge]2 | [Ge]2[Fd]2 [Bg]2[Af]2 [Ge]2[Fd]2 [E^c]2[Ge]2 |
+[Fd]2[Af]2 [Bg]2[Af]2 [Ge]2[Fd]2 [E^c]2[Ge]2 | [Fd]2[Af]2 [Bg]2[Af]2 [Ge]2[Fd]2 [E^c]2[Ge]2 | [Fd]12 [Ge]4 | [Fd]12 [Ge]4 |
+[Fd]8 [Fd]8 | [D,Fd]16 |]
+V:S02
+D,12 D4 | D,12 D4 | D,12 D4 | D,12 D4 |
+A,12 A,4 | D,12 D4 | A,12 A,4 | D,12 D,4 |
+A,4 ^C4 D4 D,4 | A,12 x4 | F12 x4 | C4 x8 G2B2 |
+F12 x4 | C4 x8 G2B2 | F12 x4 | B,4 x12 |
+[Ac]4 x4 C4 x4 | x2F2 C2A,2 F,4 x4 | x16 | D8 x8 |
+x2D2 ^C2D2 E2D2 _G2D2 | G12 x4 | x16 | C8 x8 |
+x2C2 =B,2C2 D2C2 E2C2 | x8x2F2 x4 | A,8 x2A,2 ^C2A,2 | D8 x4 D,4 |
+A,4 ^C4 D4 D,4 | x2a2 a2a2 x2[E^c]2 [Fd]2[_G_e]2 | x2a4a4a4a2 | x2a2 a2a2 x2[E^c]2 [Fd]2[_G_e]2 |
+x2a4a4a4a2 | x2a2 a2a2 x8 | x4 d4 ^c4 d4 | x16 |
+x16 | D,12 D4 | D,12 D4 | D,12 D4 |
+D,12 D4 | A,12 A,4 | D,12 D4 | A,12 A,4 |
+D,12 x4 | x2D2 ^C2D2 E2D2 _G2D2 | G4 x12 | A,12 A,4 |
+D,12 D4 | D,2D2 ^C2D2 E2D2 _G2D2 | G4 x12 | A,12 A,4 |
+D,8 A,8 | D,8 A,8 | D,2A,2 D2A,2 D2A,2 ^C2A,2 | D,2A,2 D2A,2 D2A,2 ^C2A,2 |
+D,2A,2 D2A,2 D2A,2 D2A,2 | x16 |]

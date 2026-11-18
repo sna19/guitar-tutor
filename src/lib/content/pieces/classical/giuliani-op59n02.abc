@@ -1,0 +1,30 @@
+X:1
+T:16 Studies for the Guitar · Op. 59 No. 2
+C:M. Giuliani
+M:2/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+g2g2 | e2e2 f2f2 | d4 e2c2 | F8 |
+c2B2 g2g2 | e2e2 f2f2 | d4 e2c2 | F4 c2B2 |
+[Cc]4 efed | A,4 dedc | G,4 dGgG | C4 ADdD |
+cDBD dGgG | C4 BdcA | GDdD ^F,4 | BDdD ^F,4 |
+GDGB GDGB | GDGA BGcG | dG[G,B][A,c] dGeG | fG[B,d][Ce] fG[B,d][Ce] |
+f4 g2g2 | e2e2 f2f2 | d4 e2c2 | F8 |
+c2B2 g2g2 | e2e2 gfef | d4 e2c2 | ABcd c2B2 |
+cGgG B,4 | eGgG B,4 | C4 GcEG | C4 [CGce]4 |
+[CEGc]8 |]
+V:S02
+EGEG | CGCG DGDG | B,GDG CGEG | zABc defd |
+EGDG EGEG | CGCG DGDG | B,GDG CGEG | zAed EGDG |
+z4 [E,^G]4 | zEAc [^F,A]4 | zDGB B,4 | zGec ^F,4 |
+G,4 B,4 | zecA D2D2 | G,4 zDcA | G,4 zDcA |
+G,4 G,4 | G,4 G,2A,2 | B,2z2 B,2C2 | D2z2 D2z2 |
+DG^FG EGEG | CGCG DGDG | B,GDG CGEG | zABc defd |
+EGDG EGEG | CGCG D4 | B,GDG CGEG | F4 EGDG |
+C4 zGfd | C4 zGfd | zcec z4 | z8 |
+z8 |]

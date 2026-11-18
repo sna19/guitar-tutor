@@ -1,0 +1,36 @@
+X:1
+T:Op. 35, Study No. 19 · Op. 35 No. 19
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+[CEGc]8 | [DFGB]8 | [CEGc]8 | [B,FGd]8 |
+[_B,Gce]8 | [A,Acf]8 | [DAc^f]8 | [G,GBg]8 |
+g2g/gg/ g2g/gg/ | g2g/gg/ g2g/gg/ | g2g/gg/ g2[Gdg]2 | g2g/gg/ g2[Gdg]2 |
+[ceg]2[Gdg]2 [Ecg]2[ceg]2 | g2g4G2 | [ce]6[Gdg]2 | g2g/gg/ g2[Gdg]2 |
+[ceg]2g4[Gdg]2 | [Ec]6g2 | g2g/gg/ g2[Gdg]2 | g2g/gg/ g2[ceg]2 |
+[dfg]2[Gdg]2 [ceg]2[Ecg]2 | g2g/gg/ g2g2 | g2g/gg/ g2[Gdg]2 | g2g/gg/ g2[ceg]2 |
+[dg]2[Gdg]2 [ceg]2[Ecg]2 | g2g/gg/ g2g2 | g2g/gg/ g2[Gdg]2 | g2g/gg/ g2[Gdg]2 |
+[ceg]2[Gdg]2 [Ecg]2[ceg]2 | g2g/gg/ g2g2 | g2g/gg/ g2[G,Dg]2 | g2g/gg/ g2[G,Dg]2 |
+[CEg]2[CEg]2 [G,Dg]2[G,Dg]2 | [Ecg]2D/DD/ D2D2 | e8 | [Af]8 |
+d6[DB]2 | [Ec]8 | [E_Bc]8 | [FAc]8 |
+[F^GB]8 | [EGc]8 | [Ec]8 | [EGc]8 |
+[EGc]8 | [CEGc]8 |]
+V:S02
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | [ce]6x2 | [Ec]6x2 |
+x8 | [Gd]3[ce] [Gd]2x2 | x2g/gg/ g2x2 | [Ec]6x2 |
+x2[ce]2 [Gd]2x2 | x2g/gg/ g2x2 | [Gd]6x2 | [ce]6x2 |
+x8 | [Gd]4 G4 | [Gd]6x2 | [ce]6x2 |
+x8 | [Gd]6x2 | [ce]6x2 | [Ec]6x2 |
+x8 | [Gd]4 G4 | [CE]6x2 | [E,C]6x2 |
+x8 | x8 | [DG]2D/DD/ D2[D_B]2 | D2D/DD/ D2D2 |
+[DF]2D/DD/ D2x2 | D2D/DD/ D2D2 | D2D/DD/ D2D2 | D2D/DD/ D2D2 |
+D2D/DD/ D2D2 | D2D/DD/ D2D2 | D2D/DD/ D2D2 | D2D/DD/ D2D2 |
+D2D/DD/ D2D2 | x8 |]

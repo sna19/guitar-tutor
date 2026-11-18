@@ -1,0 +1,38 @@
+X:1
+T:8 Petites Pièces for Guitar, No. 5 · Op. 3 No. 5
+C:D. Aguado
+M:3/8
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Am
+V:S01
+z3/2a/a3/2b/ | c'3/2^f/a3/2^d/e3/2=d/ | c2[EA]3/2g/[Af]3/2e/ | e2[E^G]2[EGd]3/2B/ |
+d3/2z/[EA]3/2a/a3/2b/ | c'3/2b/a3/2g/^f3/2e/ | e2[FA]^d[Ad]3/2f/ | b2[AB]2[AB]3/2^d/ |
+[Be]7/2e/e3/2e/ | ^g2e2e3/2e/ | a2e2e3/2e/ | [^Gdb]2[Gdb]2[Acc']2 |
+d'3d'b3/2b/ | ^g3/2g/f3/2f/d3/2d/ | [^GB]6 | [Ac]4[E,D^GB]2 |
+[A,CA]4e3/2e/ | e2[A^c^c']2[Ac]b | b2[A^c]2[Aca]3/2^g/ | ^g2[Ad]^f[Ada]3/2f/ |
+e2[A^c]2e3/2e/ | e2[^Gdd']2[Gd]2 | e2[A^c^c']2[Ac]2 | B,6 |
+[E,^Ge]4[EG]3/2[EG]/ | [E^G]2[^FA]2[GB]2 | [Bd]2[A^c]2[^F_B]3/2[FB]/ | [^F_B]2[^G=B]2[_B^c]2 |
+[^ce]2[^GB]2[Bb]3/2[Bb]/ | [Bb]2[^c^c']2[dd']2 | [^f^f']3[ee'][^c^c']3/2[Aa]/ | E4[EBd^g]2 |
+a7/2a/a3/2b/ | c'3/2^f/a3/2^d/e3/2=d/ | c2[EA]3/2g/[Af]3/2e/ | e2[E^G]2[EGd]3/2B/ |
+d3/2z/[EA]3/2a/a3/2b/ | c'3/2b/a3/2g/^f3/2e/ | e2[FA]^d[Ad]3/2f/ | b4-b3/2^d/ |
+[Be]7/2e/e3/2e/ | ^g2e2e3/2e/ | a2e2e3/2e/ | [^Gdb]2[Gdb]2[Acc']2 |
+d'3d'b3/2b/ | ^g3/2g/f3/2f/c3/2d/ | [^GB]6 | [Ac]4[E,D^GB]2 |
+[A,CA]4z2 |]
+V:S02
+x4 | x6 | A,4E2 | E,6 |
+A,6 | x6 | B,4F2 | B,6 |
+[E,^G]4x2 | [E,d]4x2 | [E,c]4x2 | x6 |
+[EB]4x2 | x6 | xE,^F,^G,A,B, | C3/2D/E2x2 |
+x6 | A,6 | A,6 | A,6 |
+A,6 | E,4xb | A,4xb | x2[A^d]2[Ad]2 |
+x4E,2 | E,6 | A,4x2 | ^F,6 |
+B,4x2 | x6 | x6 | x2[^ca]2x2 |
+[A,^c]4x2 | x6 | A,4E2 | E,6 |
+A,6 | x6 | B,4F2 | B,2[GA]2[GA]2 |
+[E,G]4x2 | [E,d]6 | [E,c]4x2 | x6 |
+[EB]4x2 | x6 | xE,^F,^G,A,B, | C3/2D/E2x2 |
+x6 |]

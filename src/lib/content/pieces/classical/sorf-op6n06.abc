@@ -1,0 +1,82 @@
+X:1
+T:12 Etudes, No. 6 · Op. 6 No. 6
+C:F. Sor
+M:3/8
+L:1/16
+Q:1/4=74
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+[Ac]2[Bd]2[ce]2 | [df]2[eg]2[fa]2 | [eg]2[fa]2[gb]2 | [ac']2[bd']2[=c'^d']2 |
+[c'e']2[bd']2[ac']2 | [gb]2[fa]2[eg]2 | [df]2[ce]2[Bd]2 | [Ac]4[E,GB]2 |
+[Ac]2[Bd]2[ce]2 | [df]2[eg]2[fa]2 | [eg]2[fa]2[gb]2 | [ac']2[bd']2[=c'^d']2 |
+[c'e']2[bd']2[ac']2 | [gb]2[fa]2[eg]2 | [df]2[ce]2[Bd]2 | [Ac]4[E,GB]2 |
+e6 | e4[ce]2 | a6 | b6 |
+g4-g3/2b/ | [fa]2[=fg]2[^fa]2 | [^df]6 | [E,Ge]4z2 |
+e2f2=g2 | f6 | f6 | f6 |
+f2a2g2 | e6 | e6 | e6 |
+e2a2[Bdg]2 | g2f2f2 | g2f2f2 | e2d2d2 |
+e2d2d2 | c2B2B2 | c2B2B2 | G2e2e2 |
+e6 | e6 | [B^de]2e4 | [E,GB]6 |
+e6 | e6 | [B^de]2e4 | [E,GB]6 |
+e6 | [=FG]2[^FA]4 | e6 | [=G^A]2[^GB]4 |
+e6 | [GB]2[Ac]4 | e4[^Ac]2 | [^Ac]2[Bd]2e3/2f/ |
+e2^d2e2 | g2=g2^g2 | [gb]2[=g^a]2[^gb]2 | [E,bd']6 |
+[bd']2[ac']2[gb]2 | [fa]2[eg]2[df]2 | [ce]4[=c^d]2 | [Bd]4z2 |
+[=FBd]6 | [EBd]4z2 | [Ac]2[Bd]2[ce]2 | [df]2[eg]2[fa]2 |
+[eg]2[fa]2[gb]2 | [ac']2[bd']2[=c'^d']2 | [c'e']2[bd']2[ac']2 | [gb]2[fa]2[eg]2 |
+[df]2[ce]2[Bd]2 | [Ac]4[E,GB]2 | [Ac]2[Bd]2[ce]2 | [df]2[eg]2[fa]2 |
+[eg]2[fa]2[gb]2 | [ac']2[bd']2[=c'^d']2 | [c'e']2[bd']2[ac']2 | [gb]2[fa]2[eg]2 |
+[df]2[ce]2[Bd]2 | [Ac]4[E,GB]2 | e6 | e6 |
+e6 | [=c^de]2e4 | e6 | e6 |
+e6 | [=c^de]2e4 | a6 | a6 |
+b6 | b6 | c'6 | c'6 |
+[=fd']6 | [egd']4z2 | [gb]2[=g^a]2[^gb]2 | c'2e2[ac']2 |
+[bd']2e2[bd']2 | [=c'^d']2[^c'e']2[ac']2 | [gb]2e2[gb]2 | [ac']2e2[^ac']2 |
+[bd']2[^ac']2[bd']2 | [=c'^d']4[^c'e']2 | [c'e']2[bd']2[c'e']2 | [ac']2[gb]2[ac']3/2b/ |
+[fa]2[=fg]2[^fa]3/2g/ | [df]2[c=f]2[d^f]2 | [Bd]2[^Ac]2[Bd]2 | [Ac]2e2[Ac]2 |
+B2d2[GB]2 | A4A,2 | [Ac]2[Bd]2[ce]2 | [df]2[eg]2[fa]2 |
+g2e2b2 | a2e2c'2 | [Ac]2[Bd]2[ce]2 | [df]2[eg]2[fa]2 |
+g2e2b2 | [ca]6 | [Ac]2[Bd]2[ce]2 | [d=f]6 |
+g2e2b2 | [ca]4[A,e]2 | [Ac]2[Bd]2[ce]2 | [d=f]6 |
+g2e2b2 | [A,a]6 | g2e2b2 | a2c2e2 |
+g2e2b2 | a2e2c'2 | a2e2c'2 | [A,ca]6 |
+[A,ca]6 | [A,ca]6 |]
+V:S02
+A,6 | A,6 | A,6 | A,6 |
+A,6 | A,6 | D6 | x2E2x2 |
+A,6 | A,6 | A,6 | A,6 |
+A,6 | A,6 | D6 | x2E2x2 |
+[EG]2[FA]2[GB]2 | [Ac]2[B^d]2x2 | [B^d]2[ce]2[df]2 | [eg]2[^df]2[eg]2 |
+e2=c2^c2 | A,6 | B,2B2A2 | x6 |
+x6 | x2[F^A]2[GB]2 | [^Ac]2[Bd]2[ce]2 | [ce]2[=c^d]2[B=d]2 |
+x6 | x2[EG]2[FA]2 | [GB]2[Ac]2[Bd]2 | [Bd]2[Ac]2[Ac]2 |
+c4x2 | [Ac]6 | [GB]6 | [FA]6 |
+[EG]6 | [DF]6 | [^DF]6 | E4x2 |
+[EG]2[FA]2[GB]2 | [A=c]2[^A^c]2[Bd]2 | x2=c2[Ac]2 | x2e2e2 |
+[EG]2[FA]2[GB]2 | [A=c]2[^A^c]2[Bd]2 | x2=c2[Ac]2 | x2e2e2 |
+x2[EG]2[EG]2 | x4e2 | x2[FA]2[FA]2 | x4e2 |
+x2[GB]2[GB]2 | x4e2 | x2[Ac]2x2 | x6 |
+x6 | x6 | x6 | x6 |
+x6 | x6 | x6 | x6 |
+x6 | x6 | A,6 | A,6 |
+A,6 | A,6 | A,6 | A,6 |
+D6 | x2E2x2 | A,6 | A,6 |
+A,6 | A,6 | A,6 | A,6 |
+D6 | x2E2x2 | [EG]2[FA]2[GB]2 | [Ac]2[GB]2[Ac]2 |
+[Bd]2[^Ac]2[Bd]2 | x2c2[Ac]2 | [EG]2[FA]2[GB]2 | [Ac]2[GB]2[Ac]2 |
+[Bd]2[^Ac]2[Bd]2 | x2c2[Ac]2 | [Ac]2[Bd]2[ce]2 | [df]2[ce]2[df]2 |
+[B^d]2[ce]2[df]2 | [eg]2[^df]2[eg]2 | [c=f]2[^d^f]2[=fg]2 | [fa]2[=fg]2[^fa]2 |
+a2b2a2 | x6 | E,6 | [E,a]4x2 |
+E,6 | E,6 | E,6 | E,6 |
+E,6 | E,6 | A,6 | A,6 |
+A,6 | D6 | D6 | D6 |
+[E,G]4x2 | A,2A,2x2 | A,6 | A,6 |
+[A,Bd]6 | [A,c]6 | A,6 | A,6 |
+[A,Bd]6 | A,2A,2A,2 | A,6 | A,2A,2A,2 |
+[A,Bd]6 | A,2A,2x2 | A,6 | A,2A,2A,2 |
+[A,Bd]6 | x2c2e2 | [E,Bd]6 | A,6 |
+[E,Bd]6 | [A,c]6 | [A,c]6 | x6 |
+x6 | x6 |]

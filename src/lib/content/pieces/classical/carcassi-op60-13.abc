@@ -1,0 +1,26 @@
+X:1
+T:25 Studies: No. 13 · O 60
+C:M. Carcassi
+M:2/4
+L:1/16
+Q:1/4=60
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:A
+V:S01
+z/ce/e/ee/ z/Be/z/ce/ | z/ee/e/ee/ z/de/e/ee/ | z/de/e/ee/ z/ce/z/de/ | z/fe/e/ee/ z/ee/e/ee/ |
+z/ae/e/ee/ z/ge/z/fe/ | z/ee/z/de/ z/ce/z/Be/ | z/Ae/e/ee/ z/Ge/z/Ae/ | E,4 z/Be/e/ee/ |
+z/Ge/e/ee/ z/Ae/z/Be/ | z/ce/e/ee/ z/Be/e/ee/ | z/ee/e/ee/ z/^de/z/ce/ | z/ce/e/ee/ z/Be/e/ee/ |
+z/A^d/d/dd/ z/Ad/z/Ae/ | z/Af/f/ff/ z/AB/B/BB/ | z/Be/e/ee/ z/Ac/z/A^d/ | z/Af/f/ff/ z/Ge/e/ee/ |
+z/Bg/g/gg/ z/Af/f/ff/ | z/ca/a/aa/ z/Bg/g/gg/ | z/db/b/bb/ z/ca/z/Bg/ | z/Af/z/Ge/ z/A^d/z/B=d/ |
+z/ce/e/ee/ z/Be/z/ce/ | z/ee/e/ee/ z/de/e/ee/ | z/de/e/ee/ z/ce/z/de/ | z/fe/e/ee/ z/ee/e/ee/ |
+z/ae/e/ee/ z/ge/z/fe/ | z/ee/z/de/ z/ce/z/Be/ | z/Ae/z/^Af/ z/Bd/z/Ge/ | E4 z4 |]
+V:S02
+A4 G2A2 | c4 B4 | B4 ^A2B2 | d4 c4 |
+c4 B2A2 | G2F2 E2D2 | C4 B,2A,2 | A/ce/e/ee/ G4 |
+E4 F2G2 | A4 G4 | c4 B2A2 | A4 G4 |
+F4 F2E2 | ^D4 F4 | G4 A,2B,2 | E,4 E4 |
+E,4 E4 | E,4 E4 | E,4 E,2E,2 | E,2E2 F2G2 |
+A4 G2A2 | c4 B4 | B4 ^A2B2 | d4 c4 |
+c4 B2A2 | G2F2 E2D2 | C2F2 B,2E,2 | G/de/e/ee/ [A,Ace]2x2 |]

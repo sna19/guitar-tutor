@@ -1,0 +1,26 @@
+X:1
+T:Op. 35, Study No. 2 · Op. 35 No. 2
+C:F. Sor
+M:3/8
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:C
+V:S01
+[Ce]2 | f2d2[FB]2 | c2G2[CE]2 | D2G2F2 |
+E2G2[Ce]2 | gfd2[FB]2 | c2e2[EG]2 | A2d2[GB]2 |
+[Cc]2z2[Ce]2 | d2G2[A,c]2 | B2G2[Ce]2 | d2G2[A,c]2 |
+B2G4 | d2G4 | e2G2[ce]2 | ^gfe2[Dcf]2 |
+[GBg]2z2[Ce]2 | f2d2[FB]2 | c2G2[CE]2 | D2G2F2 |
+E2G2[Ce]2 | gfd2[FB]2 | g2e2[Ec]2 | d2A2[GB]2 |
+[Cc]2z4 |]
+V:S02
+x2 | D4x2 | E4x2 | B,6 |
+C4x2 | D4x2 | E4x2 | F4x2 |
+x6 | B,4x2 | G,4x2 | B,4x2 |
+G,4[A,c]2 | B,4[B,^d]2 | C4x2 | [Dc]4x2 |
+x6 | D4x2 | E4x2 | B,6 |
+C4x2 | D4x2 | E4x2 | F4x2 |
+x6 |]

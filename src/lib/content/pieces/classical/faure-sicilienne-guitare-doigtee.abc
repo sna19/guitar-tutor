@@ -1,0 +1,30 @@
+X:1
+T:Sicilienne · O 78
+C:G. Fauré
+M:6/8
+L:1/16
+Q:1/4=100
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:Bb
+V:S01
+D2 | GDGDBG dFBdg2 | bdgag2 acdcd2 | d3c=e2 d3ce2 |
+d_GAGAG d2A2D2 | GDGDBG dFBdf2 | _a_Acgf2 gG=BGf2 | =eGBG_e2 d_GAGB2 |
+G2GDGD G4D2 | GDGDBG dFBdg2 | bdgag2 acdcd2 | d3c=e2 d3ce2 |
+d_GAGAG d2A2D2 | GDGDBG dFBdf2 | _a_Acgf2 gG=BGf2 | =eGBG_e2 d_GAGB2 |
+G2GDGD G4z2 | =bGdga2 _bGcc'_d'2 | d'eaef2 gF_AFd2 | BB,DGA2 BEBc_d2 |
+d_GA=e_g2 [G,Bd=g]4z2 | =bGdga2 _bGcc'_d'2 | d'eaef2 gF_AFd2 | BB,DGA2 BEBc_d2 |
+d_GA=e_g2 [G,Bd=g]4z2 | gAeAe2 dGBGB2 | bB_dag2 aAcg_g2 | gAeAe2 dGBGB2 |
+BEAEB2 A2_GAd_g | gAeAe2 dGBGB2 | bB_dag2 aAcg_g2 | gAeAe2 dGBGB2 |
+BEAEB2 [D,A,DA]6 | GDGBdg [G,g']6 |]
+V:S02
+x2 | G,6 F,6 | =E6 F6 | B,FB4 B,FB4 |
+D,12 | G,6 F,6 | E,6 D,6 | C6 D,6 |
+G,6 x6 | G,6 F,6 | =E6 F6 | B,FB4 B,FB4 |
+D,12 | G,6 F,6 | E,6 D,6 | C6 D,6 |
+G,6 x6 | =E6 _E6 | F6 B,6 | E,6 C6 |
+D,6 x6 | =E6 _E6 | F6 B,6 | E,6 C6 |
+D,6 x6 | F6 G,6 | E6 D6 | F6 G,6 |
+C6 D6 | F6 G,6 | E6 D6 | F6 G,6 |
+C6 x6 | G,6 x6 |]

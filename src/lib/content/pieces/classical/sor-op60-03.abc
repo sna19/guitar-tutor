@@ -1,0 +1,16 @@
+X:1
+T:25 Leçons Progressives, no 3 · O 60
+C:F. Sor
+M:4/4
+L:1/16
+Q:1/4=160
+%%score (S01)
+V:S01 clef=treble-8
+K:C
+V:S01
+C4 B,4 C4 E4 | G4 G,4 G4 F4 | E4 D4 C4 D4 | B,4 A,4 G,4 A,2B,2 |
+C4 D4 E4 C4 | D4 E2^F2 G2A2 B2G2 | E4 C4 A,4 D4 | G,4 G2F2 E4 D4 |
+^C4 E4 A,4 B,2C2 | D4 E4 F4 G2A2 | _B4 G4 E4 A2G2 | F4 E4 D4 C4 |
+B,4 D4 G,4 G2F2 | E4 D4 C4 c2B2 | A2G2 ^F2E2 D2C2 B,2A,2 | G,4 B,2D2 G4 F4 |
+E4 D4 C4 D2E2 | F4 G4 A4 G4 | ^F4 E4 D4 E2F2 | G4 A4 B4 A4 |
+^G4 ^F4 E4 F2G2 | A4 B4 c4 B4 | A2G2 F2E2 D4 G4 | C4 c4 C4 z4 |]

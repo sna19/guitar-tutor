@@ -1,0 +1,32 @@
+X:1
+T:Op. 35, Study No. 5 · Op. 35 No. 5
+C:F. Sor
+M:2/4
+L:1/16
+Q:1/4=90
+%%score (S01 S02)
+V:S01 clef=treble-8 stem=up
+V:S02 clef=treble-8 stem=down
+K:G
+V:S01
+xBxc xdxe | xdxB xcxd | xexf xgxe | x^cxc xdxg |
+xBxc xdxe | xdxB xgxf | xexd xcxB | xAxd x^cx=c |
+xBxc xdxe | xdxB xgxf | xgxf xex^d | x^dxd xex2 |
+xgxf xgxe | xdxB xgxe | xdxB xcxA | xBxG x4 |
+xAxd xAxd | xBxd xBxd | xcxd xcxd | xBxd xBxd |
+xAxd xAxd | xBxd xBxd | x^cxe xcxe | xdxd x^cx=c |
+xBxc xdxe | xdxB xcxd | xexf xgxe | x^cxc xdxg |
+xBxc xdxe | xdxB xgxf | xexd xcxB | xAxd x^cx=c |
+xBxc xdxe | xdxB xbxa | xgxf xex^d | xdxe xgxf |
+xaxg xfxe | xexd xgxB | xdxc xBxA | xBxG x4 |]
+V:S02
+G2A2 B2c2 | B2G2 A2B2 | c2d2 e2c2 | ^A2G2 B2G2 |
+G2A2 B2c2 | B2G2 e2d2 | c2B2 A2G2 | F2D2 E2F2 |
+G2A2 B2c2 | B2G2 e2^d2 | e2d2 c2B2 | B2G2 c2G2 |
+e2^d2 e2c2 | B2G2 e2c2 | B2G2 A2F2 | G2D2 G,4 |
+F2D2 F2D2 | G2D2 G2D2 | A2D2 A2D2 | G2D2 G2D2 |
+F2D2 F2D2 | G2D2 G2D2 | G2D2 G2D2 | F2D2 E2F2 |
+G2A2 B2c2 | B2G2 A2B2 | c2d2 e2c2 | ^A2G2 B2G2 |
+G2A2 B2c2 | B2G2 e2d2 | c2B2 A2G2 | F2D2 E2F2 |
+G2A2 B2c2 | B2G2 g2f2 | e2d2 c2B2 | B2c2 e2^d2 |
+f2e2 d2c2 | c2B2 B2G2 | B2A2 G2F2 | G2D2 G,4 |]
