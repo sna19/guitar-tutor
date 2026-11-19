@@ -15,7 +15,7 @@
 
 <svelte:head><title>{t('program.title')} · {t('app.name')}</title></svelte:head>
 
-<header class="hd"><h1>{t('program.title')}</h1><a class="chip" href="/book">📖 {t('tab.book')}</a></header>
+<header class="hd"><h1>{t('program.title')}</h1><span class="acts"><a class="chip" href="/ear">👂 {t('ear.open')}</a><a class="chip" href="/book">📖 {t('tab.book')}</a></span></header>
 <p class="muted small">{t('program.intro')}</p>
 
 <div class="chips" role="tablist" aria-label={t('level')}>
@@ -59,6 +59,10 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+	}
+	.acts {
+		display: flex;
+		gap: 6px;
 	}
 	.hd a {
 		text-decoration: none;

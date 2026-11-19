@@ -37,6 +37,7 @@
 	{#each lt.tasks as x (x)}<li>{x}</li>{/each}
 </ol>
 <p class="card done"><b>{t('lesson.doneWhen')}</b> {lt.done}</p>
+{#if l.area === 'ear'}<a class="btn eargo" href="/ear">👂 {t('ear.title')}</a>{/if}
 
 {#if pieces.length}
 	<h2>{t('lesson.pieces')}</h2>
@@ -89,6 +90,12 @@
 		display: flex;
 		flex-direction: column;
 		gap: 6px;
+	}
+	.eargo {
+		display: inline-flex;
+		align-items: center;
+		text-decoration: none;
+		margin-bottom: 8px;
 	}
 	.done {
 		margin: 12px 0;

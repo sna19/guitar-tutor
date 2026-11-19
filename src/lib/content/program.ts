@@ -70,6 +70,10 @@ export const LESSONS: Lesson[] = [
 		r('Ноты гаммы ми минор на открытых струнах и первых ладах.', 'The E minor scale on open strings and the first frets.')
 	], ['ex:scale:E:minor'], r('Сыграть гамму ми минор по табулатуре вверх и вниз.', 'Play the E minor scale from tab up and down.')),
 
+	L(1, 'ear', 'core', 'ear-strings', r('Струны на слух', 'Strings by ear'), r('Узнавать открытые струны на слух — основа настройки без тюнера.', 'Recognise the open strings by ear — the basis of tuning without a tuner.'), [
+		r('Тренажёр слуха → «Струны»: 5 минут в день.', 'Ear training → “Strings”: 5 minutes a day.'),
+		r('Настройте гитару «по ладам»: 5-й лад 6-й струны = открытая 5-я, и так далее (на 3-й струне — 4-й лад).', 'Tune “by frets”: the 5th fret of the 6th string = the open 5th, and so on (on the 3rd string — the 4th fret).')
+	], ['ex:spider'], r('9 из 10 струн узнаны верно.', '9 of 10 strings named right.'), 5),
 	// ── 2. Песни у костра ────────────────────────────────────────────────────────────────────────────────────
 	L(2, 'technique', 'core', 'fingerpick', r('Перебор: p-i-m-a', 'Fingerpicking: p-i-m-a'), r('Большой палец — басы, i-m-a — тонкие струны.', 'The thumb plays the basses, i-m-a the treble strings.'), [
 		r('p — 6/5/4 струна (бас аккорда), i — 3-я, m — 2-я, a — 1-я.', 'p — 6th/5th/4th (the chord’s bass), i — 3rd, m — 2nd, a — 1st.'),
@@ -111,6 +115,10 @@ export const LESSONS: Lesson[] = [
 		r('Пентатоника ля минор, фразы заканчивайте на ля.', 'The A minor pentatonic; end phrases on A.')
 	], ['ex:prog:A7-D7-A7-E7:4', 'ex:penta:A'], r('Три квадрата блюза: ритм, потом соло.', 'Three choruses: rhythm, then a solo.'), 15),
 
+	L(3, 'ear', 'core', 'ear-intervals', r('Интервалы и аккорды на слух', 'Intervals and chords by ear'), r('Слышать терцию, квинту, октаву и мажор/минор — чтобы подбирать песни.', 'Hear thirds, fifths, octaves and major/minor — to pick out songs.'), [
+		r('Тренажёр слуха → «Интервалы», уровень 1, затем «Аккорды».', 'Ear training → “Intervals”, level 1, then “Chords”.'),
+		r('Подберите на слух бас первой строки знакомой песни.', 'Pick out by ear the bass of the first line of a song you know.')
+	], ['ex:prog:Am-C-G-Em:4'], r('8 из 10 верных ответов на уровне 1.', '8 of 10 right at level 1.'), 5),
 	// ── 4. Гриф целиком ──────────────────────────────────────────────────────────────────────────────────────
 	L(4, 'technique', 'core', 'scales-pos', r('Гаммы в позициях', 'Scales in positions'), r('Мажорные гаммы двумя октавами, апояндо и тирандо.', 'Two-octave major scales, rest and free strokes.'), [
 		r('Чередуйте i-m, не повторяйте один палец; темп постепенно до 100.', 'Alternate i-m, never repeat a finger; tempo up to 100 gradually.')
