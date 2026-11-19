@@ -34,6 +34,7 @@ const D = {
 	'tab.pieces': { ru: 'Ноты', en: 'Scores' },
 	'tab.chords': { ru: 'Аккорды', en: 'Chords' },
 	'tab.songs': { ru: 'Песни', en: 'Songs' },
+	'book.intro': { ru: 'Главы по направлениям: основы, классика, испанская гитара (самоучитель с компасами фламенко), поп и рок, джаз и блюз. В главах — аккорды со звуком, упражнения, пьесы и аккомпанемент.', en: 'Chapters by direction: basics, classical, Spanish guitar (a method with flamenco compás), pop and rock, jazz and blues. Inside: chords that sound, exercises, pieces and backing tracks.' },
 	'jam.title': { ru: 'Аккомпанемент для игры', en: 'Backing tracks' },
 	'jam.open': { ru: 'Backing tracks', en: 'Backing tracks' },
 	'jam.intro': { ru: 'Барабаны, бас и гитара играют сетку по кругу — играйте поверх: аккорды или соло. Свою сетку впишите аккордами через пробел.', en: 'Drums, bass and guitar loop the progression — play over it: chords or a solo. Type your own progression as chords separated by spaces.' },

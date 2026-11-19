@@ -217,3 +217,50 @@ export const PROGRESSIONS: { key: string; ru: string; en: string; chords: string
 	{ key: 'jazz', ru: 'Джаз: ii–V–I', en: 'Jazz: ii–V–I', chords: 'Dm7 G7 Cmaj7 Cmaj7', style: 'bossa' },
 	{ key: 'russian', ru: 'Минорный «дворовый»: Am–Dm–E–Am', en: 'Minor folk: Am–Dm–E–Am', chords: 'Am Dm E Am', style: 'ballad' }
 ];
+
+/**
+ * Flamenco compás: palmas on every beat, strong on the accents. Soleá and bulerías count 12 (bulerías usually
+ * starts on 12), tangos 4/4 with the palmas on 2–3–4, sevillanas 3/4 with the accent on 1.
+ */
+export const COMPAS: { key: string; ru: string; en: string; beats: number[]; accents: number[]; bpm: number; start?: number }[] = [
+	{ key: 'solea', ru: 'Солеа (12)', en: 'Soleá (12)', beats: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], accents: [3, 6, 8, 10, 12], bpm: 120 },
+	{ key: 'bulerias', ru: 'Булериас (12, с 12)', en: 'Bulerías (12, from 12)', beats: [12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], accents: [12, 3, 6, 8, 10], bpm: 210 },
+	{ key: 'tangos', ru: 'Тангос (4/4)', en: 'Tangos (4/4)', beats: [1, 2, 3, 4], accents: [2, 3, 4], bpm: 110 },
+	{ key: 'sevillanas', ru: 'Севильяна (3/4)', en: 'Sevillanas (3/4)', beats: [1, 2, 3], accents: [1], bpm: 160 }
+];
+
+export function playCompas(key: string, bpm: number, onBeat?: (n: number) => void): Player {
+	const c = audio();
+	const k = COMPAS.find((x) => x.key === key) ?? COMPAS[0];
+	const out = c.createGain();
+	out.gain.value = 0.9;
+	out.connect(c.destination);
+	let tempo = bpm;
+	let i = 0;
+	let next = c.currentTime + 0.1;
+	const timer = setInterval(() => {
+		while (next < c.currentTime + 0.15) {
+			const n = k.beats[i % k.beats.length];
+			const strong = k.accents.includes(n);
+			const at = next;
+			setTimeout(() => onBeat?.(n), Math.max(0, (at - c.currentTime) * 1000));
+			if (strong) {
+				clap(c, at, out);
+				kick(c, at, out);
+			} else noiseHit(c, at, out, { type: 'bandpass', freq: 2200, peak: 0.12, decay: 0.05 });
+			next += 60 / tempo;
+			i++;
+		}
+	}, 25);
+	return {
+		stop() {
+			clearInterval(timer);
+			out.gain.setTargetAtTime(0, c.currentTime, 0.05);
+			setTimeout(() => out.disconnect(), 400);
+			onBeat?.(-1);
+		},
+		setTempo(b: number) {
+			tempo = b;
+		}
+	};
+}
