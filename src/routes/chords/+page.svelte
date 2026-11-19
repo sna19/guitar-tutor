@@ -7,7 +7,7 @@
 
 <svelte:head><title>{t('tab.chords')} · {t('app.name')}</title></svelte:head>
 
-<header class="hd"><h1>{t('tab.chords')}</h1><a class="btn" href="/tuner">🎚 {t('tuner.open')}</a></header>
+<header class="hd"><h1>{t('tab.chords')}</h1><span class="acts"><a class="chip" href="/jam">🥁 {t('jam.open')}</a><a class="btn" href="/tuner">🎚 {t('tuner.open')}</a></span></header>
 <p class="muted small">{t('chords.intro')}</p>
 
 {#each GROUPS as g (g.key)}
@@ -29,6 +29,14 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+	}
+	.acts {
+		display: flex;
+		gap: 6px;
+		align-items: center;
+	}
+	.acts a {
+		text-decoration: none;
 	}
 	.hd .btn {
 		display: inline-flex;
